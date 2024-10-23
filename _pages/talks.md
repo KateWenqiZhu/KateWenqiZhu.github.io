@@ -34,10 +34,15 @@ nav_order: 20
 ### Service and Organization Contribution
 
 **Conference Organization**
+
 Session Chair in International Conference on Continuous Optimization ICCOPT 2025
+
 •	‘Advances in Nonlinear Optimization Methods and Applications’
+
 •	‘Techniques for Solving High-Dimensional and Nonlinear Optimization Problems’
 
 **Journal Reviewer**
+
 •	Optimization and Engineering, Mathematical Programming (2024)
+
 •	Mathematical Programming, IMA Journal of Numerical Analysis (2023)
