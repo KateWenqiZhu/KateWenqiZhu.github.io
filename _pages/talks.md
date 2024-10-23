@@ -6,6 +6,7 @@ nav: true
 nav_order: 20
 ---
 
+### Invited Talks, Mini-symposia and Research Visit
 
 1.	IMA Conference on Numerical Linear Algebra and Optimization, Birmingham, UK (Jul 2022)
 
@@ -30,3 +31,13 @@ nav_order: 20
 11.	OR66 Conference, Bangor University, UK (Sep 2024)
 
 
+### Service and Organization Contribution
+
+**Conference Organization**
+Session Chair in International Conference on Continuous Optimization ICCOPT 2025
+•	‘Advances in Nonlinear Optimization Methods and Applications’
+•	‘Techniques for Solving High-Dimensional and Nonlinear Optimization Problems’
+
+**Journal Reviewer**
+•	Optimization and Engineering, Mathematical Programming (2024)
+•	Mathematical Programming, IMA Journal of Numerical Analysis (2023)
