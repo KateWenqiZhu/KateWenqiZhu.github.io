@@ -30,21 +30,3 @@ nav_order: 20
 11.	OR66 Conference, Bangor University, UK (Sep 2024)
 
 
----
-layout: page
-permalink: /talks/
-title: Talks
-description: Service and Organization Contribution
-nav: true
-nav_order: 20
----
-
-
-**Conference Organization**
-Session Chair in International Conference on Continuous Optimization ICCOPT 2025
-•	‘Advances in Nonlinear Optimization Methods and Applications’
-•	‘Techniques for Solving High-Dimensional and Nonlinear Optimization Problems’
-**Journal Reviewer**
-•	Optimization and Engineering, Mathematical Programming (2024)
-•	Mathematical Programming, IMA Journal of Numerical Analysis (2023)
- 
