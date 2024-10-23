@@ -15,13 +15,13 @@ horizontal: false
 
 3. NeurIPS Workshop Spotlight Paper Award – The Benefits of Higher-Order Optimization in Machine Learning Workshop 2022
 
-4.	DPhil Studentship – Funded by INNOHK and CIMDA Centre partnership (£118,000) 2021-2025
+4.	DPhil Studentship – Funded by INNOHK and CIMDA Centre partnership 2021-2025
 
-5.	DTP Studentship* – Funded by UKRI-BBSRC and the partnership (£63,000) 2021-2025
+5.	DTP Studentship* – Funded by UKRI-BBSRC and the partnership 2021-2025
 
-6.	Industrial CASE Studentship* – Funded by Syngenta Group (£16,000) 2021-2025
+6.	Industrial CASE Studentship* – Funded by Syngenta Group 2021-2025
 
-7.	Catherine Hughes Fund Internship Award – Funded by Somerville College, Oxford (£1,250) 2021
+7.	Catherine Hughes Fund Internship Award – Funded by Somerville College, Oxford 2021
 
 8.	M.Sc. Prize for Excellence – Awarded by MMSC examining committee, Oxford 2021
 
