@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I enjoy teaching a wide range of subjects in applied mathematics and am passionate about explaining mathematical concepts in clear and accessible language to people without a mathematical background, especially young audience.
+description: I enjoy teaching a wide range of subjects in applied mathematics and am passionate about explaining mathematical concepts in clear and accessible language to people without a mathematical background, especially young audiences.
 nav: true
 nav_order: 15
 ---
 
-### Teaching at University of Oxford
+### Teaching at the University of Oxford
 
 **C6.2 Continuous Optimization**, Tutor, Mathematical Institute, 2023-24
 
@@ -19,7 +19,7 @@ Tutored 4th-year master's students in exam preparation, including office hour se
 
 **C6.1 Numerical Linear Algebra**, Tutor and Teaching Assistant, Mathematical Institute, 2021-23
 
-Tutored Oxford MSc students in Mathematical Modelling and Scientific Computing (class size: 1-2); marked example sheets and provided feedback; coordinated tutorials for the entire course; set mock exam papers and delivered revision classes. 36 contact hours.
+Tutored Oxford MSc Mathematical Modelling and Scientific Computing students (class size:  15-25); marked worksheets and provided feedback; coordinated tutorials for the entire course and delivered revision classes. 36 contact hours.
 
 ### Public Teaching and Outreach Activities
 
@@ -31,7 +31,7 @@ Tutored Oxford MSc students in Mathematical Modelling and Scientific Computing (
 
 **Public Lecturer and Founder of Mathematical Community** (2021–2024)
 
-•	Organized annual public mathematics courses for children (ages 8-13) and underrepresented groups (group sizes: 15-30).
+•	Organized annual public mathematics courses for children (ages 8-13) and underrepresented groups (group sizes: 30-200).
 
 •	Developing a 30-session course introducing mathematical concepts to individuals without prior mathematical backgrounds, making complex topics accessible.
 
