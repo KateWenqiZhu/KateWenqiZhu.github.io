@@ -6,28 +6,29 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <small> Office S2.23<small></p>
     <p> <small>Mathematics Institute<small></p>
     <p> <small>University of Oxford<small></p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am a [Royal Society Newton International Fellow](https://royalsociety.org/grants/newton-international/) at University of Oxford, and a Junior Research Fellow (JRF) at [Somerville College](https://www.some.ox.ac.uk/). Previously, I was a postdoctoral fellow in the VITA group funded by IFML at UT Austin, working with Atlas Wang. I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy and Decebal Constantin Mocanu. 
+Hi! I’m Kate Wenqi Zhu. I am currently doing a Ph.D. in Applied [Mathematics](https://www.maths.ox.ac.uk/groups/numerical-analysis) at the [University of Oxford](https://www.maths.ox.ac.uk/) under the supervision of Prof [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) fully funded by [CIMDA-Oxford studentship](https://cimda-oxford.datasig.ac.uk/team).
+
+Previously, I obtained an M.Sc. degree in Mathematical Modelling and Scientific Computing from Oxford, under the supervision of Yuji Nakatsukasa. I also completed my first master’s and undergraduate degrees in Mathematics at Oxford. After completing my undergraduate degree, I took an academic career break to gain practical industry experience at Goldman Sachs and J.P. Morgan, before pursuing my Ph.D.
 
 &nbsp;
 &nbsp;
 
 **Research Interests**
 ======
-My general research interests are to understand and leverage the role of low dimensionality in machine learning, whose impacts span many important topics, including but not limited to efficient training/inference of large foundation models, algorithm and system co-design, and ML interpretability.
+My general interests lie in understanding how to utilize higher-order information for efficient nonconvex optimization, including but not limited to computational complexity analysis, tensor approximation, implementable high-order subproblem solver, the tractability of polynomial optimization and adaptive regularization techniques. and the tractability of polynomial optimization. and the tractability of polynomial optimization. and the tractability of polynomial optimization.
 
-**Potential Collaborations:** If you are interested in these topics, feel free to reach out for more information! 
+**Potential Collaborations:** If you are interested in these topics, feel free to reach out for more information!
 
 &nbsp;
 &nbsp;

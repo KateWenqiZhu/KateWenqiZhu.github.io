@@ -86,7 +86,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: kate-wenqi-zhu-08723a84  # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -94,8 +94,8 @@ osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
-scholar_userid: 73IbXtsAAAAJ # your Google Scholar ID
+research_gate_profile: Wenqi-Zhu-9 # your profile on ResearchGate
+scholar_userid: 65zdUfgAAAAJ&hl # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -106,13 +106,13 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://www.maths.ox.ac.uk/people/shiwei.liu # work page URL
-x_username: Shiwei_Liu66 # your X handle
+work_url: https://www.maths.ox.ac.uk/people/wenqi.zhu # work page URL
+x_username: OxUniMaths/status/1622993029660385281 # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  shiwei.liu@maths.ox.ac.uk
+  kate.s.zhu@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

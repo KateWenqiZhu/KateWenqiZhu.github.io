@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I am very happy to be offered as a Junior Research Fellow (JRF) at [Somerville College](https://www.some.ox.ac.uk/), one of the first two women's colleges at Oxford.
+I will be visiting the **Chinese Academy of Sciences in Beijing**, China for a research collaboration.
 

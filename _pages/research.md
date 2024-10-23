@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: My research focuses on using mathematical models and numerical methods to understand biological processes and systems.
 nav: true

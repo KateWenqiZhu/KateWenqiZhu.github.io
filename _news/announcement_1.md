@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I am honored to join in the organization committee of the [Conference on Parsimony and Learning (CPAL)](https://cpal.cc/). See you in Stanford.
+🎓 Honoured to be invited to the **Outstanding Doctoral Student Forum of the Institute of Computational Mathematics** with a Travel Grant from the Chinese Academy of Sciences. Heading to Beijing. 
 

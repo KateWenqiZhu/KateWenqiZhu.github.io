@@ -2,64 +2,33 @@
 layout: page
 title: Awards
 permalink: /awards/
-description: My research focuses on using mathematical models and numerical methods to understand biological processes and systems.
+description: AWARDS AND FUNDS
 nav: true
 nav_order: 10
 # display_categories: []
 horizontal: false
 ---
 
-<!-- pages/research.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+1. Outstanding Doctoral Student Forum of the Institute of Computational Mathematics with Travel Grant, Chinese Academy of Sciences  2024
 
-{% else %}
+2. Jane Street Graduate Research Fellowship Research Workshop* with Travel Grant 2024
 
-<!-- Display projects without categories -->
+3. NeurIPS Workshop Spotlight Paper Award – The Benefits of Higher-Order Optimization in Machine Learning Workshop 2022
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+4.	DPhil Studentship – Funded by INNOHK and CIMDA Centre partnership (£118,000) 2021-2025
 
-  <!-- Generate cards for each project -->
+5.	DTP Studentship* – Funded by UKRI-BBSRC and the partnership (£63,000) 2021-2025
 
-{% if page.horizontal %}
+6.	Industrial CASE Studentship* – Funded by Syngenta Group (£16,000) 2021-2025
 
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+7.	Catherine Hughes Fund Internship Award – Funded by Somerville College, Oxford (£1,250) 2021
+
+8.	M.Sc. Prize for Excellence – Awarded by MMSC examining committee, Oxford 2021
+
+9.	Archibald Jackson Prize – Awarded by Somerville College, Oxford 2021
+
+10.	St. Hugh’s College Scholarship – Awarded by St. Hugh’s College, Oxford 2011-2014
+    
+
+*The studentship was voluntarily declined in favour of another offer.
+

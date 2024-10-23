@@ -1,40 +1,31 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
-description:
+title: Talks
+description: Invited Talks, Mini-symposia
 nav: true
 nav_order: 20
 ---
 
-<!-- _pages/talks.md -->
-<div class="page">
 
-<p><strong>speaking invitations</strong></p>
-<ul>
-<li>A state-of-the-art epidemic simulator and web app for viral transmission in indoor spaces, SIAM Conference on the Life Sciences, Portland, Jun 2024</li>
-<li>Computation of two-dimensional Stokes flows via lightning and AAA rational approximation,
-Computational and Applied Math Seminar, Peking University, May 2024</li>
-<li>Computation of physiological flows and transport at low Reynolds numbers, Applied and Computational Mathematics Seminar, Cardiff University, Feb 2024</li>
-<li>Computation of 2D Stokes flows via lightning and AAA rational approximation, Numerical Analysis Group Internal Seminar, University of Oxford, May 2023</li>
-<li>Modelling oxygen transport in the human cerebral microvasculature, British Applied Mathematics Colloquium, Bristol, Apr 2023</li>
-</ul>
+1.	IMA Conference on Numerical Linear Algebra and Optimization, Birmingham, UK (Jul 2022)
 
-<p><strong>other conference presentations</strong></p>
-<ul>
-<li>Computation of 2D Stokes flows via lightning and AAA rational approximation. Numerical Analysis in the 21st Century in honour of Nick Trefethen’s retirement from Oxford, Oxford, Aug 2023</li>
-<li>Modelling human cerebral tissue damage caused by acute ischaemic stroke, 9th World Congress of Biomechanics, Taipei (online), Jul 2022</li>
-<li>Modelling brain metabolism in ischaemic stroke: oxygen consumption and energy budget, VPH2020, Paris (online), Aug 2020</li>
-</ul>
+2.	IMA Conference on the Mathematical Challenges of Big Data, Oxford, UK (Sep 2022)
 
-<p><strong>group meeting presentations</strong></p>
-<ul>
-<li>The LARS algorithm: computing 2D Stokes flows via rational approximation, Waters' Group, Oxford Maths, Nov 2023</li>
-<li>Modelling oxygen transport in the human brain, Waters' Group, Oxford Maths, Nov 2022</li>
-<li>Modelling cerebral tissue damage after acute ischaemic stroke, Cerebral Haemodynamics Group, Oxford Engineering, Mar 2022</li>
-<li>Modelling micro-embolism in an arteriole column, Cerebral Haemodynamics Group, Oxford Engineering, Sep 2021</li>
-<li>Modelling the effects of cerebral microthrombi on tissue oxygenation and cell death, Cerebral Haemodynamics Group, Oxford Engineering, Jan 2021</li>
-<li>Simulation of oxygen delivery in human cerebral microvasculature, Cerebral Haemodynamics Group, Oxford Engineering, Jul 2020</li>
-<li>Modelling brain metabolism, Cerebral Haemodynamics Group, Oxford Engineering, Feb 2020</li>
-</ul>
-</div>
+3.	NeurIPS 2022, Attended remotely (Dec 2022)
+
+4.	Research Visit, Centre for Intelligent Multidimensional Data Analysis, Hong Kong, China (Apr 2023)
+
+5.	Biennial Numerical Analysis Meeting, University of Strathclyde, Glasgow, Scotland (Jun 2023)
+
+6.	SIAM Conference on Optimization, Seattle, U.S. (Jun 2023)
+
+7.	Optimization 2023 Conference, University of Aveiro, Portugal (Jul 2023)
+
+8.	International Symposium on Mathematical Programming (ISMP), Montréal, Canada (Jul 2024)
+
+9.	2024 Outstanding Doctoral Student Forum of the Institute of Computational Mathematics, Beijing, China (Jul 2024)
+
+10.	Research Visit, Chinese Academy of Sciences, China (Jul 2024)
+
+11.	OR66 Conference, Bangor University, UK (Sep 2024)

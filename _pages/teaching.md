@@ -1,35 +1,60 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: I enjoy teaching a wide range of subjects in applied mathematics and biomedical engineering.
+title: Teaching
+description: I enjoy teaching a wide range of subjects in applied mathematics and am passionate about explaining mathematical concepts in clear and accessible language to people without a mathematical background, especially young audience.
 nav: true
 nav_order: 15
 ---
 
-<!-- _pages/teaching.md -->
-<div class="page">
-<p><strong>University of Oxford</strong></p>
+### Teaching at University of Oxford
 
-<ul>
-<li><b>A1 Differential Equations 1</b>, Tutor, Oriel College, 2023-2024</li>
-<p>Tutoring 2nd Year Undergraduates in small groups (class size: 1-2). 8 contact hours (1 contact
-hour usually requires 2 hours of preparation and markings).</p>
-<li><b>A7 Numerical Analysis</b>, Tutor (Lecturer), Jesus College, 2022-2023</li>
-<p>Tutoring 2nd Year Undergraduates in small groups (class size: 1-2); Marking example sheets and
-giving feedbacks; Marking collection paper; Giving revision classes and consultation sessions. 15
-contact hours.</p>
-<li><b>C5.6 Applied Complex Variables</b>, Tutor, Mathematical Institute, 2022-2023</li>
-<p>Teaching 4th Year Undergraduates and Masters students in classes (class size: 10-12); Coordinating the classes and
-mentoring teaching assistants; Giving consultation sessions. 16 contact hours.</p>
-<li><b>B17 Biomechanics</b>, Lead Tutor, Department of Engineering Science, 2021-2022</li>
-<p>Tutoring 3rd Year undergraduates in small groups (class size: 3-4); Marking example sheets and
-giving feedbacks; Coordinating tutorials for the entire course; Setting of a mock exam paper and
-giving revision classes. 13 contact hours.</p>
-</ul>
+**C6.2 Continuous Optimization**, Tutor, Mathematical Institute, 2023-24
 
-<p><strong>supervision</strong></p>
-<ul>
-<li><a href="https://github.com/bennm37">Ben Nicholls-Mindlin</a> (MSc MMSC), 2023, Rational Stokes Methods for Tissue Engineering Applications, with Professors Sarah Waters and Helen Byrne from Oxford Maths and Drs Rudolf Hellmuth, Yuan-Tsan Tseng and Najma Latif from the Magdi Yacoub Institute.</li>
-</ul>
+Taught 4th-year undergraduates and master's students in classes (class size: 15-25); coordinated the classes and mentored teaching assistants; conducted consultation sessions. 16 contact hours.
+
+**Part C Revision Class, Tutor**, Mathematical Institute, 2023-24
+
+Tutored 4th-year master's students in exam preparation, including office hour sessions and mock exam reviews. Taught revision classes and provided feedback on exam papers (class size: 10-12). 12 contact hours.
+
+**C6.1 Numerical Linear Algebra**, Tutor and Teaching Assistant, Mathematical Institute, 2021-23
+
+Tutored Oxford MSc students in Mathematical Modelling and Scientific Computing (class size: 1-2); marked example sheets and provided feedback; coordinated tutorials for the entire course; set mock exam papers and delivered revision classes. 36 contact hours.
+
+### Public Teaching and Outreach Activities
+
+**Mathematics Columnist, Creative Writer, and Social Media Influencer** (2014–2024)
+
+•	Regularly produced articles and educational content aimed at demystifying complex mathematical concepts for those without a background in mathematics, inspiring curiosity and engagement.
+
+•	Created content with millions of reads, highlighting the beauty and real-world applications of mathematics, while encouraging underrepresented groups, particularly women in STEM fields.
+
+**Public Lecturer and Founder of Mathematical Community** (2021–2024)
+
+•	Organized annual public mathematics courses for children (ages 8-13) and underrepresented groups (group sizes: 2-30).
+
+•	Developing a 30-session course introducing mathematical concepts to individuals without prior mathematical backgrounds, making complex topics accessible.
+
+<style>
+.t-grid-wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2%;
+    padding: 0 0 50px 0;
+}
+.t-grid-item { 
+
+}
+.t-grid-item-img {
+    width: 100%;
+}
+</style>
+<div class="t-grid-wrap">
+    <div class="t-grid-item tgi1"><img class="t-grid-item-img" src="/assets/img/teaching/t1.jpg" /></div>
+    <div class="t-grid-item tgi2"><img class="t-grid-item-img"  src="/assets/img/teaching/t2.jpg" /></div>
+    <div class="t-grid-item tgi3"><img class="t-grid-item-img"  src="/assets/img/teaching/t3.jpg" /></div>
+    <div class="t-grid-item tgi4"><img  class="t-grid-item-img" src="/assets/img/teaching/t4.jpg" /></div>
+    <div class="t-grid-item tgi5"><img class="t-grid-item-img"  src="/assets/img/teaching/t5.jpg" /></div>
 </div>
+
+

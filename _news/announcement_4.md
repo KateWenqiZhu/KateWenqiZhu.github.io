@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-15 15:59:00-0400
+date: 2024-04-03 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-📝 2 papers got accepted by **Interspeech 2024**: [Sparse Multimodal from Scratch](https://arxiv.org/pdf/2406.17614), [Dynamic Data Pruning for Speech](https://arxiv.org/abs/2406.18373). 
+📝 **1 paper submitted and under review**, [Global Convergence of High-Order Regularization Methods with Sums-of-Squares Taylor Models](https://arxiv.org/abs/2404.03035)  
