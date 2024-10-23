@@ -9,7 +9,7 @@ nav_order: 15
 
 ### Teaching at the University of Oxford
 
-**C6.2 Continuous Optimization**, Tutor, Mathematical Institute, 2023-24
+**C6.2 Continuous Optimization, Tutor**, Mathematical Institute, 2023-24
 
 Taught 4th-year undergraduates and master's students in classes (class size: 15-25); coordinated the classes and mentored teaching assistants; conducted consultation sessions. 16 contact hours.
 
@@ -17,7 +17,7 @@ Taught 4th-year undergraduates and master's students in classes (class size: 15-
 
 Tutored 4th-year master's students in exam preparation, including office hour sessions and mock exam reviews. Taught revision classes and provided feedback on exam papers (class size: 10-12). 12 contact hours.
 
-**C6.1 Numerical Linear Algebra**, Tutor and Teaching Assistant, Mathematical Institute, 2021-23
+**C6.1 Numerical Linear Algebra, Tutor and Teaching Assistant**, Mathematical Institute, 2021-23
 
 Tutored Oxford MSc Mathematical Modelling and Scientific Computing students (class size:  15-25); marked worksheets and provided feedback; coordinated tutorials for the entire course and delivered revision classes. 36 contact hours.
 
