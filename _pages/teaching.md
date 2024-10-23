@@ -31,7 +31,7 @@ Tutored Oxford MSc students in Mathematical Modelling and Scientific Computing (
 
 **Public Lecturer and Founder of Mathematical Community** (2021–2024)
 
-•	Organized annual public mathematics courses for children (ages 8-13) and underrepresented groups (group sizes: 2-30).
+•	Organized annual public mathematics courses for children (ages 8-13) and underrepresented groups (group sizes: 15-30).
 
 •	Developing a 30-session course introducing mathematical concepts to individuals without prior mathematical backgrounds, making complex topics accessible.
 
