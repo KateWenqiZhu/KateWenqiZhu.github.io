@@ -2,16 +2,40 @@
   type: map
   contents:
     - name: Full Name
-      value: Shiwei Liu
+      value: Kate Wenqi Zhu
     - name: Languages
       value: Mandarin Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Eindhoven University of Technology, Eindhoven, the Netherlands
-      year: 2018.3-2022.4
+    - title: PhD in Mathematics
+      institution: University of Oxford, UK
+      year: 01.2022-present
+      description:
+          "- Supervised by Prof. Coralia Cartis and Project Principal Investigator (PI) Prof. Terry Lyons.
+          - Awarded full scholarship.
+          - PhD Dissertation: Tensor Methods for Nonconvex Optimization."
+
+    - title: M.Sc. Mathematical Modelling and Scientific Computing
+      institution: University of Oxford, UK
+      year: 09.2020–09.2021
+      description:
+        "- Distinction. Ranked top 1 in the cohort.
+        - Awarded M.Sc. Prize for Excellence, 2021.
+        - Master Dissertation: Multivariate Least-Squares Approximations in Irregular Domains via Vandermonde with Arnoldi."
+
+
+    - title: Master of Mathematics (MMaths)
+      institution: University of Oxford, UK
+      year: 09.2010–06.2014
+      description:
+          "- Oxford University Dean’s List: First Class. St. Hugh’s College Scholarship 2011-2014: for receiving distinction (top 10%) on the First Public Exam."
+
+
+
+
+
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -29,26 +53,48 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Royal Society Newton International Fellow
-      institution: Mathematical Institute, University of Oxford
-      year: 2024.1 - Present
-#      description:
+    - title: Researcher Intern
+      institution: Mathematical Ecology Research Group, University of Oxford
+      year: 09.2021-10.2022
+      description:
+        "Supervisor: Prof. Michael Bonsall, funded by the Catherine Hughes Fund Internship Award"
 #        - Description 1.
 #        - Description 2.
 #        - title: Description 3.
 #          contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-    - title: Research Fellow
-      institution: IFML, University of Texas at Austin
-      year: 2022.8-2023.10
-#      description:
+    - title: Part-time Researcher
+      institution: University of Oxford
+      year: 01.2020-12.2020
+      description:
+        "Supervisor: Prof. Ruth Baker"
+
 #        - Description 1.
 #        - Description 2.
 
-    - title: Research Intern
-      institution: JD Explore Academy
-      year: 2021.6 - 2021.12
+    - title: Chief Project Manager for Large Language Model
+      institution: AI Buddy
+      year: 2023–Present
+
+
+
+    - title: Quantitative Product Specialist Associate
+      institution: Goldman Sachs Investment Management, Hong Kong, China
+      year: 01.2017-12.2019
+
+    - title: Quantitative Investment Strategist
+      institution: JP Morgan Asset Management, Hong Kong, China
+      year: 01.2014-12.2017
+
+    - title: Bank of China Summer Analyst
+      institution: Bank of China
+      year: 07.2013-08.2013
+
+    - title: Deutsche Bank Risk Management Summer Analyst
+      institution: Deutsche Bank
+      year: 07.2012-09.2012
+
 #
 #    - title: Professor of Theoretical Physics
 #      institution: Karl-Ferdinand University, Prague, Czechoslovakia

@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Kate
 middle_name: Wenqi
 last_name: Zhu
-email: kate.s.zhu@gmail.com
+#email: kate.s.zhu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Kate Zhu's Webpage
 footer_text: >
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -111,8 +111,8 @@ x_username: OxUniMaths/status/1622993029660385281 # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  kate.s.zhu@gmail.com
+#contact_note: >
+#  kate.s.zhu@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -279,6 +279,7 @@ defaults:
 
 sass:
   style: compressed
+  quiet_deps: true  # hide warnings
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier

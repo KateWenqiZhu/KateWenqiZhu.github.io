@@ -1,10 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 25
-cv_pdf: CV.pdf
+cv_pdf:
 description:
 toc:
   sidebar: left
