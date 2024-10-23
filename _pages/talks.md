@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Invited Talks, Mini-symposia and Research Visit
+title: Talks
 nav: true
 nav_order: 20
 ---
