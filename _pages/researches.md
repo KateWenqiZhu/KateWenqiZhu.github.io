@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Research
-permalink: /research/
-description: My research focuses on using mathematical models and numerical methods to understand biological processes and systems.
+permalink: /researches/
+description: This section showcases some side research/fun projects that may not directly align with my main research direction, along with ongoing research and projects. Feel free to reach out if you're interested! 📩
 nav: true
 nav_order: 5
 # display_categories: []
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.researches | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
@@ -57,7 +57,7 @@ horizontal: false
   {% else %}
   <div class="grid">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include researches.liquid %}
     {% endfor %}
   </div>
   {% endif %}
