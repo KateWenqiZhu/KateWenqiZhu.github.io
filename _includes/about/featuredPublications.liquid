@@ -1,0 +1,11 @@
+<div class="row publications">
+    <div class="col-12 col-lg-4 section-heading">
+        {% comment %}<h1>Featured Publications</h1>{% endcomment %}
+        <h2>
+            <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Featured Publications</a>
+        </h2>
+    </div>
+    <div class="col-12 col-lg-8">
+        {% bibliography --template bib_fp --group_by none --query @*[selected=true]* %}
+    </div>
+</div>

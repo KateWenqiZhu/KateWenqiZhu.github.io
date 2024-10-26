@@ -258,19 +258,19 @@ keep_files:
 plugins:
   - jekyll-archives
   - jekyll-email-protect
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
+# - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
-  - jekyll-twitter-plugin
+#  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
@@ -520,7 +520,8 @@ third_party_libraries:
     integrity:
       js: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
     url:
-      js: "https://cdn.jsdelivr.net/npm/jquery@{{version}}/dist/jquery.min.js"
+#      js: "https://cdn.jsdelivr.net/npm/jquery@{{version}}/dist/jquery.min.js"
+      js: "https://code.jquery.com/jquery-{{version}}.min.js"
     version: "3.6.0"
   leaflet:
     integrity:

@@ -4,56 +4,97 @@
 
 @article{Coralia2023quartic,
   title={Second-order methods for quartic cubic polynomials, with applications to high-order tensor methods},
+  description={There has been growing interest in high-order tensor methods for nonconvex optimization, with adaptive regularization, as they possess better/optimal worst-case evaluation complexity globally and faster convergence asymptotically. These algorithms crucially rely on repeatedly minimizing nonconvex multivariate Taylor-based polynomial sub-problems, at least locally. Finding efficient techniques for the solution of these sub-problems, beyond the second-order case, has been an open question.
+This paper proposes a second-order method, Quadratic Quartic Regularisation (QQR), for efficiently minimizing nonconvex quartically-regularized cubic polynomials, such as the AR$p$ sub-problem \cite{birgin2017worst} with $p=3$.
+  Inspired by Nesterov’s recent work, QQR approximates the third-order tensor term by a linear combination of quadratic and quartic terms, yielding (possibly nonconvex) local models that are solvable to global optimality. In order to achieve accuracy $\epsilon$ in the first-order criticality of the sub-problem in finitely many iterations, we show that the error in the QQR method decreases either linearly or by at least $\mathcal{O}(\epsilon^{4/3})$ for locally convex iterations, while in the nonconvex case, by at least $\mathcal{O}(\epsilon)$; thus improving, on these types of iterations, the general cubic-regularization bound. Preliminary numerical experiments indicate that two QQR variants perform competitively with state-of-the-art approaches such as ARC  (also known as AR$p$ with $p=2$), achieving either lower objective value or iteration counts.
+},
+  status = {Under Review},
   author={Coralia Cartis, Wenqi Zhu},
   journal={arXiv preprint arXiv:2308.15336},
+  pdf = {https://arxiv.org/abs/2308.15336},
   abbr = {Preprint},
   selected={true},
+  month={Aug},
   year={2023}
 }
 
 
 @article{Wenqi2023cubicquartic,
   title={Cubic-quartic regularization models for solving polynomial subproblems in third-order tensor methods},
+  description={High-order tensor methods for solving both convex and nonconvex optimization problems have recently generated significant research interest, due in part to the natural way in which higher derivatives can be incorporated into adaptive regularization frameworks, leading to algorithms with optimal global rates of convergence and local rates that are faster than Newton's method.
+On each iteration, to find the next solution approximation, these methods require the unconstrained local minimization of a (potentially nonconvex) multivariate polynomial of degree higher than two, constructed using third-order (or higher) derivative information, and regularized by an appropriate power of the change in the iterates. Developing efficient techniques for the solution of such subproblems is a current topic of research,  and this paper addresses this question for the case of the third-order tensor subproblem. In particular,
+  we propose the CQR algorithmic framework, for minimizing a nonconvex Cubic multivariate polynomial with  Quartic Regularisation, by sequentially minimizing a sequence of local quadratic models that also incorporate both simple cubic and quartic terms.
+  The role of the cubic term is to crudely approximate local tensor information, while the quartic one provides model regularization and controls progress. We provide necessary and sufficient optimality conditions that fully characterise the global minimizers of these cubic-quartic models. We then turn these conditions into secular equations that can be solved efficiently using root-finding procedures. We show, using our optimality characterisations, that a CQR algorithmic variant has the optimal-order evaluation complexity of $\mathcal{O}(\epsilon^{-3/2})$ when applied to minimizing our quartically-regularised cubic subproblem, which can be further improved in special cases.  We propose practical CQR variants that judiciously use local tensor information to construct the local cubic-quartic models. We test these variants numerically and observe them to be competitive with cubic regularization and other subproblem solvers on typical instances and even show superior performance on ill-conditioned subproblems with special structure.
+},
+  status = {Under Review},
   author={Wenqi Zhu, Coralia Cartis},
   journal={arXiv preprint arXiv:2312.10283},
+  pdf = {https://arxiv.org/abs/2312.10283},
   abbr = {Preprint},
   selected={true},
+  month={Dec},
   year={2023}
 }
 
 @article{Wenqi2024global,
   title={Global convergence of high-order regularization methods with sums-of-squares Taylor models},
+  description={High-order tensor methods that employ  Taylor-based local models  (of degree  $p\ge 3$) within adaptive regularization frameworks have been recently proposed for both convex and nonconvex optimization problems.  They have been shown to have superior, and even optimal, worst-case global convergence rates and local rates compared to Newton's method.
+%However, efficiently implementing these algorithms remains a challenge.
+Finding rigorous and efficient techniques for minimizing the Taylor polynomial sub-problems remains a challenging aspect
+for these algorithms.
+Ahmadi et al recently introduced a tensor method based on sum-of-squares (SoS) reformulations, so that each Taylor polynomial sub-problem in their approach can be tractably minimized using semidefinite programming (SDP) \cite{ahmadi2023higher}; however, the global convergence and complexity of their method have not been addressed for general nonconvex problems.
+This paper introduces an algorithmic framework that combines the Sum of Squares (SoS) Taylor model with adaptive regularization techniques for nonconvex smooth optimization problems. Each iteration minimizes an SoS-convex Taylor model, offering a polynomial cost per iteration. For general nonconvex functions, the worst-case evaluation complexity bound is $\mathcal{O}(\epsilon^{-2})$, while for strongly convex functions, an improved evaluation complexity bound of $\mathcal{O}(\epsilon^{-\frac{1}{p}})$ is established. To the best of our knowledge, this is the first global rate analysis for an adaptive regularization algorithm with a tractable high-order sub-problem in nonconvex smooth optimization, opening the way for further improvements.
+},
+  status = {Under Review},
   author={Wenqi Zhu, Coralia Cartis},
   journal={arXiv preprint arXiv:2404.03035},
+  pdf = {https://arxiv.org/abs/2404.03035},
   abbr = {Preprint},
   selected={true},
+  month={Apr},
   year={2024}
 }
 
 @article{Congzheng2024newsvendor,
   title={Newsvendor conditional value-at-risk minimisation: A feature-based approach under adaptive data selection},
+  description={The classical risk-neutral newsvendor problem is to decide the order quantity that maximises the expected profit. Some recent works have proposed
+an alternative model, in which the goal is to minimise the
+\emph{conditional value-at-risk} (CVaR),
+a different but very much important risk measure in financial risk management. In this paper, we propose a feature-based non-parametric approach to Newsvendor CVaR minimisation under adaptive data selection (NPC). The NPC method is simple and general. It can handle minimisation with both linear and nonlinear profits, and requires no prior knowledge of the demand distribution. Our main contribution is two-fold. Firstly, NPC uses a feature-based approach. The estimated parameters of NPC can be easily applied to prescriptive analytic to provide additional operational insights. Secondly, unlike common non-parametric methods, our NPC method uses an adaptive data selection criterion and requires only a small proportion of data (only data from two tails), significantly reducing the computational effort. Results from both numerical and real-life experiments confirm that NPC is robust with regard to difficult and large data structures. Using fewer data points, the computed order quantities from NPC lead to equal or less downside loss in extreme cases than competing methods
+},
+  status = {EJOR},
   author={Congzheng Liu, Wenqi Zhu},
   journal={European Journal of Operational Research 313 (2), 548-564},
+  pdf = {https://www.sciencedirect.com/science/article/pii/S0377221723006720},
   abbr = {EJOR2024},
   selected={true},
+  month={May},
   year={2024}
 }
 
 @article{Wenqi2023Convergence,
   title={Convergence and near-optimal sampling in multivariate irregular domains via Vandermonde with Arnoldi},
+  description={},
+  status = {Preprint},
   author={Wenqi Zhu, Yuji Nakatsukasa},
   journal={arXiv preprint arXiv:2301.12241},
+  pdf = {https://arxiv.org/abs/2301.12241},
   abbr = {Preprint},
   selected={false},
+  month={Jan},
   year={2023}
 }
 
 @article{Wenqi2022Quartic,
   title={Quartic polynomial sub-problem solutions in tensor methods for nonconvex optimization},
+  description={},
+  status = {EJOR},
   author={Wenqi Zhu, Coralia Cartis},
   journal={NeurIPS Workshop },
+  pdf = {https://www.researchgate.net/profile/Wenqi-Zhu-9/publication/377853269_Quartic_Polynomial_Sub-problem_Solutions_in_Tensor_Methods_for_Nonconvex_Optimization/links/65bb8a151bed776ae31ca11f/Quartic-Polynomial-Sub-problem-Solutions-in-Tensor-Methods-for-Nonconvex-Optimization.pdf},
   abbr = {NeurIPS WS 2022},
   selected={false},
+  month={},
   year={2022},
   additional_info = { __Splotlight__},
 }
