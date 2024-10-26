@@ -47,3 +47,18 @@ Session Chair in International Conference on Continuous Optimization ICCOPT 2025
 •	Optimization and Engineering, Mathematical Programming (2024)
 
 •	Mathematical Programming, IMA Journal of Numerical Analysis (2023)
+
+
+
+
+<div class="t-grid-wrap">
+    <div class="t-grid-item tgi1" style="">
+        <img class="t-grid-item-img" src="/assets/img/talks/t1.jpg" />
+        <div style="width: 1rem; height: 2rem;"></div>
+        <img class="t-grid-item-img" src="/assets/img/talks/t5.jpg" />
+    </div>
+    <div class="t-grid-item tgi1"><img class="t-grid-item-img" src="/assets/img/talks/t2.jpg" /></div>
+    <div class="t-grid-item tgi1"><img style="height: 100%;" class="t-grid-item-img" src="/assets/img/talks/t3.jpg" /></div>
+    <div class="t-grid-item tgi1"><img class="t-grid-item-img" src="/assets/img/talks/t6.jpg" /></div>
+</div>
+

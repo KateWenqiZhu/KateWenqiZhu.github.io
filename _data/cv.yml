@@ -11,7 +11,7 @@
   contents:
     - title: PhD in Mathematics
       institution: University of Oxford, UK
-      year: 01.2022-present
+      year: 2022-present
       description:
           "- Supervised by Prof. Coralia Cartis and Project Principal Investigator (PI) Prof. Terry Lyons.
           - Awarded full scholarship.
@@ -19,7 +19,7 @@
 
     - title: M.Sc. Mathematical Modelling and Scientific Computing
       institution: University of Oxford, UK
-      year: 09.2020–09.2021
+      year: 2020–2021
       description:
         "- Distinction. Ranked top 1 in the cohort.
         - Awarded M.Sc. Prize for Excellence, 2021.
@@ -28,7 +28,7 @@
 
     - title: Master of Mathematics (MMaths)
       institution: University of Oxford, UK
-      year: 09.2010–06.2014
+      year: 2010–2014
       description:
           "- Oxford University Dean’s List: First Class. St. Hugh’s College Scholarship 2011-2014: for receiving distinction (top 10%) on the First Public Exam."
 
@@ -55,7 +55,7 @@
   contents:
     - title: Researcher Intern
       institution: Mathematical Ecology Research Group, University of Oxford
-      year: 09.2021-10.2022
+      year: 2021-2022
       description:
         "Supervisor: Prof. Michael Bonsall, funded by the Catherine Hughes Fund Internship Award"
 #        - Description 1.
@@ -66,34 +66,34 @@
 #            - Sub-description 2.
     - title: Part-time Researcher
       institution: University of Oxford
-      year: 01.2020-12.2020
+      year: 2020-2020
       description:
         "Supervisor: Prof. Ruth Baker"
 
 #        - Description 1.
 #        - Description 2.
 
-    - title: Chief Project Manager for Large Language Model
-      institution: AI Buddy
-      year: 2023–Present
+#    - title: Chief Project Manager for Large Language Model
+#      institution: AI Buddy
+#      year: 2023–Present
 
 
 
-    - title: Quantitative Product Specialist Associate
+    - title: Product Specialist Associate
       institution: Goldman Sachs Investment Management, Hong Kong, China
-      year: 01.2017-12.2019
+      year: 2017-2019
 
-    - title: Quantitative Investment Strategist
+    - title: Investment Strategist
       institution: JP Morgan Asset Management, Hong Kong, China
-      year: 01.2014-12.2017
+      year: 2014-2017
 
     - title: Bank of China Summer Analyst
       institution: Bank of China
-      year: 07.2013-08.2013
+      year: 2013-2013
 
     - title: Deutsche Bank Risk Management Summer Analyst
       institution: Deutsche Bank
-      year: 07.2012-09.2012
+      year: 2012-2012
 
 #
 #    - title: Professor of Theoretical Physics

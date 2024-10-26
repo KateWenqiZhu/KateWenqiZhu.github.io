@@ -47,7 +47,15 @@ ul.ul-edu li .description  .institution {
   color: var(--global-text-color-light);
 }
 
-
+.pubtype-4 {
+  .btn-outline-primary {
+    border-width: 1px !important;
+    box-shadow: none !important;
+  }
+  .article-title {
+    font-weight: 400;
+  }
+}
 
 .card-simple {
   background: #fff;
@@ -105,4 +113,18 @@ ul.ul-edu li .description  .institution {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 4%);
     border: 1px solid #44475a;
   }
+}
+
+
+.t-grid-wrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2%;
+  padding: 0 0 50px 0;
+}
+.t-grid-item {
+
+}
+.t-grid-item-img {
+  width: 100%;
 }

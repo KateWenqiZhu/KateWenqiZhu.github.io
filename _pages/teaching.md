@@ -35,20 +35,8 @@ Tutored Oxford MSc Mathematical Modelling and Scientific Computing students (cla
 
 •	Developing a 30-session course introducing mathematical concepts to individuals without prior mathematical backgrounds, making complex topics accessible.
 
-<style>
-.t-grid-wrap {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2%;
-    padding: 0 0 50px 0;
-}
-.t-grid-item { 
+ 
 
-}
-.t-grid-item-img {
-    width: 100%;
-}
-</style>
 <div class="t-grid-wrap">
     <div class="t-grid-item tgi1"><img class="t-grid-item-img" src="/assets/img/teaching/t1.jpg" /></div>
     <div class="t-grid-item tgi2"><img class="t-grid-item-img"  src="/assets/img/teaching/t2.jpg" /></div>
