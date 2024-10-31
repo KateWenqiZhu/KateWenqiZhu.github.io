@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: PhD Candidate in Applied Mathematics, 2022
+    - course: PhD Candidate in Applied Mathematics, 2022-present
       institution: University of Oxford
       year:
     - course: M.Sc. Mathematical Modelling and Scientific Computing, 2021
