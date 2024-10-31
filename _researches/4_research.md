@@ -12,6 +12,5 @@ This research investigates the dynamics and bifurcations of the Hodgkin-Huxley m
 
 
 <div class="t-grid-wrap" style="grid-template-columns: 1fr; gap: 0;">
-    <div class="t-grid-item tgi3"><img class="t-grid-item-img"  src="/assets/img/researches/r4_1.gif" /></div>
     <div class="t-grid-item tgi4"><img  class="t-grid-item-img" src="/assets/img/researches/r4_2.png" /></div>
 </div>
