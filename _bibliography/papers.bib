@@ -57,7 +57,7 @@ on ill-conditioned subproblems with special structure.
 optimization problems.  They have been shown to have superior, and even optimal, worst-case global convergence rates and local rates compared to Newton's method
 Finding rigorous and efficient techniques for minimizing the Taylor polynomial sub-problems remains a challenging aspect for these algorithms.
 Ahmadi et al recently introduced a tensor method based on sum-of-squares (SoS) reformulations, so that each Taylor polynomial sub-problem in their approach can be tractably minimized 
-using semidefinite programming (SDP) \cite{ahmadi2023higher}; however, the global convergence and complexity of their method have not been addressed for general nonconvex problems.
+using semidefinite programming (SDP); however, the global convergence and complexity of their method have not been addressed for general nonconvex problems.
 This paper introduces an algorithmic framework that combines the Sum of Squares (SoS) Taylor model with adaptive regularization techniques for nonconvex smooth optimization problems. 
 Each iteration minimizes an SoS-convex Taylor model, offering a polynomial cost per iteration. 
 To the best of our knowledge, this is the first global rate analysis for an adaptive regularization algorithm with a tractable high-order sub-problem in nonconvex smooth optimization, 
