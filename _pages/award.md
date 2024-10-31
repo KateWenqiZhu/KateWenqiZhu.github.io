@@ -11,7 +11,7 @@ horizontal: false
 
 1. Outstanding Doctoral Student Forum of the Institute of Computational Mathematics with Travel Grant, Chinese Academy of Sciences  2024
 
-2. **Jane Street Graduate Research Fellowship Research Workshop*** with Travel Grant 2024
+2. **Jane Street Graduate Research Fellowship Research Workshop** with Travel Grant 2024*
 
 3. **NeurIPS Workshop Spotlight Paper Award** – The Benefits of Higher-Order Optimization in Machine Learning Workshop 2022
 
