@@ -46,16 +46,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Kate Wenqi Zhu. I am currently doing a Ph.D. in Applied [Mathematics](https://www.maths.ox.ac.uk/groups/numerical-analysis) at the [University of Oxford](https://www.maths.ox.ac.uk/) under the supervision of Prof [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) fully funded by [CIMDA-Oxford studentship](https://cimda-oxford.datasig.ac.uk/team).
 
-I previously obtained an M.Sc. degree in Mathematical Modelling and scientific computing from Oxford, under the supervision of Yuji Nakatsukasa. I also completed my first master’s and undergraduate degrees in Mathematics at Oxford. After completing my undergraduate degree, I took an academic career break to gain practical industry experience at Goldman Sachs and J.P. Morgan before pursuing my Ph.D.
+Hi! I’m Kate Wenqi Zhu, currently pursuing a Ph.D. in [Applied Mathematics](https://www.maths.ox.ac.uk/groups/numerical-analysis) at the [University of Oxford](https://www.maths.ox.ac.uk/), advised by Prof. [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) and fully funded by the [CIMDA-Oxford Studentship](https://cimda-oxford.datasig.ac.uk/team).
 
-&nbsp;
-&nbsp;
+My research interests center on **utilizing higher-order information for efficient nonconvex optimization**, encompassing computational complexity analysis, **tensor approximation**, sum of squares techniques, implementable high-order subproblem solvers, and adaptive regularization methods.
 
-## Research Interests
-
-My general interests lie in understanding how to utilize higher-order information for efficient nonconvex optimization, including but not limited to computational complexity analysis, tensor approximation, implementable high-order subproblem solver, the tractability of polynomial optimization, and adaptive regularization techniques. 
+I completed both my undergraduate and first master’s degrees in Mathematics at Oxford, as well as an M.Sc. in Mathematical Modelling and Scientific Computing, supervised by Yuji Nakatsukasa. After my undergraduate studies, I took a career break to gain practical industry experience at Goldman Sachs and J.P. Morgan before beginning my Ph.D.
 
 **Potential Collaborations:** If you are interested in these topics, feel free to reach out for more information!
 
