@@ -19,5 +19,4 @@ This review highlights the evolution from the foundational Remez algorithm to th
 
 <div class="t-grid-wrap" style="grid-template-columns: 1fr; gap: 0;">
     <div class="t-grid-item tgi3"><img class="t-grid-item-img"  src="/assets/img/researches/r5_1.png" /></div>
-    <div class="t-grid-item tgi4"><img  class="t-grid-item-img" src="/assets/img/researches/r5_2.png" /></div>
 </div>
