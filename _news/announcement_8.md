@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I had an amazing time presenting at the** SIAM Conference on Optimization in Seattle, U.S.**
+I had an amazing time presenting at the **SIAM Conference on Optimization** in Seattle, U.S.
