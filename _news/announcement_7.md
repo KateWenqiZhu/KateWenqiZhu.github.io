@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited for Mini symposia in the Optimization 2023 Conference at the University of Aveiro, Portugal.
+Invited for Mini symposia in the **Optimization 2023** Conference at the University of Aveiro, Portugal.
