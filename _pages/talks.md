@@ -38,9 +38,10 @@ nav_order: 20
 
 **Session Chair** in International Conference on Continuous Optimization **ICCOPT 2025
 **
-•	‘Advances in Nonlinear Optimization Methods and Applications’
 
-•	‘Techniques for Solving High-Dimensional and Nonlinear Optimization Problems’
+•	Advances in Nonlinear Optimization Methods and Applications
+
+•	Techniques for Solving High-Dimensional and Nonlinear Optimization Problems
 
 **Journal Reviewer**
 
