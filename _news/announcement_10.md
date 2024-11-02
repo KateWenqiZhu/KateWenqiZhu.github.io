@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Research visit to the CIMDA Centre for Intelligent Multidimensional Data Analysis in Hong Kong, China.
+Research visit to the **CIMDA Centre for Intelligent Multidimensional Data Analysis** in Hong Kong, China.
