@@ -22,7 +22,7 @@
       year: 2020–2021
       description:
         "Distinction. Ranked top 1 in the cohort. Awarded M.Sc. Prize for Excellence, 2021."
-              -Master Dissertation: Multivariate Least-Squares Approximations in Irregular Domains via Vandermonde with Arnoldi.
+              - Master Dissertation: Multivariate Least-Squares Approximations in Irregular Domains via Vandermonde with Arnoldi.
 
 
     - title: Master of Mathematics (MMaths)
@@ -68,31 +68,30 @@
       institution: University of Oxford
       year: 2020-2020
       description:
-        "Supervisor: Prof. Ruth Baker"
+        "Supervised by Prof. Ruth Baker"
 
 #        - Description 1.
 #        - Description 2.
 
-#    - title: Chief Project Manager for Large Language Model
-#      institution: AI Buddy
-#      year: 2023–Present
+   - title: Founder and Project Manager for Large Language AI-Powered Virtual Influencers Model
+     institution:  AI Buddy
+     year: 2023–Present
 
 
-
-    - title: Product Specialist Associate
+    - title: Goldman Sachs Product Specialist Associate
       institution: Goldman Sachs Investment Management, Hong Kong, China
       year: 2017-2019
 
-    - title: Investment Strategist
+    - title: JP Morgan Investment Strategist
       institution: JP Morgan Asset Management, Hong Kong, China
       year: 2014-2017
 
     - title: Bank of China Summer Analyst
-      institution: Bank of China
+      institution: Bank of China, London, UK
       year: 2013-2013
 
-    - title: Deutsche Bank Risk Management Summer Analyst
-      institution: Deutsche Bank
+    - title: Deutsche Bank Summer Analyst
+      institution: Deutsche Bank, London, UK
       year: 2012-2012
 
 #
