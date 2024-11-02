@@ -21,15 +21,15 @@ nav_order: 20
 
 6.	**SIAM Conference on Optimization (OP23)**, Seattle, U.S. (Jun 2023)
 
-7.	Optimization 2023 Conference, University of Aveiro, Portugal (Jul 2023) [link](https://optimization2023.web.ua.pt/Optimization2023_BookOfAbstracts.pdf)
+7.	Optimization 2023 Conference, University of Aveiro, Portugal (Jul 2023) [Link](https://optimization2023.web.ua.pt/Optimization2023_BookOfAbstracts.pdf)
 
-8.	**International Symposium on Mathematical Programming (ISMP)**, Montréal, Canada (Jul 2024) [link](https://www.gerad.ca/Charles.Audet/ISMP2024Short_Program.pdf)
+8.	**International Symposium on Mathematical Programming (ISMP)**, Montréal, Canada (Jul 2024) [Link](https://www.gerad.ca/Charles.Audet/ISMP2024Short_Program.pdf)
 
 9.	2024 Doctoral Student Forum of the Institute of Computational Mathematics, Beijing, China (Jul 2024) [Link](https://ismp2024.gerad.ca/schedule/TB/69)
 
 10.	**Research Visit, Chinese Academy of Sciences, China** (Jul 2024) [Link](https://lsec.cc.ac.cn/~yblt24/Reporter.html)
 
-11.	OR66 Conference, Bangor University, UK (Sep 2024) [link](https://www.theorsociety.com/common/Uploaded%20files/Events/OR66/OR66%20Abstract%20Book_1.pdf)
+11.	OR66 Conference, Bangor University, UK (Sep 2024) [Link](https://www.theorsociety.com/common/Uploaded%20files/Events/OR66/OR66%20Abstract%20Book_1.pdf)
 
 
 ### Service and Organization Contribution
