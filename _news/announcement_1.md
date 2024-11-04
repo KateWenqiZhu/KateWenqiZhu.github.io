@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🎓 Honoured to be invited to the **Outstanding Doctoral Student Forum of the Institute of Computational Mathematics** with a Travel Grant from the Chinese Academy of Sciences. Heading to Beijing. 
+🎓 Honoured to be invited to the **Chinese Academy of Sciences** to give a talk and research visit. Heading to Beijing. 
 
