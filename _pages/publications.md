@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description:
+description: Some papers list authors in alphabetical order. The lead contributor(s) are indicated by ^
 nav: true
 nav_order: 1
 ---
