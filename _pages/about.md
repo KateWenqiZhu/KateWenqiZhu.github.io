@@ -33,7 +33,7 @@ education:
     - course: M.Sc. Mathematical Modelling and Scientific Computing, 2021
       institution: University of Oxford
       year:
-    - course: BA / Master of Mathematics
+    - course: Undergraduate + Master of Mathematics
       institution: University of Oxford
       year:
 
