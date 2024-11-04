@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Collective Cell Migration Project: “Modelling cell migration in freely expanding epithelia"
+title: "Collective Cell Migration Project: Modelling cell migration in freely expanding epithelia"
 description: Collective cell migrations are pivotal in biological processes
 img:
 importance: 8
