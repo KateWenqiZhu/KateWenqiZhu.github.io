@@ -13,24 +13,24 @@
       institution: University of Oxford, UK
       year: 2022-present
       description:
-          "Supervised by Prof. Coralia Cartis, Project PI Prof. Terry Lyons." 
-             - Awarded full scholarship.
-             - Proposed PhD Dissertation: Tensor Methods for Nonconvex Optimization.
+        - Supervised by Prof. Coralia Cartis, Project PI Prof. Terry Lyons. <br>
+        - Awarded full scholarship.
+        - "Proposed PhD Dissertation: Tensor Methods for Nonconvex Optimization."
 
     - title: M.Sc. Mathematical Modelling and Scientific Computing
       institution: University of Oxford, UK
       year: 2020–2021
       description:
-        "Distinction. Ranked top 1 in the cohort. Awarded M.Sc. Prize for Excellence, 2021."
-              - Master Dissertation: Multivariate Least-Squares Approximations in Irregular Domains via Vandermonde with Arnoldi.
+        - "Distinction. Ranked top 1 in the cohort. Awarded M.Sc. Prize for Excellence, 2021."
+        - "Master Dissertation: Multivariate Least-Squares Approximations in Irregular Domains via Vandermonde with Arnoldi."
 
 
     - title: Master of Mathematics (MMaths)
       institution: University of Oxford, UK
       year: 2010–2014
       description:
-          "Oxford University Dean’s List: First Class. "
-              -St. Hugh’s College Scholarship 2011-2014: for receiving distinction (top 10%) on the First Public Exam.
+        - "Oxford University Dean’s List: First Class. "
+        - "-St. Hugh’s College Scholarship 2011-2014: for receiving distinction (top 10%) on the First Public Exam."
 
 
 
@@ -73,9 +73,9 @@
 #        - Description 1.
 #        - Description 2.
 
-   - title: Founder and Project Manager for Large Language AI-Powered Virtual Influencers Model
-     institution:  AI Buddy
-     year: 2023–Present
+    - title: Founder and Project Manager for Large Language AI-Powered Virtual Influencers Model
+      institution:  AI Buddy
+      year: 2023–Present
 
 
     - title: Goldman Sachs Product Specialist Associate
