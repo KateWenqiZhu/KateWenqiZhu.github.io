@@ -21,7 +21,7 @@ horizontal: false
 
 6.	Industrial CASE Studentship* – By Syngenta Group, 2021-2025
 
-7.	Catherine Hughes Fund Internship Award (Oxford), 2021
+7.	Catherine Hughes Fund Internship Award – Awarded by Oxford, 2021
 
 8.	**M.Sc. Prize for Excellence (Ranked top 1 in the cohort)** – **Awarded by Oxford MMSC examining committee**, 2021
 
