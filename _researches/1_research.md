@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AI Buddy Project: Transforming Social Interaction with AI-Powered Virtual Influencers _[Ongoing!]_"
+title: "AI Buddy Project: Transforming Social Interaction with AI-Powered Virtual Influencers **Ongoing!**"
 description: An innovative AI-powered social platform
 img: assets/img/researches/r1_1.png
 importance: 1
