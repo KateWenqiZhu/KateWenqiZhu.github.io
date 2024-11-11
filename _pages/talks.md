@@ -13,7 +13,7 @@ nav_order: 20
 
 2.	IMA Conference on the Mathematical Challenges of Big Data, Oxford, UK (Sep 2022) [Link](https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Big-Data-Programme-v12.pdf)
 
-3.	**NeurIPS Workshop Spotlight Talk 2022** , Attended remotely (Dec 2022) [Talk](https://neurips.cc/virtual/2022/50039)
+3.	**NeurIPS Workshop Spotlight Talk 2022** - The Benefits of Higher-Order Optimization in Machine Learning (Dec 2022) [Talk](https://neurips.cc/virtual/2022/50039)
 
 4.	Research Visit, Centre for Intelligent Multidimensional Data Analysis, Hong Kong, China (Apr 2023) [Link](https://cimda-oxford.datasig.ac.uk/past-events)
 
