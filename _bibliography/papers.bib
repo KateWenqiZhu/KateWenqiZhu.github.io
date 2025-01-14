@@ -43,13 +43,36 @@ on ill-conditioned subproblems with special structures.
 },
   status = {Under Review},
   author={**Wenqi Zhu**^, Coralia Cartis},
-  journal={arXiv preprint arXiv:2312.10283},
-  pdf = {https://arxiv.org/abs/2312.10283},
+  journal={Mathematical Programming},
+  pdf = {https://link.springer.com/article/10.1007/s10107-024-02176-y},
   abbr = {Preprint},
   selected={true},
   month={Dec},
   year={2023}
 }
+
+
+@article{cartis2024efficient,
+  title={Efficient Implementation of Third-order Tensor Methods with Adaptive Regularization for Unconstrained Optimization},
+  description={High-order tensor methods that employ Taylor-based local models of positive integer degree p within adaptive regularization frameworks have recently garnered 
+significant research interest for both convex and nonconvex optimization problems. The well-known pth-order adaptive regularization (ARp) method has demonstrated optimal worst-case global 
+convergence rates and local convergence rates. At each iteration of this method, a local model of the objective function, consisting of a pth-order Taylor approximation and a (p+1)th-order 
+regularization term, is minimized. However, for any p≥3, it remains an open question how to efficiently minimize the subproblem and which minimizer to select. 
+In this context, designing efficient ARp variants is a critical area of interest, especially for p≥3. In this paper, we extend the interpolation-based updating strategies, originally introduced by Gould,
+Porcelli, and Toint in 2012 for p=2, to cases where p≥3. This updating strategy enables the regularization parameter to adjust adaptively based on interpolation models. 
+We propose a novel prerejection mechanism that rejects unwanted subproblem minimizers prior to any function evaluations, thereby reducing computational costs for p≥3.
+Numerical results illustrate how the proposed interpolation-based updating strategy and the prerejection mechanism for p=3 enhance the overall numerical performance.
+},
+  status = {Under Review},
+  author={Coralia Cartis, Raphael Hauser, Yang Liu, Karl Welzel, Wenqi Zhu}
+  journal={arXiv preprint arXiv:2501.00404},
+  pdf = {https://arxiv.org/abs/2501.00404},
+  abbr = {Preprint},
+  selected={true},
+  month={Dec},
+  year={2024}
+}
+
 
 @article{Wenqi2024global,
   title={Global convergence of high-order regularization methods with sums-of-squares Taylor models},
