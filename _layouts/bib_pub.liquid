@@ -10,7 +10,11 @@
         <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
         <!-- Author start-->
-        {% if entry.author %}{{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}{% endif %}
+        {% if entry.author_text %}
+            {{ entry.author_text | markdownify | remove: "<p>"  | remove: "</p>" }}
+        {% elsif entry.author %}
+            {{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}
+        {% endif %}
         <!-- Author end-->
 
         {% comment %}year{% endcomment %}
