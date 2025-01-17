@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to join **RisingWISE** Training & Development for STEM early career women researchers
+I am excited to join **RisingWISE** Training & Development for STEM early career women researchers
