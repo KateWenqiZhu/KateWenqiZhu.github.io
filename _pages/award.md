@@ -8,6 +8,8 @@ nav_order: 10
 # display_categories: []
 horizontal: false
 ---
+- **Leslie Fox Prize for Numerical Analysis** Second Prize Awardees, 2025
+  
 - **RisingWISE** Training & Development for STEM early career women researchers, 2025
 
 - Oxford Graduate Student Travel Grant – By St Annes College, 2025
