@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Organized two minisymposia and gave a talk at **ISPM 2025**, focusing on higher-order optimization and polynomial methods.
+Organized two minisymposia and gave a talk at **ICCOPT 2025**, focusing on higher-order optimization and polynomial methods.
