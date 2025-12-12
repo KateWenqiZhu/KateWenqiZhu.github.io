@@ -33,7 +33,7 @@ nav_order: 20
 
 12. ICCOPT 2025, The University of Southern California, USA (2025) [Link](https://iccopt2025usc.sched.com/) 
 
-13. IMA Leslie Fox Prize for Numerical Analysis, University of Oxford, UK (2025)[Link](https://www.maths.ox.ac.uk/node/72334)
+13. IMA Leslie Fox Prize for Numerical Analysis, University of Oxford, UK (2025) [Link](https://www.maths.ox.ac.uk/node/72334)
 
 14. Biennial Numerical Analysis, University of Strathclyde, Glasgow, Scotland (Jun 2025)
 
