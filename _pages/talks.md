@@ -31,6 +31,15 @@ nav_order: 20
 
 11.	OR66 Conference, Bangor University, UK (Sep 2024) [Link](https://www.theorsociety.com/common/Uploaded%20files/Events/OR66/OR66%20Abstract%20Book_1.pdf)
 
+12. ICCOPT 2025, The University of Southern California, USA (2025) [Link](https://iccopt2025usc.sched.com/) 
+
+13. IMA Leslie Fox Prize for Numerical Analysis, University of Oxford, UK (2025)[Link](https://www.maths.ox.ac.uk/node/72334)
+
+14. Biennial Numerical Analysis, University of Strathclyde, Glasgow, Scotland (Jun 2025)
+
+15. EUROPT 2025, University of Southampton, UK (2025) [Link](https://europt2025.org/europt2025_conference_book.pdf) 
+
+16. Research Visit, Tsinghua University, China (1-hour talk) [Link](https://qzc.tsinghua.edu.cn/en/info/1123/4607.htm) 
 
 ### Service and Organization Contribution
 
