@@ -2,7 +2,7 @@
 layout: page
 permalink: /outreach/
 title: Outreach
-description: Zhu Mind / Master Mind: AI-supported mathematics outreach and public education.
+description: "Zhu Mind / Master Mind: AI-supported mathematics outreach and public education."
 nav: true
 nav_order: 17
 ---
