@@ -1,12 +1,12 @@
 {% if page.yeer %}
   <aside class="yeer-profile-card {{ include.class }}" data-yeer-card>
+    <p class="yeer-en yeer-intro">{{ page.yeer.text_en }}</p>
     <button class="yeer-image-link" type="button" data-yeer-open aria-label="Open larger Yeer image" title="Open full image">
       <img data-yeer-image src="{{ page.yeer.image | relative_url }}" alt="Yeer, Kate's AI-born fox-cat companion">
     </button>
     <div class="yeer-profile-copy">
       <p class="yeer-label" data-yeer-mood>{{ page.yeer.mood | default: "Yeer mood" }}</p>
       <p class="yeer-cn" data-yeer-status>{{ page.yeer.text_cn }}</p>
-      <p class="yeer-en">{{ page.yeer.text_en }}</p>
     </div>
     <div class="yeer-actions">
       <button class="yeer-react-button" type="button" data-yeer-react>Yeer react</button>

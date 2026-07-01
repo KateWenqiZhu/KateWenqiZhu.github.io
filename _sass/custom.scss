@@ -1183,14 +1183,14 @@ ul.ul-edu li .description {
 
 .yeer-bio-card {
   float: right;
-  width: 220px;
+  width: 240px;
   max-width: 34%;
   margin: 0.1rem 0 0.9rem 1.35rem;
   padding: 0.68rem;
 }
 
 .yeer-bio-card .yeer-profile-copy {
-  padding-top: 0.5rem;
+  padding-top: 0.46rem;
 }
 
 .yeer-bio-card .yeer-label {
@@ -1198,12 +1198,19 @@ ul.ul-edu li .description {
 }
 
 .yeer-bio-card .yeer-cn {
-  font-size: 0.69rem;
-  line-height: 1.4;
+  font-size: 0.68rem;
+  line-height: 1.38;
 }
 
 .yeer-bio-card .yeer-en {
   font-size: 0.58rem;
+}
+
+.yeer-bio-card .yeer-intro {
+  margin: 0 0 0.48rem;
+  color: var(--global-text-color-light);
+  font-size: 0.6rem;
+  line-height: 1.32;
 }
 
 .yeer-bio-card .yeer-actions {
@@ -1238,7 +1245,7 @@ ul.ul-edu li .description {
 .yeer-image-link img {
   display: block;
   width: 100%;
-  aspect-ratio: 1.35;
+  aspect-ratio: 1;
   border-radius: 10px;
   object-fit: cover;
   transition: transform 180ms ease, filter 180ms ease;
