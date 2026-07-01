@@ -10,7 +10,15 @@ layout: home_section_layout
 </section>
 {% endif %}
 
-<!-- News -->
+{% if page.selected_papers %}
+    <section class="home-section">
+        <div class="container">
+            {% include about/featuredPublications.liquid %}
+        </div>
+    </section>
+{% endif %}
+
+<!-- News (moved to the bottom of the homepage) -->
 {% if page.news and site.announcements.enabled %}
   <section class="home-section">
     <div class="container">
@@ -27,13 +35,4 @@ layout: home_section_layout
 
     </div>
   </section>
-{% endif %}
-
-
-{% if page.selected_papers %}
-    <section class="home-section">
-        <div class="container">
-            {% include about/featuredPublications.liquid %}
-        </div>
-    </section>
 {% endif %}

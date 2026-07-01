@@ -1,11 +1,101 @@
 <div class="row publications">
     <div class="col-12 col-lg-4 section-heading">
-        {% comment %}<h1>Featured Publications</h1>{% endcomment %}
         <h2>
             <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Featured Publications</a>
         </h2>
+        <p style="margin-top:.55rem; font-size:.85rem; color:var(--global-text-color-light); line-height:1.5;">
+            <strong>Wenqi Zhu*</strong> indicates first-author / lead-author work.
+        </p>
     </div>
     <div class="col-12 col-lg-8">
-        {% bibliography --template bib_fp --group_by none --query @*[selected=true]* %}
+
+        <!-- 1 · Cubic-Quartic (Leslie Fox Prize) -->
+        <div class="card-simple view-card">
+            <div class="card-body-wrap">
+                <div class="article-metadata">
+                    <div class="author">C. Cartis, <strong>Wenqi Zhu</strong>*</div>
+                    <span class="article-date"><span class="bib-fp-month-cap"> Jan </span> 2025</span>
+                    <span class="middot-divider"></span>
+                    <span class="pub-publication">Mathematical Programming</span>
+                    <span class="middot-divider"></span>
+                    <span class="pub-publication" style="color:#b9893b; font-weight:700;">🏆 Leslie Fox Prize</span>
+                </div>
+                <div class="section-subheading article-title mb-1 mt-3">Cubic-Quartic Regularization Models for Solving Polynomial Subproblems in Third-Order Tensor Methods</div>
+                <div class="article-style"><p>This paper proposes the CQR framework for minimizing nonconvex cubic multivariate polynomials with quartic regularization, deriving optimality characterizations and efficient root-finding procedures for practical high-order tensor methods.</p></div>
+                <div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="https://link.springer.com/article/10.1007/s10107-024-02176-y" target="_blank" rel="noopener">PDF</a></div>
+            </div>
+        </div>
+
+        <!-- 2 · Sufficiently Regularized Nonnegative Quartic -->
+        <div class="card-simple view-card">
+            <div class="card-body-wrap">
+                <div class="article-metadata">
+                    <div class="author"><strong>Wenqi Zhu</strong>*, C. Cartis</div>
+                    <span class="article-date"><span class="bib-fp-month-cap"> Jan </span> 2026</span>
+                    <span class="middot-divider"></span>
+                    <span class="pub-publication">Under Review</span>
+                </div>
+                <div class="section-subheading article-title mb-1 mt-3">Sufficiently Regularized Nonnegative Quartic Polynomials are Sum-of-Squares</div>
+                <div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2601.20418" target="_blank" rel="noopener">PDF</a></div>
+            </div>
+        </div>
+
+        <!-- 3 · Second-Order Methods for Quartically-Regularised Cubic Polynomials -->
+        <div class="card-simple view-card">
+            <div class="card-body-wrap">
+                <div class="article-metadata">
+                    <div class="author">C. Cartis, <strong>Wenqi Zhu</strong>*</div>
+                    <span class="article-date">2025</span>
+                    <span class="middot-divider"></span>
+                    <span class="pub-publication">Mathematical Programming</span>
+                </div>
+                <div class="section-subheading article-title mb-1 mt-3">Second-Order Methods for Quartically-Regularised Cubic Polynomials, with Applications to High-Order Tensor Methods</div>
+                <div class="article-style"><p>This paper introduces QQR, a second-order method for minimizing nonconvex quartically regularized cubic polynomials through tractable quadratic-quartic local models.</p></div>
+                <div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="https://link.springer.com/article/10.1007/s10107-025-02235-y" target="_blank" rel="noopener">PDF</a></div>
+            </div>
+        </div>
+
+        <!-- 4 · Global Optimality Characterizations -->
+        <div class="card-simple view-card">
+            <div class="card-body-wrap">
+                <div class="article-metadata">
+                    <div class="author">C. Cartis, <strong>Wenqi Zhu</strong>*</div>
+                    <span class="article-date"><span class="bib-fp-month-cap"> Apr </span> 2025</span>
+                    <span class="middot-divider"></span>
+                    <span class="pub-publication">Revision, Applied Numerical Mathematics</span>
+                </div>
+                <div class="section-subheading article-title mb-1 mt-3">Global Optimality Characterizations and Algorithms for Minimizing Quartically-Regularized Third-Order Taylor Polynomials</div>
+                <div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2504.20259" target="_blank" rel="noopener">PDF</a></div>
+            </div>
+        </div>
+
+        <!-- 5 · Global Convergence of High-Order Regularization -->
+        <div class="card-simple view-card">
+            <div class="card-body-wrap">
+                <div class="article-metadata">
+                    <div class="author">C. Cartis, <strong>Wenqi Zhu</strong>*</div>
+                    <span class="article-date"><span class="bib-fp-month-cap"> Apr </span> 2024</span>
+                    <span class="middot-divider"></span>
+                    <span class="pub-publication">Revision, SIAM Journal on Optimization</span>
+                </div>
+                <div class="section-subheading article-title mb-1 mt-3">Global Convergence of High-Order Regularization Methods with Sums-of-Squares Taylor Models</div>
+                <div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2404.03035" target="_blank" rel="noopener">PDF</a></div>
+            </div>
+        </div>
+
+        <!-- 6 · Vandermonde with Arnoldi -->
+        <div class="card-simple view-card">
+            <div class="card-body-wrap">
+                <div class="article-metadata">
+                    <div class="author"><strong>Wenqi Zhu</strong>*, Y. Nakatsukasa</div>
+                    <span class="article-date">2025</span>
+                    <span class="middot-divider"></span>
+                    <span class="pub-publication">IMA Journal of Numerical Analysis</span>
+                </div>
+                <div class="section-subheading article-title mb-1 mt-3">Convergence and Near-Optimal Sampling in Multivariate Irregular Domains via Vandermonde with Arnoldi</div>
+                <div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/draf055/8210327" target="_blank" rel="noopener">PDF</a></div>
+            </div>
+        </div>
+
     </div>
 </div>
