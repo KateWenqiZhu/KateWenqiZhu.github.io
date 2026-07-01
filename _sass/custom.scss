@@ -1181,12 +1181,30 @@ ul.ul-edu li .description {
   text-align: left;
 }
 
+.yeer-image-link {
+  display: block;
+  overflow: hidden;
+  border-radius: 10px;
+  cursor: zoom-in;
+}
+
+.yeer-image-link:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 3px;
+}
+
 .yeer-profile-card img {
   display: block;
   width: 100%;
   aspect-ratio: 1.35;
   border-radius: 10px;
   object-fit: cover;
+  transition: transform 180ms ease, filter 180ms ease;
+}
+
+.yeer-image-link:hover img {
+  filter: saturate(1.04) contrast(1.02);
+  transform: scale(1.025);
 }
 
 .yeer-profile-copy {

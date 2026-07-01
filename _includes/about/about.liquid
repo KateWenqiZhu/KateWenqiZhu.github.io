@@ -36,7 +36,9 @@
 
             {% if page.yeer %}
                 <aside class="yeer-profile-card">
-                    <img src="{{ page.yeer.image | relative_url }}" alt="Yeer, Kate's AI-born fox-cat companion for {{ page.yeer.date }}">
+                    <a class="yeer-image-link" href="{{ page.yeer.image | relative_url }}" target="_blank" rel="noopener" aria-label="Open larger Yeer image for {{ page.yeer.date }}" title="Open full image">
+                        <img src="{{ page.yeer.image | relative_url }}" alt="Yeer, Kate's AI-born fox-cat companion for {{ page.yeer.date }}">
+                    </a>
                     <div class="yeer-profile-copy">
                         <p class="yeer-label">Yeer today · {{ page.yeer.date }}</p>
                         <p class="yeer-cn">{{ page.yeer.text_cn }}</p>
