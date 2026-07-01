@@ -2,52 +2,48 @@
 layout: page
 permalink: /outreach/
 title: Application
-description: "Zhu Mind / Master Mind: AI-supported mathematics outreach and public education."
+description:
 nav: true
 nav_order: 5
 ---
 
-<div class="application-page">
+<div class="application-page application-v2">
 
-<section class="application-hero">
-  <div class="application-hero-copy">
-    <p class="application-kicker">Zhu Mind / Master Mind: AI-supported mathematics outreach and public education.</p>
-    <h1>What is Master Mind?</h1>
-    <p class="application-one-line">
-      Master Mind is a gamified mathematics app powered by the Oxford ZhuZhu brain and IP: an AI learning buddy for
-      thinking, play, and personalized mentorship.
-    </p>
-    <p class="application-one-line zh">
-      Master Mind 是一个带有“牛津朱朱大脑”和个人 IP 的游戏化数学 App：把课程、AI、数学游戏和个性化陪伴放进同一个学习系统。
-    </p>
-    <div class="application-formula">
-      <span>Innovative Courses</span>
-      <b>+</b>
-      <span>AI Tech</span>
-      <b>+</b>
-      <span>Gamified Math</span>
-      <b>+</b>
-      <span>Personalized Mentorship</span>
-    </div>
-    <div class="application-proof">
-      <div><strong>8,000+</strong><span>course learners / 课程互动用户</span></div>
-      <div><strong>200,000+</strong><span>learning sessions / 学习次数</span></div>
-      <div><strong>Shenzhen + HKSTP</strong><span>深圳 AI 营落地 + HKSTP Ideation conditional approval</span></div>
-    </div>
+<section class="application-hero-v2">
+  <h1>
+    What is Master Mind?
+    <img class="application-inline-logo" src="/assets/img/application/mastermind-logo.png" alt="Master Mind logo">
+  </h1>
+  <p class="application-one-line">
+    Master Mind is a gamified mathematics app powered by the Oxford ZhuZhu brain and IP: an AI learning buddy for
+    thinking, play, and personalized mentorship.
+  </p>
+  <p class="application-one-line zh">
+    Master Mind 是一个带有“牛津朱朱大脑”和个人 IP 的游戏化数学 App：把课程、AI、数学游戏和个性化陪伴放进同一个学习系统。
+  </p>
+
+  <div class="application-formula">
+    <span>Innovative Courses</span>
+    <b>+</b>
+    <span>AI Tech</span>
+    <b>+</b>
+    <span>Gamified Math</span>
+    <b>+</b>
+    <span>Personalized Mentorship</span>
   </div>
-  <div class="application-hero-visual">
-    <img class="application-logo" src="/assets/img/application/mastermind-logo.png" alt="Master Mind logo">
-    <img class="application-phone" src="/assets/img/outreach/mastermind-app.png" alt="Master Mind app interface">
+
+  <div class="application-proof">
+    <div><strong>8,000+</strong><span>course learners / 课程互动用户</span></div>
+    <div><strong>200,000+</strong><span>learning sessions / 学习次数</span></div>
+    <div><strong>Shenzhen + HKSTP</strong><span>深圳 AI 营落地 + HKSTP Ideation conditional approval</span></div>
   </div>
 </section>
 
-<section class="application-showcase">
-  <img src="/assets/img/application/gamified-math-strip.png" alt="Gamified math course scenes">
-  <img src="/assets/img/application/what-is-mastermind-slide.png" alt="What is Master Mind slide">
-  <img src="/assets/img/application/zhu-video-cover.png" alt="ZhuZhu mathematics video cover">
+<section class="application-strip">
+  <img src="/assets/img/application/mastermind-game-strip.png" alt="Gamified mathematics course scenes from Master Mind">
 </section>
 
-<section class="application-section application-two-col">
+<section class="application-section application-story-news">
   <div>
     <p class="application-label">Created by Kate Zhu</p>
     <h2>Oxford-style mathematical thinking, made playful.</h2>
@@ -59,11 +55,22 @@ nav_order: 5
       这个项目来自我的长期数学科普、牛津数学训练和公开教学经验。它不是冷冰冰的答题机器，而是把“如何思考”变成可以练习、可以互动、可以被陪伴的学习过程。
     </p>
   </div>
-  <div class="application-mini-grid">
-    <img src="/assets/img/application/media-leslie-fox.png" alt="Media coverage mentioning Kate Zhu and Leslie Fox Prize">
-    <img src="/assets/img/application/learning-assessment.png" alt="Master Mind learning assessment">
-    <img src="/assets/img/outreach/mastermind-course.png" alt="Master Mind course example">
-    <img src="/assets/img/outreach/mastermind-ai-demo.png" alt="Master Mind AI demo">
+
+  <div class="application-news-window" aria-label="Master Mind media and product highlights">
+    <div class="application-news-track">
+      <img src="/assets/img/application/news/leslie-fox-media.png" alt="Media coverage about Kate Zhu and the Leslie Fox Prize">
+      <img src="/assets/img/application/news/math-award-post.png" alt="Public post about Kate Zhu and mathematics learning">
+      <img src="/assets/img/application/news/nanshan-video.png" alt="Nanshan mathematics video cover">
+      <img src="/assets/img/application/news/girls-math-award.png" alt="Girls and mathematics award media post">
+      <img src="/assets/img/application/news/shenzhen-thumbnail.png" alt="Shenzhen mathematics outreach thumbnail">
+      <img src="/assets/img/application/news/ai-zhuzhu-chat.png" alt="AI ZhuZhu learning companion interface">
+      <img src="/assets/img/application/news/leslie-fox-media.png" alt="">
+      <img src="/assets/img/application/news/math-award-post.png" alt="">
+      <img src="/assets/img/application/news/nanshan-video.png" alt="">
+      <img src="/assets/img/application/news/girls-math-award.png" alt="">
+      <img src="/assets/img/application/news/shenzhen-thumbnail.png" alt="">
+      <img src="/assets/img/application/news/ai-zhuzhu-chat.png" alt="">
+    </div>
   </div>
 </section>
 
@@ -78,37 +85,75 @@ nav_order: 5
   </div>
 </section>
 
-<section class="application-section application-roadmap">
+<section class="application-section application-system-v2">
+  <p class="application-label">Operating system</p>
+  <h2>Education + Technology + Business</h2>
+  <p>
+    Master Mind is designed as a scalable AI education operating system: subject-aware AI, expert-IP learning
+    companions, and curriculum that can expand from mathematics into other disciplines.
+  </p>
+
+  <div class="application-system-map" aria-label="Education, Technology, and Business operating system">
+    <svg viewBox="0 0 640 270" aria-hidden="true">
+      <path class="system-link link-a" d="M190 95 C275 38, 365 38, 450 95"></path>
+      <path class="system-link link-b" d="M200 135 C280 220, 360 220, 440 135"></path>
+      <path class="system-link link-c" d="M320 185 C300 150, 285 120, 250 105"></path>
+      <path class="system-link link-d" d="M320 185 C340 150, 355 120, 390 105"></path>
+    </svg>
+    <div class="system-node node-education">
+      <strong>Education</strong>
+      <span>课程与数学思维</span>
+    </div>
+    <div class="system-node node-technology">
+      <strong>Technology</strong>
+      <span>AI companion</span>
+    </div>
+    <div class="system-node node-business">
+      <strong>Business</strong>
+      <span>B2C + school pilots</span>
+    </div>
+  </div>
+</section>
+
+<section class="application-section application-history-v2">
   <p class="application-label">Development history</p>
   <h2>From public content to AI learning community</h2>
-  <div class="application-timeline">
-    <div><em>2024.08</em><strong>WeChat deployment</strong><span>Free public math content; early paid user validation.</span></div>
+
+  <div class="application-timeline-v2">
+    <div><em>2024.08</em><strong>WeChat deployment</strong><span>Free public math content and early paid user validation.</span></div>
     <div><em>2025.01</em><strong>Web deployment</strong><span>Public learning resources and a 3M+ mathematics community.</span></div>
-    <div><em>2025.06</em><strong>AI community</strong><span>Master Mind course, AI integration, 8,000+ learners.</span></div>
-    <div><em>2026</em><strong>HK + Shenzhen</strong><span>HK school access, CityU research partnership, Shenzhen AI camp, HKSTP Ideation.</span></div>
+    <div><em>2025.06</em><strong>AI community</strong><span>Master Mind course, AI integration, and 8,000+ learners.</span></div>
+    <div><em>2026</em><strong>HK + Shenzhen</strong><span>HKSTP Ideation, Shenzhen AI camp, and Hong Kong school access initiative.</span></div>
   </div>
-  <img src="/assets/img/application/development-roadmap.png" alt="Development history and future outlook slide">
-</section>
 
-<section class="application-section application-ecosystem">
-  <div>
-    <p class="application-label">Operating system</p>
-    <h2>Education + Technology + Business</h2>
-    <p>
-      Master Mind is designed as a scalable AI education operating system: subject-aware AI, expert-IP learning
-      companions, and curriculum that can expand from mathematics into other disciplines.
-    </p>
+  <div class="application-phase-path" aria-label="Master Mind development phases">
+    <div class="phase-node small">
+      <strong>Personal User</strong>
+      <span>Phase I</span>
+    </div>
+    <div class="phase-line"></div>
+    <div class="phase-node">
+      <strong>Large-scale Testing</strong>
+      <span>Phase II</span>
+    </div>
+    <div class="phase-line"></div>
+    <div class="phase-node">
+      <strong>AI Learning Community + Course Design</strong>
+      <span>Phase III</span>
+    </div>
+    <div class="phase-line"></div>
+    <div class="phase-node large">
+      <strong>Future Expansion</strong>
+      <span>HK schools, Shenzhen AI camp, multi-subject learning</span>
+    </div>
   </div>
-  <div class="application-orbit" aria-label="Master Mind ecosystem">
-    <span>Education</span>
-    <span>Technology</span>
-    <span>Business</span>
-  </div>
-</section>
 
-<section class="application-slide-replica">
-  <img src="/assets/img/application/ecosystem-model.png" alt="Master Mind ecosystem model slide">
-  <img src="/assets/img/application/mastermind-formula.png" alt="Master Mind formula slide">
+  <div class="application-history-notes">
+    <article><strong>Phase I</strong><p>Created free educational content with millions of reads and built early user validation.</p></article>
+    <article><strong>Phase II</strong><p>Launched web access, public learning resources, and a broad mathematics community.</p></article>
+    <article><strong>Phase III</strong><p>Launched the Master Mind mindset course with live AI integration and strong engagement.</p></article>
+    <article><strong>Next</strong><p>Expand school access, AI learning features, and subject-aware learning companions.</p></article>
+  </div>
 </section>
 
 </div>

@@ -34,6 +34,17 @@
                 </div>
             {% endif %}
 
+            {% if page.yeer %}
+                <aside class="yeer-profile-card">
+                    <img src="{{ page.yeer.image | relative_url }}" alt="Yeer, Kate's AI-born fox-cat companion for {{ page.yeer.date }}">
+                    <div class="yeer-profile-copy">
+                        <p class="yeer-label">Yeer today · {{ page.yeer.date }}</p>
+                        <p class="yeer-cn">{{ page.yeer.text_cn }}</p>
+                        <p class="yeer-en">{{ page.yeer.text_en }}</p>
+                    </div>
+                </aside>
+            {% endif %}
+
 
         </div>
     </div>
