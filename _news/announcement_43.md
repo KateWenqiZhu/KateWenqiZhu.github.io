@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Zhu Mind / Master Mind was conditionally approved for the **HKSTP Ideation Programme** (Ideation ID: 2026-3220), with full approval subject to due diligence.
+Congrats! Zhu Mind / Master Mind was conditionally approved for the **HKSTP Programme**.
