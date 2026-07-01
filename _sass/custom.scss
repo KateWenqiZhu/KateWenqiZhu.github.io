@@ -1181,6 +1181,44 @@ ul.ul-edu li .description {
   text-align: left;
 }
 
+.yeer-bio-card {
+  float: right;
+  width: 220px;
+  max-width: 34%;
+  margin: 0.1rem 0 0.9rem 1.35rem;
+  padding: 0.68rem;
+}
+
+.yeer-bio-card .yeer-profile-copy {
+  padding-top: 0.5rem;
+}
+
+.yeer-bio-card .yeer-label {
+  font-size: 0.66rem;
+}
+
+.yeer-bio-card .yeer-cn {
+  font-size: 0.69rem;
+  line-height: 1.4;
+}
+
+.yeer-bio-card .yeer-en {
+  font-size: 0.58rem;
+}
+
+.yeer-bio-card .yeer-actions {
+  gap: 0.38rem;
+}
+
+.yeer-bio-card .yeer-react-button {
+  padding: 0.3rem 0.48rem;
+  font-size: 0.66rem;
+}
+
+.yeer-bio-card .yeer-actions span {
+  font-size: 0.6rem;
+}
+
 .yeer-image-link {
   display: block;
   width: 100%;
@@ -1345,6 +1383,13 @@ body.yeer-lightbox-open {
 }
 
 @media (max-width: 900px) {
+  .yeer-bio-card {
+    float: none;
+    width: min(300px, 100%);
+    max-width: 300px;
+    margin: 0.6rem auto 1.2rem;
+  }
+
   .application-story-news,
   .application-timeline-v2,
   .application-history-notes {

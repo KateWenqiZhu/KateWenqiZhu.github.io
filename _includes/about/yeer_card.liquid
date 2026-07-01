@@ -1,0 +1,100 @@
+{% if page.yeer %}
+  <aside class="yeer-profile-card {{ include.class }}" data-yeer-card>
+    <button class="yeer-image-link" type="button" data-yeer-open aria-label="Open larger Yeer image" title="Open full image">
+      <img data-yeer-image src="{{ page.yeer.image | relative_url }}" alt="Yeer, Kate's AI-born fox-cat companion">
+    </button>
+    <div class="yeer-profile-copy">
+      <p class="yeer-label" data-yeer-mood>{{ page.yeer.mood | default: "Yeer mood" }}</p>
+      <p class="yeer-cn" data-yeer-status>{{ page.yeer.text_cn }}</p>
+      <p class="yeer-en">{{ page.yeer.text_en }}</p>
+    </div>
+    <div class="yeer-actions">
+      <button class="yeer-react-button" type="button" data-yeer-react>Yeer react</button>
+      <span>换一个状态</span>
+    </div>
+    <div class="yeer-lightbox" data-yeer-lightbox hidden>
+      <button class="yeer-lightbox-backdrop" type="button" data-yeer-close aria-label="Close Yeer image"></button>
+      <figure class="yeer-lightbox-panel">
+        <button class="yeer-lightbox-close" type="button" data-yeer-close aria-label="Close Yeer image">×</button>
+        <img data-yeer-lightbox-image src="{{ page.yeer.image | relative_url }}" alt="Expanded Yeer image">
+        <figcaption>
+          <strong data-yeer-lightbox-mood>{{ page.yeer.mood | default: "Yeer mood" }}</strong>
+          <span data-yeer-lightbox-status>{{ page.yeer.text_cn }}</span>
+        </figcaption>
+      </figure>
+    </div>
+  </aside>
+  <script>
+    (function () {
+      var gallery = {{ site.data.yeer_gallery | jsonify }};
+      if (!Array.isArray(gallery) || gallery.length === 0) return;
+
+      document.querySelectorAll('[data-yeer-card]').forEach(function (card) {
+        var mainImage = card.querySelector('[data-yeer-image]');
+        var mainMood = card.querySelector('[data-yeer-mood]');
+        var mainStatus = card.querySelector('[data-yeer-status]');
+        var openButton = card.querySelector('[data-yeer-open]');
+        var reactButton = card.querySelector('[data-yeer-react]');
+        var lightbox = card.querySelector('[data-yeer-lightbox]');
+        var lightboxImage = card.querySelector('[data-yeer-lightbox-image]');
+        var lightboxMood = card.querySelector('[data-yeer-lightbox-mood]');
+        var lightboxStatus = card.querySelector('[data-yeer-lightbox-status]');
+        var currentIndex = gallery.findIndex(function (item) {
+          return item.image === mainImage.getAttribute('src');
+        });
+        if (currentIndex < 0 && mainMood) {
+          currentIndex = gallery.findIndex(function (item) {
+            return item.mood === mainMood.textContent.trim();
+          });
+        }
+
+        function setYeer(entry) {
+          mainImage.src = entry.image;
+          mainImage.alt = 'Yeer mood: ' + entry.mood;
+          mainMood.textContent = entry.mood;
+          mainStatus.textContent = entry.status;
+          lightboxImage.src = entry.image;
+          lightboxMood.textContent = entry.mood;
+          lightboxStatus.textContent = entry.status;
+        }
+
+        function pickAnotherYeer() {
+          var nextIndex = 0;
+          if (gallery.length > 1) {
+            do {
+              nextIndex = Math.floor(Math.random() * gallery.length);
+            } while (nextIndex === currentIndex);
+          }
+          currentIndex = nextIndex;
+          return gallery[currentIndex];
+        }
+
+        function openLightbox() {
+          lightbox.hidden = false;
+          document.body.classList.add('yeer-lightbox-open');
+        }
+
+        function closeLightbox() {
+          lightbox.hidden = true;
+          document.body.classList.remove('yeer-lightbox-open');
+        }
+
+        reactButton.addEventListener('click', function () {
+          setYeer(pickAnotherYeer());
+        });
+
+        openButton.addEventListener('click', openLightbox);
+
+        card.querySelectorAll('[data-yeer-close]').forEach(function (button) {
+          button.addEventListener('click', closeLightbox);
+        });
+
+        document.addEventListener('keydown', function (event) {
+          if (event.key === 'Escape' && !lightbox.hidden) {
+            closeLightbox();
+          }
+        });
+      });
+    })();
+  </script>
+{% endif %}
