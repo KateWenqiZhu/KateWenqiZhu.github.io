@@ -367,3 +367,415 @@ ul.ul-edu li .description {
     grid-template-columns: 1fr;
   }
 }
+
+.post-header:has(+ article .application-page) .post-description {
+  max-width: 860px;
+  color: var(--global-theme-color);
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.application-page {
+  --app-ink: #101820;
+  --app-blue: #1557a6;
+  --app-cyan: #3fb9d4;
+  --app-gold: #b9893b;
+}
+
+.application-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+  gap: 2.25rem;
+  align-items: center;
+  padding: 1.5rem 0 2.4rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.application-kicker {
+  margin-bottom: 1rem;
+  color: var(--global-theme-color);
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.application-hero h1 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  line-height: 1.06;
+}
+
+.application-one-line {
+  max-width: 740px;
+  margin-bottom: 0.7rem;
+  color: var(--global-text-color);
+  font-size: 1.15rem;
+  line-height: 1.55;
+}
+
+.application-one-line.zh,
+.application-section .zh {
+  color: var(--global-text-color-light);
+}
+
+.application-formula {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin-top: 1.25rem;
+  color: var(--app-ink);
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.application-formula span,
+.application-formula b {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+}
+
+.application-formula span {
+  padding: 0.38rem 0.62rem;
+  border: 1px solid rgba(21, 87, 166, 22%);
+  border-radius: 8px;
+  background: rgba(63, 185, 212, 10%);
+}
+
+.application-formula b {
+  color: var(--app-blue);
+}
+
+.application-proof {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.application-proof div,
+.application-loop-grid article {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  background: var(--global-card-bg-color);
+}
+
+.application-proof div {
+  padding: 0.8rem 0.9rem;
+}
+
+.application-proof strong {
+  display: block;
+  color: var(--app-blue);
+  font-size: 1.12rem;
+  line-height: 1.15;
+}
+
+.application-proof span {
+  color: var(--global-text-color-light);
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
+.application-hero-visual {
+  position: relative;
+  display: grid;
+  grid-template-columns: 0.48fr 0.95fr;
+  gap: 0.8rem;
+  align-items: center;
+  min-height: 430px;
+  padding: 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  background: linear-gradient(135deg, #0d1117 0%, #102c54 58%, #f5f8fb 58%, #f5f8fb 100%);
+  overflow: hidden;
+}
+
+.application-logo {
+  width: min(150px, 100%);
+  justify-self: center;
+  filter: drop-shadow(0 12px 24px rgba(0, 0, 0, 30%));
+}
+
+.application-phone {
+  width: min(250px, 100%);
+  justify-self: center;
+  border-radius: 18px;
+  box-shadow: 0 16px 42px rgba(0, 0, 0, 22%);
+}
+
+.application-showcase,
+.application-slide-replica {
+  display: grid;
+  gap: 0.95rem;
+  margin-top: 1.7rem;
+}
+
+.application-showcase {
+  grid-template-columns: 1.2fr 1fr 0.72fr;
+}
+
+.application-showcase img,
+.application-mini-grid img,
+.application-roadmap img,
+.application-slide-replica img {
+  width: 100%;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  background: var(--global-card-bg-color);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 8%);
+}
+
+.application-showcase img {
+  height: 210px;
+  object-fit: cover;
+}
+
+.application-section {
+  margin-top: 3rem;
+}
+
+.application-label {
+  margin-bottom: 0.45rem;
+  color: var(--app-gold);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.application-section h2 {
+  margin-bottom: 0.8rem;
+  font-size: 1.75rem;
+}
+
+.application-section p {
+  max-width: 780px;
+  line-height: 1.65;
+}
+
+.application-two-col {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(320px, 1.1fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+.application-mini-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.application-mini-grid img {
+  height: 150px;
+  object-fit: cover;
+}
+
+.application-loop-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin-top: 1.1rem;
+}
+
+.application-loop-grid article {
+  padding: 1rem;
+}
+
+.application-loop-grid strong {
+  display: block;
+  color: var(--app-blue);
+  font-size: 0.85rem;
+}
+
+.application-loop-grid span {
+  display: block;
+  margin: 0.35rem 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.application-loop-grid p {
+  margin: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+
+.application-roadmap {
+  padding: 1.35rem;
+  border-radius: 8px;
+  background: linear-gradient(135deg, rgba(16, 24, 32, 96%), rgba(21, 87, 166, 82%));
+  color: #fff;
+}
+
+.application-roadmap .application-label,
+.application-roadmap h2,
+.application-roadmap p {
+  color: #fff;
+}
+
+.application-roadmap img {
+  margin-top: 1rem;
+  border-color: rgba(255, 255, 255, 26%);
+}
+
+.application-timeline {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.application-timeline div {
+  padding: 0.85rem;
+  border: 1px solid rgba(255, 255, 255, 18%);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 8%);
+}
+
+.application-timeline em,
+.application-timeline strong,
+.application-timeline span {
+  display: block;
+}
+
+.application-timeline em {
+  color: #8fd8ff;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.application-timeline strong {
+  margin: 0.3rem 0;
+}
+
+.application-timeline span {
+  color: rgba(255, 255, 255, 82%);
+  font-size: 0.86rem;
+}
+
+.application-ecosystem {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(260px, 0.75fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+.application-orbit {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  min-height: 230px;
+  align-items: center;
+}
+
+.application-orbit span {
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1;
+  border: 1px solid rgba(185, 137, 59, 70%);
+  border-radius: 50%;
+  background: #0b2a4a;
+  color: #fff;
+  font-weight: 800;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 16%);
+}
+
+.application-orbit span:nth-child(3) {
+  grid-column: 1 / 3;
+  width: 42%;
+  justify-self: center;
+}
+
+.application-slide-replica {
+  grid-template-columns: 1fr 0.45fr;
+  align-items: stretch;
+  padding-bottom: 2rem;
+}
+
+.application-slide-replica img {
+  height: 230px;
+  object-fit: cover;
+}
+
+.yeer-window {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 132px;
+  gap: 0.85rem;
+  align-items: center;
+  max-width: 560px;
+  margin: 1.4rem 0;
+  padding: 0.85rem;
+  border: 1px solid rgba(185, 137, 59, 32%);
+  border-radius: 8px;
+  background: linear-gradient(135deg, rgba(185, 137, 59, 10%), rgba(63, 185, 212, 8%));
+}
+
+.yeer-window img {
+  width: 132px;
+  height: 92px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.yeer-label {
+  margin-bottom: 0.28rem;
+  color: var(--global-theme-color);
+  font-size: 0.76rem;
+  font-weight: 700;
+}
+
+.yeer-cn {
+  margin-bottom: 0.3rem;
+  color: var(--global-text-color);
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
+
+.yeer-en {
+  margin-bottom: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.74rem;
+  line-height: 1.35;
+}
+
+@media (max-width: 900px) {
+  .application-hero,
+  .application-two-col,
+  .application-ecosystem {
+    grid-template-columns: 1fr;
+  }
+
+  .application-showcase,
+  .application-loop-grid,
+  .application-timeline {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .application-hero-visual {
+    min-height: auto;
+  }
+}
+
+@media (max-width: 560px) {
+  .application-hero h1 {
+    font-size: 2.1rem;
+  }
+
+  .application-proof,
+  .application-showcase,
+  .application-mini-grid,
+  .application-loop-grid,
+  .application-timeline,
+  .application-slide-replica,
+  .yeer-window {
+    grid-template-columns: 1fr;
+  }
+
+  .yeer-window img {
+    width: 100%;
+    height: auto;
+  }
+}

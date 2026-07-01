@@ -7,7 +7,11 @@
 
             <!-- Author -->
             <div class="author">
-                {% if entry.author %}{{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}{% endif %}
+                {% if entry.author_text %}
+                    {{ entry.author_text | markdownify | remove: "<p>"  | remove: "</p>" }}
+                {% elsif entry.author %}
+                    {{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}
+                {% endif %}
             </div>
 
             <span class="article-date">

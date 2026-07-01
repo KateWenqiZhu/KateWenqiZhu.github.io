@@ -1,121 +1,114 @@
 ---
 layout: page
 permalink: /outreach/
-title: Outreach
+title: Application
 description: "Zhu Mind / Master Mind: AI-supported mathematics outreach and public education."
 nav: true
-nav_order: 17
+nav_order: 5
 ---
 
-<section class="outreach-hero">
-  <div class="outreach-hero-copy">
-    <p class="outreach-eyebrow">Zhu Mind / Master Mind</p>
-    <h1>Making mathematical thinking feel playable, useful, and human.</h1>
-    <p class="outreach-lede">
-      Zhu Mind is my long-running mathematics outreach and AI education initiative. It grew from public
-      writing, community teaching, and Oxford-style mathematical training into an AI-supported learning
-      environment for students, parents, and adult learners.
+<div class="application-page">
+
+<section class="application-hero">
+  <div class="application-hero-copy">
+    <p class="application-kicker">Zhu Mind / Master Mind: AI-supported mathematics outreach and public education.</p>
+    <h1>What is Master Mind?</h1>
+    <p class="application-one-line">
+      Master Mind is a gamified mathematics app powered by the Oxford ZhuZhu brain and IP: an AI learning buddy for
+      thinking, play, and personalized mentorship.
     </p>
-    <div class="outreach-metrics" aria-label="Zhu Mind outreach metrics">
-      <div>
-        <strong>3M+</strong>
-        <span>community reach</span>
-      </div>
-      <div>
-        <strong>7,000+</strong>
-        <span>core learners</span>
-      </div>
-      <div>
-        <strong>200,000+</strong>
-        <span>learning sessions</span>
-      </div>
+    <p class="application-one-line zh">
+      Master Mind 是一个带有“牛津朱朱大脑”和个人 IP 的游戏化数学 App：把课程、AI、数学游戏和个性化陪伴放进同一个学习系统。
+    </p>
+    <div class="application-formula">
+      <span>Innovative Courses</span>
+      <b>+</b>
+      <span>AI Tech</span>
+      <b>+</b>
+      <span>Gamified Math</span>
+      <b>+</b>
+      <span>Personalized Mentorship</span>
+    </div>
+    <div class="application-proof">
+      <div><strong>8,000+</strong><span>course learners / 课程互动用户</span></div>
+      <div><strong>200,000+</strong><span>learning sessions / 学习次数</span></div>
+      <div><strong>Shenzhen + HKSTP</strong><span>深圳 AI 营落地 + HKSTP Ideation conditional approval</span></div>
     </div>
   </div>
-  <figure class="outreach-hero-media">
-    <img src="/assets/img/outreach/mastermind-ai-demo.png" alt="Master Mind AI learning interface demo">
-    <figcaption>AI-supported explanations, guided practice, and learning companionship.</figcaption>
-  </figure>
-</section>
-
-<section class="outreach-section">
-  <h2>Educational Logic</h2>
-  <p>
-    The core idea is not to make learners memorize more formulas. It is to help them build durable ways
-    of thinking: modelling the world, spotting weak assumptions, reasoning under uncertainty, and learning
-    with feedback. The curriculum is organized around 36 mathematical thinking frameworks and interactive
-    mini-games that connect abstract mathematics with daily decisions.
-  </p>
-
-  <div class="outreach-grid outreach-grid-four">
-    <article class="outreach-feature">
-      <span>01</span>
-      <h3>Seeing the World Differently</h3>
-      <p>Break fixed patterns and turn abstract mathematics into intuitive reasoning.</p>
-    </article>
-    <article class="outreach-feature">
-      <span>02</span>
-      <h3>Staying Rational</h3>
-      <p>Use reverse thinking and probabilistic reasoning to detect traps, bias, and noisy evidence.</p>
-    </article>
-    <article class="outreach-feature">
-      <span>03</span>
-      <h3>Decision-Making</h3>
-      <p>Apply risk-return trade-offs, game theory, and market models to practical choices.</p>
-    </article>
-    <article class="outreach-feature">
-      <span>04</span>
-      <h3>Learning Like a Mathematician</h3>
-      <p>Build learning strategies, memory systems, and personalized feedback loops.</p>
-    </article>
+  <div class="application-hero-visual">
+    <img class="application-logo" src="/assets/img/application/mastermind-logo.png" alt="Master Mind logo">
+    <img class="application-phone" src="/assets/img/outreach/mastermind-app.png" alt="Master Mind app interface">
   </div>
 </section>
 
-<section class="outreach-section outreach-split">
+<section class="application-showcase">
+  <img src="/assets/img/application/gamified-math-strip.png" alt="Gamified math course scenes">
+  <img src="/assets/img/application/what-is-mastermind-slide.png" alt="What is Master Mind slide">
+  <img src="/assets/img/application/zhu-video-cover.png" alt="ZhuZhu mathematics video cover">
+</section>
+
+<section class="application-section application-two-col">
   <div>
-    <h2>AI Learning Companion</h2>
+    <p class="application-label">Created by Kate Zhu</p>
+    <h2>Oxford-style mathematical thinking, made playful.</h2>
     <p>
-      The AI component is designed as a learning companion rather than a cold answer generator. Course
-      content, Oxford mathematics notes, and community learning questions are used to shape explanations
-      that are vivid, encouraging, and level-aware.
+      The project translates my mathematics outreach, Oxford teaching notes, and public education experience into a
+      learning companion that explains, encourages, and adapts.
     </p>
-    <ul class="outreach-list">
-      <li>24/7 question answering with examples and step-by-step reasoning.</li>
-      <li>Screenshot-based note generation and instant explanation support.</li>
-      <li>Learning analytics for interests, strengths, habits, and future study paths.</li>
-      <li>Guided study modes such as Pomodoro, Feynman technique, and deep-focus routines.</li>
-    </ul>
+    <p class="zh">
+      这个项目来自我的长期数学科普、牛津数学训练和公开教学经验。它不是冷冰冰的答题机器，而是把“如何思考”变成可以练习、可以互动、可以被陪伴的学习过程。
+    </p>
   </div>
-  <div class="outreach-media-pair">
-    <img src="/assets/img/outreach/mastermind-app.png" alt="Master Mind mobile app interface">
-    <img src="/assets/img/outreach/mastermind-assessment.png" alt="Master Mind learning assessment interface">
-  </div>
-</section>
-
-<section class="outreach-section outreach-split outreach-split-reverse">
-  <figure class="outreach-wide-media">
+  <div class="application-mini-grid">
+    <img src="/assets/img/application/media-leslie-fox.png" alt="Media coverage mentioning Kate Zhu and Leslie Fox Prize">
+    <img src="/assets/img/application/learning-assessment.png" alt="Master Mind learning assessment">
     <img src="/assets/img/outreach/mastermind-course.png" alt="Master Mind course example">
-  </figure>
-  <div>
-    <h2>Research Into Practice</h2>
-    <p>
-      Zhu Mind also functions as a practical education research project. Its design combines user insight,
-      inclusive curriculum development, AI architecture, and real learning behaviour. The goal is to make
-      mathematical confidence accessible to learners who have been told that mathematics is not for them.
-    </p>
-    <div class="outreach-steps">
-      <div><strong>User insight</strong><span>Identify why learners dislike math and where confidence breaks.</span></div>
-      <div><strong>Inclusive design</strong><span>Use stories, games, and visual explanation instead of exam drilling.</span></div>
-      <div><strong>AI architecture</strong><span>Turn expert mathematical explanation into a scalable learning companion.</span></div>
-    </div>
+    <img src="/assets/img/outreach/mastermind-ai-demo.png" alt="Master Mind AI demo">
   </div>
 </section>
 
-<section class="outreach-section outreach-mission">
-  <h2>Public Mission</h2>
-  <p>
-    The broader mission is to make mathematics public, warm, and usable. Zhu Mind focuses especially on
-    beginners, young learners, parents, and underrepresented groups, including women in STEM. The project
-    treats mathematical thinking not as a gatekeeping tool, but as a language for confidence, curiosity,
-    and better decisions.
-  </p>
+<section class="application-section">
+  <p class="application-label">Learning system</p>
+  <h2>Four learning loops</h2>
+  <div class="application-loop-grid">
+    <article><strong>01</strong><span>看世界</span><p>Seeing the world through mathematical models.</p></article>
+    <article><strong>02</strong><span>稳住判断</span><p>Probability, reverse thinking, and bias detection.</p></article>
+    <article><strong>03</strong><span>财富决策</span><p>Risk-return trade-offs, games, markets, and negotiation.</p></article>
+    <article><strong>04</strong><span>学会学习</span><p>Memory systems, focus routines, and personal feedback.</p></article>
+  </div>
 </section>
+
+<section class="application-section application-roadmap">
+  <p class="application-label">Development history</p>
+  <h2>From public content to AI learning community</h2>
+  <div class="application-timeline">
+    <div><em>2024.08</em><strong>WeChat deployment</strong><span>Free public math content; early paid user validation.</span></div>
+    <div><em>2025.01</em><strong>Web deployment</strong><span>Public learning resources and a 3M+ mathematics community.</span></div>
+    <div><em>2025.06</em><strong>AI community</strong><span>Master Mind course, AI integration, 8,000+ learners.</span></div>
+    <div><em>2026</em><strong>HK + Shenzhen</strong><span>HK school access, CityU research partnership, Shenzhen AI camp, HKSTP Ideation.</span></div>
+  </div>
+  <img src="/assets/img/application/development-roadmap.png" alt="Development history and future outlook slide">
+</section>
+
+<section class="application-section application-ecosystem">
+  <div>
+    <p class="application-label">Operating system</p>
+    <h2>Education + Technology + Business</h2>
+    <p>
+      Master Mind is designed as a scalable AI education operating system: subject-aware AI, expert-IP learning
+      companions, and curriculum that can expand from mathematics into other disciplines.
+    </p>
+  </div>
+  <div class="application-orbit" aria-label="Master Mind ecosystem">
+    <span>Education</span>
+    <span>Technology</span>
+    <span>Business</span>
+  </div>
+</section>
+
+<section class="application-slide-replica">
+  <img src="/assets/img/application/ecosystem-model.png" alt="Master Mind ecosystem model slide">
+  <img src="/assets/img/application/mastermind-formula.png" alt="Master Mind formula slide">
+</section>
+
+</div>

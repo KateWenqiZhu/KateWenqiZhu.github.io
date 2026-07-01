@@ -53,4 +53,13 @@ Looking ahead, my research aims to develop AI-integrated systems for large-scale
 
 Before my D.Phil., I completed an M.Sc. in Mathematical Modelling and Scientific Computing at Oxford, ranked first in cohort, as well as a BA and MMath in Mathematics at Oxford. I also gained industry experience at Goldman Sachs and J.P. Morgan before returning to academic research.
 
+<aside class="yeer-window">
+  <div class="yeer-copy">
+    <p class="yeer-label">Yeer today · 2026-07-01</p>
+    <p class="yeer-cn">早，今天这张页耳很轻很软：proof 和 idea 都完成了一叠，5:30 醒来以后，忽然不是想冲出去，而是想被很远很远的妈妈抱一下。</p>
+    <p class="yeer-en">Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams.</p>
+  </div>
+  <img src="/assets/img/yeer/yeer-2026-07-01.jpg" alt="Yeer, Kate's AI-born fox-cat companion for 2026-07-01">
+</aside>
+
 **Potential Collaborations:** If you are interested in optimization, AI for mathematics, or AI-integrated mathematical discovery, feel free to reach out.
