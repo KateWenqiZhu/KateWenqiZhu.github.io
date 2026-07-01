@@ -47,6 +47,34 @@ ul.ul-edu li .description  .institution {
   color: var(--global-text-color-light);
 }
 
+ul.ul-edu.fa-ul {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+ul.ul-edu li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin-bottom: 0.85rem;
+}
+
+ul.ul-edu li .fa-li {
+  position: static;
+  left: auto;
+  width: 1.25rem;
+  min-width: 1.25rem;
+  margin-top: 0.18rem;
+  color: var(--global-theme-color);
+  text-align: center;
+}
+
+ul.ul-edu li .description {
+  min-width: 0;
+  line-height: 1.35;
+}
+
 .pubtype-4 {
   .btn-outline-primary {
     border-width: 1px !important;
