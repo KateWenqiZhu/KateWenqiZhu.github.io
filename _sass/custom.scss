@@ -862,20 +862,75 @@ ul.ul-edu li .description {
 .application-news-track {
   display: flex;
   flex-direction: column;
-  gap: 0.8rem;
+  gap: 0.72rem;
   padding: 0.9rem;
-  animation: application-news-scroll 30s linear infinite;
+  animation: application-news-scroll 42s linear infinite;
 }
 
-.application-news-track img {
+.application-news-card {
+  display: grid;
+  grid-template-columns: 124px minmax(0, 1fr);
+  gap: 0.85rem;
+  align-items: center;
+  min-height: 118px;
+  padding: 0.72rem;
+  border: 1px solid rgba(20, 86, 120, 12%);
+  border-radius: 8px;
+  color: #102333;
+  text-decoration: none;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 98%), rgba(229, 245, 239, 82%));
+  box-shadow: 0 10px 24px rgba(7, 39, 58, 8%);
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.application-news-card:hover {
+  color: #102333;
+  text-decoration: none;
+  border-color: rgba(27, 129, 141, 34%);
+  box-shadow: 0 15px 30px rgba(7, 39, 58, 13%);
+  transform: translateY(-1px);
+}
+
+.application-news-card img {
   width: 100%;
-  min-height: 88px;
-  max-height: 132px;
-  border: 1px solid rgba(0, 0, 0, 8%);
+  height: 90px;
+  border: 1px solid rgba(20, 86, 120, 12%);
   border-radius: 8px;
   object-fit: cover;
   background: #fff;
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 7%);
+  box-shadow: 0 8px 18px rgba(7, 39, 58, 8%);
+}
+
+.application-news-card span {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.application-news-card small {
+  color: #0b817e;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.application-news-card strong {
+  display: -webkit-box;
+  overflow: hidden;
+  color: #102333;
+  font-size: 0.92rem;
+  font-weight: 750;
+  line-height: 1.32;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.application-news-card em {
+  color: #69818d;
+  font-size: 0.78rem;
+  font-style: normal;
 }
 
 .application-news-window:hover .application-news-track {
@@ -1169,6 +1224,10 @@ ul.ul-edu li .description {
     height: 330px;
   }
 
+  .application-news-card {
+    grid-template-columns: 108px minmax(0, 1fr);
+  }
+
   .application-phase-path {
     grid-template-columns: 1fr;
   }
@@ -1201,6 +1260,20 @@ ul.ul-edu li .description {
 
   .application-system-map svg {
     display: none;
+  }
+
+  .application-news-card {
+    grid-template-columns: 88px minmax(0, 1fr);
+    min-height: 106px;
+    padding: 0.62rem;
+  }
+
+  .application-news-card img {
+    height: 74px;
+  }
+
+  .application-news-card strong {
+    font-size: 0.84rem;
   }
 
   .system-node {

@@ -58,16 +58,102 @@ nav_order: 5
 
   <div class="application-news-window" aria-label="Media coverage and public news about Zhu Wenqi">
     <div class="application-news-track">
-      <img src="/assets/img/application/news/leslie-fox-media.png" alt="Media coverage about Kate Zhu and the Leslie Fox Prize">
-      <img src="/assets/img/application/news/math-award-post.png" alt="Public post about Kate Zhu and mathematics learning">
-      <img src="/assets/img/application/news/nanshan-video.png" alt="Nanshan mathematics video cover">
-      <img src="/assets/img/application/news/girls-math-award.png" alt="Girls and mathematics award media post">
-      <img src="/assets/img/application/news/shenzhen-thumbnail.png" alt="Shenzhen mathematics outreach thumbnail">
-      <img src="/assets/img/application/news/leslie-fox-media.png" alt="">
-      <img src="/assets/img/application/news/math-award-post.png" alt="">
-      <img src="/assets/img/application/news/nanshan-video.png" alt="">
-      <img src="/assets/img/application/news/girls-math-award.png" alt="">
-      <img src="/assets/img/application/news/shenzhen-thumbnail.png" alt="">
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBucV9aOV95WnUwLXkwSlVQazhBYklIUlFERnJCdnl2VHBSU0FPaE5KcGw2cEN1RGdzZ1V0OHd3QzRnR1FaZUNXc1dXVXJsVnV4NG44Zk9qR2NXV2FHMG4xams4M1pPVjhmUFE?oc=5" target="_blank" rel="noopener">
+        <img src="/assets/img/application/news/ai-zhuzhu-chat.png" alt="AI education media coverage thumbnail">
+        <span>
+          <small>Google News · 朱雯琪 AI</small>
+          <strong>牛津大学“网红”数学女博士瞄准AI教育，做了一款游戏化学习产品</strong>
+          <em>多知网 · 2025.12.15</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMickFVX3lxTFBEMFdpMDlQc21GUHJyOGZhZkY4ZGV4elk5TjdhNTBjbDZ5SXZORnd5bWttbVg0SWhuRDViS192eDJwTzVCMm9ZQU1NSXFsN1lmRUdyOTRnWmtPRm13WkZ1anZHNjhDSUV6b1BsRlQzdkpyUQ?oc=5" target="_blank" rel="noopener">
+        <img src="/assets/img/application/news/nanshan-video.png" alt="Oxford girl personal story media thumbnail">
+        <span>
+          <small>Google News · 朱雯琪</small>
+          <strong>网红“牛津女孩”自述：一个频上热搜的非典型博士成长之路</strong>
+          <em>content.foshanplus.com · 2025.12.08</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpZWlhc2VrbXFHRE42UmNGR1NjWEU2TENXdVJrcFFFQWh1WXNaQ1dEZFRYcFR1RzdTM0dlcGsxVDBiTEE3em9FTml2QnRrMTdTOVM0LQ?oc=5" target="_blank" rel="noopener">
+        <img src="/assets/img/application/news/leslie-fox-media.png" alt="Leslie Fox Prize media coverage thumbnail">
+        <span>
+          <small>Google News · 朱雯琪</small>
+          <strong>深国交校友朱雯琪斩获全球数学大奖：坚持所爱，一定会守得云开见月明</strong>
+          <em>搜狐网 · 2025.07.08</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9ERlpHT0x4SnUwekdEejhmUlJCUHFEd2lSLV9wb2dmNW1RcDRDNFJ1QUQ0Sm9jUEdTUGNPdE9yRGJSQU9LcTRoSW1aREktUzZFdlFQM2l0YlZSNUhzMmJ1Z3d2SHNBMXZNZm90OXdhNXQwUURuT1NvSmxkWko?oc=5" target="_blank" rel="noopener">
+        <img src="/assets/img/application/news/math-award-post.png" alt="Mathematics award public post thumbnail">
+        <span>
+          <small>Google News · 朱雯琪</small>
+          <strong>朱雯琪，拿大奖，很解气</strong>
+          <em>新浪财经 · 2025.07.23</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMiigFBVV95cUxONU94dFJwUm5FZHFiWVRaNGJvSDh4aWpBQ2hIRFMyeFJ4MUlSR3dEMVNZa0ZNcWpPSllpeUNoZWpvWVVfbUw1MUxKdHJxMnB2akZxNUt5cW5TM3B5Zk5MTWZyOWFIRmgwTnd5TkFyR2ppMG5Mc2dnXzNEM01BZTNhbnlnV2lnc1d1bEE?oc=5" target="_blank" rel="noopener">
+        <img src="/assets/img/application/news/girls-math-award.png" alt="Guangzhou Daily mathematics award media thumbnail">
+        <span>
+          <small>Google News · 朱雯琪</small>
+          <strong>广东女孩朱雯琪获国际数学奖 博士毕业后将留牛津大学工作</strong>
+          <em>广州日报新花城 · 2025.07.01</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE42VGZ6VEMyMVJZTDRIVWNsVUNXbU5LZGp6UGNrckRSQTUtVlhObklpSjN3OTdZWVNQcUlXVDUwWTBHV3BwcE1uRTljLWdGYzBqQTUzVkFB?oc=5" target="_blank" rel="noopener">
+        <img src="/assets/img/application/news/shenzhen-thumbnail.png" alt="Shenzhen media coverage thumbnail">
+        <span>
+          <small>Google News · 朱雯琪 公司</small>
+          <strong>中国唯一！深圳女孩朱雯琪获国际数学奖项</strong>
+          <em>腾讯新闻 · 2025.06.29</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBucV9aOV95WnUwLXkwSlVQazhBYklIUlFERnJCdnl2VHBSU0FPaE5KcGw2cEN1RGdzZ1V0OHd3QzRnR1FaZUNXc1dXVXJsVnV4NG44Zk9qR2NXV2FHMG4xams4M1pPVjhmUFE?oc=5" target="_blank" rel="noopener" aria-hidden="true" tabindex="-1">
+        <img src="/assets/img/application/news/ai-zhuzhu-chat.png" alt="">
+        <span>
+          <small>Google News · 朱雯琪 AI</small>
+          <strong>牛津大学“网红”数学女博士瞄准AI教育，做了一款游戏化学习产品</strong>
+          <em>多知网 · 2025.12.15</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMickFVX3lxTFBEMFdpMDlQc21GUHJyOGZhZkY4ZGV4elk5TjdhNTBjbDZ5SXZORnd5bWttbVg0SWhuRDViS192eDJwTzVCMm9ZQU1NSXFsN1lmRUdyOTRnWmtPRm13WkZ1anZHNjhDSUV6b1BsRlQzdkpyUQ?oc=5" target="_blank" rel="noopener" aria-hidden="true" tabindex="-1">
+        <img src="/assets/img/application/news/nanshan-video.png" alt="">
+        <span>
+          <small>Google News · 朱雯琪</small>
+          <strong>网红“牛津女孩”自述：一个频上热搜的非典型博士成长之路</strong>
+          <em>content.foshanplus.com · 2025.12.08</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpZWlhc2VrbXFHRE42UmNGR1NjWEU2TENXdVJrcFFFQWh1WXNaQ1dEZFRYcFR1RzdTM0dlcGsxVDBiTEE3em9FTml2QnRrMTdTOVM0LQ?oc=5" target="_blank" rel="noopener" aria-hidden="true" tabindex="-1">
+        <img src="/assets/img/application/news/leslie-fox-media.png" alt="">
+        <span>
+          <small>Google News · 朱雯琪</small>
+          <strong>深国交校友朱雯琪斩获全球数学大奖：坚持所爱，一定会守得云开见月明</strong>
+          <em>搜狐网 · 2025.07.08</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9ERlpHT0x4SnUwekdEejhmUlJCUHFEd2lSLV9wb2dmNW1RcDRDNFJ1QUQ0Sm9jUEdTUGNPdE9yRGJSQU9LcTRoSW1aREktUzZFdlFQM2l0YlZSNUhzMmJ1Z3d2SHNBMXZNZm90OXdhNXQwUURuT1NvSmxkWko?oc=5" target="_blank" rel="noopener" aria-hidden="true" tabindex="-1">
+        <img src="/assets/img/application/news/math-award-post.png" alt="">
+        <span>
+          <small>Google News · 朱雯琪</small>
+          <strong>朱雯琪，拿大奖，很解气</strong>
+          <em>新浪财经 · 2025.07.23</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMiigFBVV95cUxONU94dFJwUm5FZHFiWVRaNGJvSDh4aWpBQ2hIRFMyeFJ4MUlSR3dEMVNZa0ZNcWpPSllpeUNoZWpvWVVfbUw1MUxKdHJxMnB2akZxNUt5cW5TM3B5Zk5MTWZyOWFIRmgwTnd5TkFyR2ppMG5Mc2dnXzNEM01BZTNhbnlnV2lnc1d1bEE?oc=5" target="_blank" rel="noopener" aria-hidden="true" tabindex="-1">
+        <img src="/assets/img/application/news/girls-math-award.png" alt="">
+        <span>
+          <small>Google News · 朱雯琪</small>
+          <strong>广东女孩朱雯琪获国际数学奖 博士毕业后将留牛津大学工作</strong>
+          <em>广州日报新花城 · 2025.07.01</em>
+        </span>
+      </a>
+      <a class="application-news-card" href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE42VGZ6VEMyMVJZTDRIVWNsVUNXbU5LZGp6UGNrckRSQTUtVlhObklpSjN3OTdZWVNQcUlXVDUwWTBHV3BwcE1uRTljLWdGYzBqQTUzVkFB?oc=5" target="_blank" rel="noopener" aria-hidden="true" tabindex="-1">
+        <img src="/assets/img/application/news/shenzhen-thumbnail.png" alt="">
+        <span>
+          <small>Google News · 朱雯琪 公司</small>
+          <strong>中国唯一！深圳女孩朱雯琪获国际数学奖项</strong>
+          <em>腾讯新闻 · 2025.06.29</em>
+        </span>
+      </a>
     </div>
   </div>
 </section>
