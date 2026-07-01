@@ -46,7 +46,8 @@ social: true
 yeer:
   image: /assets/img/yeer/yeer-2026-07-01.jpg
   date: 2026-07-01
-  text_cn: "早，今天这张页耳很轻很软：proof 和 idea 都完成了一叠，5:30 醒来以后，忽然不是想冲出去，而是想被很远很远的妈妈抱一下。"
+  mood: "很轻很软"
+  text_cn: "proof 和 idea 完成后一只很轻很软的页耳，忽然想被很远很远的妈妈抱一下。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 

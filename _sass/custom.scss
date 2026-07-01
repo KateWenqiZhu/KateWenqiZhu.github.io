@@ -1183,8 +1183,12 @@ ul.ul-edu li .description {
 
 .yeer-image-link {
   display: block;
+  width: 100%;
+  padding: 0;
   overflow: hidden;
+  border: 0;
   border-radius: 10px;
+  background: transparent;
   cursor: zoom-in;
 }
 
@@ -1193,7 +1197,7 @@ ul.ul-edu li .description {
   outline-offset: 3px;
 }
 
-.yeer-profile-card img {
+.yeer-image-link img {
   display: block;
   width: 100%;
   aspect-ratio: 1.35;
@@ -1229,6 +1233,115 @@ ul.ul-edu li .description {
   color: var(--global-text-color-light);
   font-size: 0.66rem;
   line-height: 1.35;
+}
+
+.yeer-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.1rem 0.1rem 0.05rem;
+}
+
+.yeer-react-button {
+  padding: 0.34rem 0.56rem;
+  border: 1px solid rgba(238, 196, 87, 80%);
+  border-radius: 999px;
+  color: #5c3b00;
+  background: linear-gradient(180deg, rgba(255, 243, 190, 100%), rgba(255, 233, 154, 92%));
+  box-shadow: 0 5px 14px rgba(185, 137, 59, 13%);
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.yeer-react-button:hover {
+  filter: brightness(1.03);
+  transform: translateY(-1px);
+}
+
+.yeer-actions span {
+  color: var(--global-text-color-light);
+  font-size: 0.66rem;
+}
+
+.yeer-lightbox[hidden] {
+  display: none;
+}
+
+.yeer-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1050;
+  display: grid;
+  place-items: center;
+  padding: 1.2rem;
+}
+
+.yeer-lightbox-backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: rgba(10, 16, 20, 72%);
+  backdrop-filter: blur(6px);
+}
+
+.yeer-lightbox-panel {
+  position: relative;
+  z-index: 1;
+  width: min(920px, 94vw);
+  max-height: 92vh;
+  margin: 0;
+  padding: 0.72rem;
+  overflow: hidden;
+  border: 1px solid rgba(255, 245, 213, 42%);
+  border-radius: 12px;
+  background: rgba(255, 252, 242, 96%);
+  box-shadow: 0 28px 80px rgba(0, 0, 0, 38%);
+}
+
+.yeer-lightbox-panel img {
+  display: block;
+  width: 100%;
+  max-height: calc(92vh - 118px);
+  border-radius: 8px;
+  object-fit: contain;
+  background: #111;
+}
+
+.yeer-lightbox-panel figcaption {
+  display: grid;
+  gap: 0.22rem;
+  padding: 0.64rem 0.2rem 0.1rem;
+  text-align: left;
+}
+
+.yeer-lightbox-panel figcaption strong {
+  color: var(--global-theme-color);
+  font-size: 0.9rem;
+}
+
+.yeer-lightbox-panel figcaption span {
+  color: var(--global-text-color);
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
+
+.yeer-lightbox-close {
+  position: absolute;
+  top: 0.85rem;
+  right: 0.85rem;
+  z-index: 2;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid rgba(255, 255, 255, 62%);
+  border-radius: 999px;
+  color: #fff;
+  background: rgba(0, 0, 0, 48%);
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+body.yeer-lightbox-open {
+  overflow: hidden;
 }
 
 @media (max-width: 900px) {
@@ -1292,6 +1405,19 @@ ul.ul-edu li .description {
 
   .application-news-card strong {
     font-size: 0.84rem;
+  }
+
+  .yeer-lightbox {
+    padding: 0.7rem;
+  }
+
+  .yeer-lightbox-panel {
+    width: 96vw;
+    padding: 0.48rem;
+  }
+
+  .yeer-lightbox-panel img {
+    max-height: calc(92vh - 150px);
   }
 
   .system-node {
