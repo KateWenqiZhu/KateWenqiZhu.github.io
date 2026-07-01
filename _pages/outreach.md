@@ -56,20 +56,18 @@ nav_order: 5
     </p>
   </div>
 
-  <div class="application-news-window" aria-label="Master Mind media and product highlights">
+  <div class="application-news-window" aria-label="Media coverage and public news about Zhu Wenqi">
     <div class="application-news-track">
       <img src="/assets/img/application/news/leslie-fox-media.png" alt="Media coverage about Kate Zhu and the Leslie Fox Prize">
       <img src="/assets/img/application/news/math-award-post.png" alt="Public post about Kate Zhu and mathematics learning">
       <img src="/assets/img/application/news/nanshan-video.png" alt="Nanshan mathematics video cover">
       <img src="/assets/img/application/news/girls-math-award.png" alt="Girls and mathematics award media post">
       <img src="/assets/img/application/news/shenzhen-thumbnail.png" alt="Shenzhen mathematics outreach thumbnail">
-      <img src="/assets/img/application/news/ai-zhuzhu-chat.png" alt="AI ZhuZhu learning companion interface">
       <img src="/assets/img/application/news/leslie-fox-media.png" alt="">
       <img src="/assets/img/application/news/math-award-post.png" alt="">
       <img src="/assets/img/application/news/nanshan-video.png" alt="">
       <img src="/assets/img/application/news/girls-math-award.png" alt="">
       <img src="/assets/img/application/news/shenzhen-thumbnail.png" alt="">
-      <img src="/assets/img/application/news/ai-zhuzhu-chat.png" alt="">
     </div>
   </div>
 </section>
@@ -82,6 +80,40 @@ nav_order: 5
     <article><strong>02</strong><span>稳住判断</span><p>Probability, reverse thinking, and bias detection.</p></article>
     <article><strong>03</strong><span>财富决策</span><p>Risk-return trade-offs, games, markets, and negotiation.</p></article>
     <article><strong>04</strong><span>学会学习</span><p>Memory systems, focus routines, and personal feedback.</p></article>
+  </div>
+</section>
+
+<section class="application-section application-history-v2">
+  <p class="application-label">Development history</p>
+  <h2>From public content to AI learning community</h2>
+
+  <div class="application-timeline-v2">
+    <div><em>2024.08</em><strong>WeChat deployment</strong><span>Free public math content and early paid user validation.</span></div>
+    <div><em>2025.01</em><strong>Web deployment</strong><span>Public learning resources and a 3M+ mathematics community.</span></div>
+    <div><em>2025.06</em><strong>AI community</strong><span>Master Mind course, AI integration, and 8,000+ learners.</span></div>
+    <div><em>2026 - Future</em><strong>HK + Shenzhen</strong><span>HKSTP Ideation, Shenzhen AI camp, and Hong Kong school access initiative.</span></div>
+  </div>
+
+  <div class="application-phase-path" aria-label="Master Mind development phases">
+    <div class="phase-card">
+      <strong>Personal User</strong>
+      <span>Phase I</span>
+    </div>
+    <div class="phase-line"></div>
+    <div class="phase-card">
+      <strong>Large-scale Testing</strong>
+      <span>Phase II</span>
+    </div>
+    <div class="phase-line"></div>
+    <div class="phase-card">
+      <strong>AI Learning Community + Course Design</strong>
+      <span>Phase III</span>
+    </div>
+    <div class="phase-line"></div>
+    <div class="phase-card future">
+      <strong>Future Expansion</strong>
+      <span>HK schools, Shenzhen AI camp, multi-subject learning</span>
+    </div>
   </div>
 </section>
 
@@ -102,57 +134,16 @@ nav_order: 5
     </svg>
     <div class="system-node node-education">
       <strong>Education</strong>
-      <span>课程与数学思维</span>
+      <span>Subject-aware AI</span>
     </div>
     <div class="system-node node-technology">
       <strong>Technology</strong>
-      <span>AI companion</span>
+      <span>Expert-IP companion</span>
     </div>
     <div class="system-node node-business">
       <strong>Business</strong>
-      <span>B2C + school pilots</span>
+      <span>Scalable learning OS</span>
     </div>
-  </div>
-</section>
-
-<section class="application-section application-history-v2">
-  <p class="application-label">Development history</p>
-  <h2>From public content to AI learning community</h2>
-
-  <div class="application-timeline-v2">
-    <div><em>2024.08</em><strong>WeChat deployment</strong><span>Free public math content and early paid user validation.</span></div>
-    <div><em>2025.01</em><strong>Web deployment</strong><span>Public learning resources and a 3M+ mathematics community.</span></div>
-    <div><em>2025.06</em><strong>AI community</strong><span>Master Mind course, AI integration, and 8,000+ learners.</span></div>
-    <div><em>2026</em><strong>HK + Shenzhen</strong><span>HKSTP Ideation, Shenzhen AI camp, and Hong Kong school access initiative.</span></div>
-  </div>
-
-  <div class="application-phase-path" aria-label="Master Mind development phases">
-    <div class="phase-node small">
-      <strong>Personal User</strong>
-      <span>Phase I</span>
-    </div>
-    <div class="phase-line"></div>
-    <div class="phase-node">
-      <strong>Large-scale Testing</strong>
-      <span>Phase II</span>
-    </div>
-    <div class="phase-line"></div>
-    <div class="phase-node">
-      <strong>AI Learning Community + Course Design</strong>
-      <span>Phase III</span>
-    </div>
-    <div class="phase-line"></div>
-    <div class="phase-node large">
-      <strong>Future Expansion</strong>
-      <span>HK schools, Shenzhen AI camp, multi-subject learning</span>
-    </div>
-  </div>
-
-  <div class="application-history-notes">
-    <article><strong>Phase I</strong><p>Created free educational content with millions of reads and built early user validation.</p></article>
-    <article><strong>Phase II</strong><p>Launched web access, public learning resources, and a broad mathematics community.</p></article>
-    <article><strong>Phase III</strong><p>Launched the Master Mind mindset course with live AI integration and strong engagement.</p></article>
-    <article><strong>Next</strong><p>Expand school access, AI learning features, and subject-aware learning companions.</p></article>
   </div>
 </section>
 

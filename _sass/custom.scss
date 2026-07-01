@@ -1210,3 +1210,186 @@ ul.ul-edu li .description {
     margin: 0.7rem auto;
   }
 }
+
+.application-page.application-v2 {
+  --bio-cream: #f7f5ea;
+  --bio-ink: #10262f;
+  --bio-navy: #123744;
+  --bio-teal: #225a62;
+  --bio-mint: #c9de7a;
+  --bio-ice: #eaf7f5;
+}
+
+.application-v2 .application-hero-v2,
+.application-v2 .application-strip {
+  max-width: 980px;
+  margin-right: auto;
+  margin-left: 0;
+}
+
+.application-v2 .application-hero-v2 h1 {
+  color: var(--bio-ink);
+}
+
+.application-v2 .application-one-line {
+  max-width: 860px;
+}
+
+.application-v2 .application-formula {
+  width: fit-content;
+  max-width: 100%;
+  gap: 0.35rem;
+  padding: 0.42rem;
+  border: 1px solid rgba(34, 90, 98, 18%);
+  border-radius: 999px;
+  background: linear-gradient(135deg, rgba(234, 247, 245, 92%), rgba(247, 245, 234, 96%));
+  box-shadow: 0 10px 24px rgba(16, 38, 47, 8%);
+}
+
+.application-v2 .application-formula span {
+  min-height: 2.1rem;
+  padding: 0.38rem 0.7rem;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 72%);
+  color: var(--bio-ink);
+}
+
+.application-v2 .application-formula b {
+  color: var(--bio-teal);
+}
+
+.application-v2 .application-proof div {
+  border-color: rgba(34, 90, 98, 16%);
+  background: rgba(255, 255, 255, 88%);
+  box-shadow: 0 8px 22px rgba(16, 38, 47, 6%);
+}
+
+.application-v2 .application-proof strong {
+  color: #11606a;
+}
+
+.application-v2 .application-strip img {
+  border-color: rgba(34, 90, 98, 18%);
+  background: var(--bio-cream);
+}
+
+.application-v2 .application-history-v2 {
+  background:
+    radial-gradient(circle at 12% 18%, rgba(201, 222, 122, 20%), transparent 28%),
+    linear-gradient(135deg, #102b36 0%, #245361 58%, #58794e 100%);
+  color: var(--bio-ice);
+}
+
+.application-v2 .application-history-v2 .application-label,
+.application-v2 .application-history-v2 h2 {
+  color: #ffffff;
+}
+
+.application-v2 .application-timeline-v2 div {
+  border-color: rgba(234, 247, 245, 24%);
+  background: rgba(255, 255, 255, 9%);
+  color: #ffffff;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 11%), 0 12px 28px rgba(0, 0, 0, 14%);
+}
+
+.application-v2 .application-timeline-v2 em {
+  color: #d9ef83;
+}
+
+.application-v2 .application-timeline-v2 strong {
+  color: #ffffff;
+}
+
+.application-v2 .application-timeline-v2 span {
+  color: rgba(234, 247, 245, 82%);
+}
+
+.application-v2 .application-phase-path {
+  grid-template-columns: 1fr 0.42fr 1.08fr 0.42fr 1.35fr 0.42fr 1.48fr;
+  border-color: rgba(234, 247, 245, 18%);
+  background: rgba(8, 29, 38, 48%);
+}
+
+.phase-card {
+  min-height: 126px;
+  padding: 1rem;
+  border: 1px solid rgba(201, 222, 122, 38%);
+  border-radius: 18px;
+  background:
+    linear-gradient(160deg, rgba(255, 255, 255, 16%), rgba(255, 255, 255, 5%)),
+    rgba(8, 47, 61, 80%);
+  color: #fff;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 16%), 0 16px 28px rgba(0, 0, 0, 16%);
+}
+
+.phase-card.future {
+  background:
+    linear-gradient(160deg, rgba(201, 222, 122, 24%), rgba(255, 255, 255, 6%)),
+    rgba(13, 87, 98, 88%);
+}
+
+.phase-card strong,
+.phase-card span {
+  display: block;
+}
+
+.phase-card strong {
+  color: #ffffff;
+  font-size: 0.98rem;
+  line-height: 1.2;
+}
+
+.phase-card span {
+  margin-top: 0.5rem;
+  color: rgba(234, 247, 245, 82%);
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
+.application-v2 .phase-line {
+  background: linear-gradient(90deg, rgba(201, 222, 122, 8%), rgba(201, 222, 122, 90%), rgba(201, 222, 122, 8%));
+}
+
+.application-v2 .application-system-v2 {
+  border-color: rgba(34, 90, 98, 18%);
+  background:
+    radial-gradient(circle at 85% 22%, rgba(201, 222, 122, 18%), transparent 24%),
+    linear-gradient(135deg, rgba(247, 245, 234, 96%), rgba(234, 247, 245, 92%));
+}
+
+.application-v2 .system-node {
+  border-color: rgba(201, 222, 122, 78%);
+  background: linear-gradient(145deg, #0d2d38, #164f58);
+  box-shadow: 0 18px 34px rgba(16, 38, 47, 18%);
+}
+
+.application-v2 .system-node strong {
+  color: #ffffff;
+}
+
+.application-v2 .system-node span {
+  color: #d9ef83;
+  font-weight: 700;
+}
+
+.application-v2 .system-link {
+  stroke: rgba(88, 121, 78, 76%);
+}
+
+.application-v2 .link-c,
+.application-v2 .link-d {
+  stroke: rgba(34, 90, 98, 52%);
+}
+
+@media (max-width: 900px) {
+  .application-v2 .application-phase-path {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .application-v2 .application-formula {
+    border-radius: 16px;
+  }
+}
