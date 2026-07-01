@@ -10,6 +10,10 @@ nav_order: 15
 ### Teaching at the University of Oxford
 **C6.5 Theory of Deep Learning, Tutor and Marker**, Mathematical Institute, 2025
 
+**Examiner, Theory of Deep Learning**, Mathematical Institute, 2025-26
+
+Marked coursework and assessed MSc students' thesis proposal presentations.
+
 **C6.2 Continuous Optimization, Tutor**, Mathematical Institute, 2023-26
 
 Taught 4th-year undergraduates and master's students in classes (class size: 15-25); coordinated the classes and mentored teaching assistants; conducted consultation sessions. 16 contact hours.
