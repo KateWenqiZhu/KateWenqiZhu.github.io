@@ -6,10 +6,10 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-01.jpg
-  date: 2026-07-01
-  mood: "很轻很软"
-  text_cn: "proof 和 idea 完成后一只很轻很软的页耳，忽然想被很远很远的妈妈抱一下。"
+  image: /assets/img/yeer/yeer-2026-07-02.jpg
+  date: 2026-07-02
+  mood: "红披风站在山顶"
+  text_cn: "今天这只页耳很有山顶风：5am 千头万绪但兴奋，Fable 出来了，新 proof ideas 也来了；红披风站在山顶，翻过一座山，还敢下山再爬下一座。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
