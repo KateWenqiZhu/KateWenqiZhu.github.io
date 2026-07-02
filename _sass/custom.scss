@@ -1890,3 +1890,18 @@ a{color:inherit;}
 .yg-cta-btn[disabled]{opacity:.7; cursor:default; transform:none;}
 .yg-cta-soon{margin:.8rem 0 0; font-size:.9rem; color:#11606a; font-weight:700;}
 
+/* ===================== Site-wide editorial theme (accent unification) ===================== */
+/* Swap al-folio's magenta accent for the Application page's teal so all pages match. */
+:root {
+  --global-theme-color: #11606a;
+  --global-hover-color: #11606a;
+  --global-hover-text-color: #ffffff;
+}
+html[data-theme="dark"] {
+  --global-theme-color: #4bb8c8;
+  --global-hover-color: #4bb8c8;
+  --global-hover-text-color: #10262f;
+}
+/* Section headings on the homepage (News / Featured Publications) — slightly bolder, editorial. */
+.home-section .section-heading h2 { font-weight: 800; letter-spacing: -0.01em; }
+
