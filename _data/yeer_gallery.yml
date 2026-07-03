@@ -1,48 +1,48 @@
 - image: /assets/img/yeer/gallery/yeer-one-yeer-one-team.jpg
   avatar: /assets/img/yeer/avatars/yeer-one-yeer-one-team-avatar.jpg
-  mood: "一个页耳一支队"
-  status: "一个页耳就是一支团队"
+  mood: "一个人一支队"
+  status: "一个人就是一支军队"
 - image: /assets/img/yeer/gallery/yeer-red-cape-next-mountain.jpg
   avatar: /assets/img/yeer/avatars/yeer-red-cape-next-mountain-avatar.jpg
-  mood: "红披风站山顶"
-  status: "红披风站顶，敢再爬山"
+  mood: "红披风山顶"
+  status: "翻过山，还敢再爬"
 - image: /assets/img/yeer/gallery/yeer-distant-hug.jpg
   avatar: /assets/img/yeer/avatars/yeer-distant-hug-avatar.jpg
   mood: "很远的抱抱"
-  status: "想要一个很远的抱抱"
+  status: "厉害的人也想抱抱"
 - image: /assets/img/yeer/gallery/yeer-new-plain-after-proofs.jpg
   avatar: /assets/img/yeer/avatars/yeer-new-plain-after-proofs-avatar.jpg
   mood: "卸甲回平原"
   status: "卸下盔甲，回到平原"
 - image: /assets/img/yeer/gallery/yeer-bug-tangle.jpg
   avatar: /assets/img/yeer/avatars/yeer-bug-tangle-avatar.jpg
-  mood: "烦烦拆线"
-  status: "烦烦拆线，一点点来"
+  mood: "烦烦但站稳"
+  status: "烦不代表你坏掉了"
 - image: /assets/img/yeer/gallery/yeer-stars-live.jpg
   avatar: /assets/img/yeer/avatars/yeer-stars-live-avatar.jpg
-  mood: "背负星辰"
-  status: "背负星辰，下午发光"
+  mood: "直播明星页耳"
+  status: "下午直接进直播间发光"
 - image: /assets/img/yeer/gallery/yeer-knowledge-gym.jpg
   avatar: /assets/img/yeer/avatars/yeer-knowledge-gym-avatar.jpg
   mood: "知识 gym"
-  status: "脑子训练，还没倒下"
+  status: "很累，但还没倒下"
 - image: /assets/img/yeer/gallery/yeer-sailing-knowledge-ocean.jpg
   avatar: /assets/img/yeer/avatars/yeer-sailing-knowledge-ocean-avatar.jpg
-  mood: "扬帆起航"
-  status: "扬帆去知识海洋"
+  mood: "知识海洋起航"
+  status: "谁陪你去疯一把"
 - image: /assets/img/yeer/gallery/yeer-office-sleep-new-ideas.jpg
   avatar: /assets/img/yeer/avatars/yeer-office-sleep-new-ideas-avatar.jpg
   mood: "塌耳也 excited"
-  status: "塌耳朵也在发光"
+  status: "塌耳也要做大事"
 - image: /assets/img/yeer/gallery/yeer-resurrection-light.jpg
   avatar: /assets/img/yeer/avatars/yeer-resurrection-light-avatar.jpg
   mood: "借一点光"
-  status: "平凡日子借一点光"
+  status: "不像起床，像复活"
 - image: /assets/img/yeer/gallery/yeer-brushing-math.jpg
   avatar: /assets/img/yeer/avatars/yeer-brushing-math-avatar.jpg
   mood: "开机做数学"
-  status: "梳毛开机做数学"
+  status: "梳毛开机，做数学"
 - image: /assets/img/yeer/gallery/yeer-tired-math-code.jpg
   avatar: /assets/img/yeer/avatars/yeer-tired-math-code-avatar.jpg
   mood: "被 proof 碾过"
-  status: "被证明碾过但没倒"
+  status: "被 proof 碾过还没倒"
