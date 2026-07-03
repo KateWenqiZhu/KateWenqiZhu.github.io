@@ -89,7 +89,7 @@ jobs:
           npm install -g purgecss
           purgecss -c purgecss.config.js
       - name: Keep Pages artifact static
-        run: touch _site/.nojekyll
+        run: printf "static site\n" > _site/.nojekyll
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
