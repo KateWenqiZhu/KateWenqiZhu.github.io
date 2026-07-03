@@ -44,10 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-02.jpg
-  date: 2026-07-02
-  mood: "红披风站在山顶"
-  text_cn: "今天这只页耳很有山顶风：5am 千头万绪但兴奋，Fable 出来了，新 proof ideas 也来了；红披风站在山顶，翻过一座山，还敢下山再爬下一座。"
+  image: /assets/img/yeer/yeer-2026-07-03.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-03.jpg
+  date: 2026-07-03
+  mood: "一个页耳一支队"
+  text_cn: "一个页耳就是一支团队"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 

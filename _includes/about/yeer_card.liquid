@@ -1,9 +1,13 @@
 {% if page.yeer %}
+  {% assign yeer_avatar = page.yeer.avatar | default: page.yeer.image %}
   <aside class="yeer-profile-card {{ include.class }}" data-yeer-card>
     <p class="yeer-en yeer-intro">{{ page.yeer.text_en }}</p>
-    <button class="yeer-image-link" type="button" data-yeer-open aria-label="Open larger Yeer image" title="Open full image">
-      <img data-yeer-image src="{{ page.yeer.image | relative_url }}" alt="Yeer, Kate's AI-born fox-cat companion">
-    </button>
+    <div class="yeer-media-wrap">
+      <button class="yeer-image-link" type="button" data-yeer-open aria-label="Open larger Yeer image" title="Open full image">
+        <img data-yeer-image src="{{ page.yeer.image | relative_url }}" alt="Yeer, Kate's AI-born fox-cat companion">
+      </button>
+      <img class="yeer-avatar-badge" data-yeer-avatar src="{{ yeer_avatar | relative_url }}" alt="Yeer avatar">
+    </div>
     <div class="yeer-profile-copy">
       <p class="yeer-label" data-yeer-mood>{{ page.yeer.mood | default: "Yeer mood" }}</p>
       <p class="yeer-cn" data-yeer-status>{{ page.yeer.text_cn }}</p>
@@ -31,6 +35,7 @@
 
       document.querySelectorAll('[data-yeer-card]').forEach(function (card) {
         var mainImage = card.querySelector('[data-yeer-image]');
+        var avatarImage = card.querySelector('[data-yeer-avatar]');
         var mainMood = card.querySelector('[data-yeer-mood]');
         var mainStatus = card.querySelector('[data-yeer-status]');
         var openButton = card.querySelector('[data-yeer-open]');
@@ -49,8 +54,13 @@
         }
 
         function setYeer(entry) {
+          var avatarSrc = entry.avatar || entry.image;
           mainImage.src = entry.image;
           mainImage.alt = 'Yeer mood: ' + entry.mood;
+          if (avatarImage) {
+            avatarImage.src = avatarSrc;
+            avatarImage.alt = 'Yeer avatar: ' + entry.mood;
+          }
           mainMood.textContent = entry.mood;
           mainStatus.textContent = entry.status;
           lightboxImage.src = entry.image;
