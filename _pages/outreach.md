@@ -10,7 +10,7 @@ yeer:
   avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-03.jpg
   date: 2026-07-03
   mood: "一个页耳一支队"
-  text_cn: "一个页耳就是一支团队"
+  text_cn: "早，今天4:30长毛页耳：瘦了很多，却很开心；一个页耳就是一支团队。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
