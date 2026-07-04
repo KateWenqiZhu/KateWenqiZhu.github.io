@@ -1908,3 +1908,21 @@ html[data-theme="dark"] {
 }
 /* Section headings on the homepage (News / Featured Publications) — slightly bolder, editorial. */
 .home-section .section-heading h2 { font-weight: 800; letter-spacing: -0.01em; }
+
+/* ===================== Condensed Publications (grouped by direction) ===================== */
+.pub-condensed{max-width:900px;}
+.pub-lead{font-size:.92rem; color:var(--global-text-color-light); line-height:1.6; margin:0 0 1.4rem; padding-bottom:1.1rem; border-bottom:1px solid var(--global-divider-color);}
+.pub-lead b{color:var(--global-theme-color);}
+.pub-group{font-size:1.15rem; font-weight:800; color:var(--global-theme-color); margin:1.7rem 0 .5rem; letter-spacing:-.01em;}
+.pub-list{list-style:none; margin:0; padding:0; counter-reset:pub;}
+.pub-list li{position:relative; padding:.48rem 0 .48rem 2.1rem; border-bottom:1px solid var(--global-divider-color); font-size:.92rem; line-height:1.55;}
+.pub-list li::before{counter-increment:pub; content:counter(pub); position:absolute; left:0; top:.5rem; font-size:.74rem; font-weight:700; color:var(--global-theme-color); width:1.5rem; text-align:right;}
+.pub-au{color:var(--global-text-color);}
+.pub-au strong{font-weight:700;}
+.pub-ti{color:var(--global-text-color); font-weight:550;}
+.pub-ve{color:var(--global-text-color-light);}
+.pub-st{font-size:.7rem; font-weight:700; text-transform:uppercase; letter-spacing:.03em; color:var(--global-theme-color); background:rgba(17,96,106,.1); border-radius:4px; padding:.05em .42em; margin-left:.15rem; white-space:nowrap;}
+.pub-lk{white-space:nowrap;}
+.pub-lk a{display:inline-block; color:var(--global-theme-color); font-size:.76rem; font-weight:700; text-decoration:none; border:1px solid rgba(17,96,106,.32); border-radius:5px; padding:.02em .42em; margin-left:.28rem;}
+.pub-lk a:hover{background:var(--global-theme-color); color:#fff;}
+.pub-crown{font-size:.72rem; font-weight:700; color:#b9893b; background:rgba(185,137,59,.14); border-radius:4px; padding:.05em .42em; margin-left:.15rem; white-space:nowrap;}

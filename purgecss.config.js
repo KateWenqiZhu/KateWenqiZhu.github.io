@@ -5,7 +5,7 @@ module.exports = {
   skippedContentGlobs: ["_site/assets/**/*.html"],
   safelist: {
     standard: [/^is-open$/, /^kick$/, /^rev$/, /^future$/, /^zh$/, /^zh2$/, /^en$/, /^ghost$/, /^veil$/, /^chip$/],
-    deep: [/^mm-/, /^yg-/, /^yeer-/],
-    greedy: [/mm-/, /yg-/, /yeer-/],
+    deep: [/^mm-/, /^yg-/, /^yeer-/, /^pub-/],
+    greedy: [/mm-/, /yg-/, /yeer-/, /pub-/],
   },
 };
