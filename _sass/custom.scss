@@ -1921,6 +1921,7 @@ html[data-theme="dark"] {
 .pub-au strong{font-weight:700;}
 .pub-ti{color:var(--global-text-color); font-weight:550;}
 .pub-ve{color:var(--global-text-color-light);}
+.pub-pages{font-size:.7rem; font-weight:700; letter-spacing:.02em; color:var(--global-text-color-light); background:rgba(127,127,127,.1); border-radius:4px; padding:.05em .42em; margin-left:.15rem; white-space:nowrap;}
 .pub-st{font-size:.7rem; font-weight:700; text-transform:uppercase; letter-spacing:.03em; color:var(--global-theme-color); background:rgba(17,96,106,.1); border-radius:4px; padding:.05em .42em; margin-left:.15rem; white-space:nowrap;}
 .pub-lk{white-space:nowrap;}
 .pub-lk a{display:inline-block; color:var(--global-theme-color); font-size:.76rem; font-weight:700; text-decoration:none; border:1px solid rgba(17,96,106,.32); border-radius:5px; padding:.02em .42em; margin-left:.28rem;}

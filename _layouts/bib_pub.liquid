@@ -25,6 +25,9 @@
         {% if entry.status %}
             <span> {{ entry.status }}. </span>
         {% endif %}
+        {% if entry.pages %}
+            <span class="pub-pages">{{ entry.pages }}</span>
+        {% endif %}
 
 
         {% if entry.pdf %}
@@ -38,4 +41,3 @@
     </div>
 
 </div>
-
