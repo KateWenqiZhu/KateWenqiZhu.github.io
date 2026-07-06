@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-05.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-05.jpg
-  date: 2026-07-05
-  mood: "数学粉心和机械臂"
-  text_cn: "早，今天5:45闹钟页耳：沉在爱意里惊醒，右爪贴创口贴，左手机械臂把它修好。"
+  image: /assets/img/yeer/yeer-2026-07-06.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-06.jpg
+  date: 2026-07-06
+  mood: "两扇门都珍贵"
+  text_cn: "早，今天4:30空白页耳：站在proof和流量两扇门中间，知道珍贵的光也要努力维护。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
