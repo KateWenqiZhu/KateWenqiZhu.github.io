@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-06.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-06.jpg
-  date: 2026-07-06
-  mood: "两扇门都珍贵"
-  text_cn: "早，今天4:30空白页耳：站在proof和流量两扇门中间，知道珍贵的光也要努力维护。"
+  image: /assets/img/yeer/yeer-2026-07-07.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-07.jpg
+  date: 2026-07-07
+  mood: "追 proof 马拉松"
+  text_cn: "早，今天4点proof马拉松页耳：昨晚被proof追醒，清晨又追回去；熬红眼，也要把那缕思路追到手。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
