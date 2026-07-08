@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-07.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-07.jpg
-  date: 2026-07-07
-  mood: "追 proof 马拉松"
-  text_cn: "早，今天4点proof马拉松页耳：昨晚被proof追醒，清晨又追回去；熬红眼，也要把那缕思路追到手。"
+  image: /assets/img/yeer/yeer-2026-07-08.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-08.jpg
+  date: 2026-07-08
+  mood: "塌耳卸重"
+  text_cn: "早，今天5:30塌耳页耳：大视频做完，睡了两段五小时；囊中之物在旁边发光，醒来却有点拔剑四顾。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
