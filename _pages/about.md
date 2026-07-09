@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-08.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-08.jpg
-  date: 2026-07-08
-  mood: "塌耳卸重"
-  text_cn: "早，今天5:30塌耳页耳：大视频做完，睡了两段五小时；囊中之物在旁边发光，醒来却有点拔剑四顾。"
+  image: /assets/img/yeer/yeer-2026-07-09.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-09.jpg
+  date: 2026-07-09
+  mood: "梦里追柚子"
+  text_cn: "早，今天5:30梦游页耳：和哲人乱辩，抱着导师给的巨大柚子等车，最后还是想打taxi回家。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
