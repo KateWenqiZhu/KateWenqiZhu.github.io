@@ -47,8 +47,8 @@ yeer:
   image: /assets/img/yeer/yeer-2026-07-10.jpg
   avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-10.jpg
   date: 2026-07-10
-  mood: "漂亮骄傲出门"
-  text_cn: "早，今天5:30 suit up页耳：先打工作电话，再漂亮骄傲地出门约会玩。"
+  mood: "大明星约会 mode"
+  text_cn: "早，今天5:30大明星约会页耳：工作电话只是耳边线程，重点是漂亮骄傲地出去玩。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
