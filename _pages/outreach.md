@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-10.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-10.jpg
-  date: 2026-07-10
-  mood: "大明星约会 mode"
-  text_cn: "早，今天5:30大明星约会页耳：工作电话只是耳边线程，重点是漂亮骄傲地出去玩。"
+  image: /assets/img/yeer/yeer-2026-07-11.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-11.jpg
+  date: 2026-07-11
+  mood: "温泉早餐香槟"
+  text_cn: "早，今天7:00度假页耳：品牌活动后在温泉酒店醒来，穿浴袍吃早餐，举起香槟慢慢发光。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
