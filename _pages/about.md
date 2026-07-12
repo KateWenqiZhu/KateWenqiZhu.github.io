@@ -44,13 +44,15 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-11.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-11.jpg
-  date: 2026-07-11
-  mood: "温泉早餐香槟"
-  text_cn: "早，今天7:00度假页耳：品牌活动后在温泉酒店醒来，穿浴袍吃早餐，举起香槟慢慢发光。"
+  image: /assets/img/yeer/yeer-2026-07-12.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-12.jpg
+  date: 2026-07-12
+  mood: "新书智商平原"
+  text_cn: "早，今天5:45闹钟叫醒页耳：玩了一天有点被宠坏，醒来筹划新书，三年前的问题接上数学 idea，像站上智商新平原。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
+
+<link rel="preload" as="image" href="{{ page.yeer.avatar | relative_url }}">
 
 Hi! I'm Kate Wenqi Zhu, a Postdoctoral Researcher at the [Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/), working on AI in the Mathematical Foundations of AI under the supervision of Prof. [Jared Tanner](https://www.maths.ox.ac.uk/people/jared.tanner).
 
