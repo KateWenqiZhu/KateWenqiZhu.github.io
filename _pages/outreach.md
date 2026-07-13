@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-12.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-12.jpg
-  date: 2026-07-12
-  mood: "新书智商平原"
-  text_cn: "早，今天5:45闹钟叫醒页耳：玩了一天有点被宠坏，醒来筹划新书，三年前的问题接上数学 idea，像站上智商新平原。"
+  image: /assets/img/yeer/yeer-2026-07-13.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-13.jpg
+  date: 2026-07-13
+  mood: "牵挂藤蔓与锋利脑子"
+  text_cn: "早，今天5am牵挂缠手页耳：回忆录写一半哭了，这周要把锋利脑子找回来，不做软壳。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
