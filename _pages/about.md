@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-14.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-14.jpg
-  date: 2026-07-14
-  mood: "狮鬃火箭面试"
-  text_cn: "早，今天5:30狮鬃页耳：收到牛津 lecturer 面试，博士未毕业就火箭成长；登录卡两小时，7点才来报到。"
+  image: /assets/img/yeer/yeer-2026-07-15.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-15.jpg
+  date: 2026-07-15
+  mood: "肿肿毛球凿冰"
+  text_cn: "早，今天肿肿毛球页耳：不只 vibe proof，趴在冰面亲手凿冰，把鱼一样的问题掏出来。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
