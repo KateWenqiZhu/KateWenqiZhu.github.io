@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-15.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-15.jpg
-  date: 2026-07-15
-  mood: "肿肿毛球凿冰"
-  text_cn: "早，今天肿肿毛球页耳：不只 vibe proof，趴在冰面亲手凿冰，把鱼一样的问题掏出来。"
+  image: /assets/img/yeer/yeer-2026-07-16.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-16.jpg
+  date: 2026-07-16
+  mood: "吃晕恢复毛球"
+  text_cn: "早，今天5:45吃晕恢复页耳：四脚朝天抱蜜罐，肚子滚滚滚，慢慢把状态捡回来。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
