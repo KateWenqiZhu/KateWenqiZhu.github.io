@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-16.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-16.jpg
-  date: 2026-07-16
-  mood: "吃晕恢复毛球"
-  text_cn: "早，今天5:45吃晕恢复页耳：四脚朝天抱蜜罐，肚子滚滚滚，慢慢把状态捡回来。"
+  image: /assets/img/yeer/yeer-2026-07-17.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-17.jpg
+  date: 2026-07-17
+  mood: "光怪陆离机械梦台"
+  text_cn: "早，今天4点在怪梦里醒过一次，6点闹钟把页耳捞回来：酒吧变成机械T台，座位被占，又被朋友一跃清空。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
