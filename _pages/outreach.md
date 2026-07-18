@@ -37,7 +37,7 @@ yeer:
 
       <div>
         <p class="mm-yeer-tag">Yeer · 页耳 · today's mood</p>
-        {% include about/yeer_card.liquid class="mm-yeer-card" %}
+        {% include about/yeer_card.liquid class="mm-yeer-card" mode="random" %}
       </div>
     </div>
   </div>

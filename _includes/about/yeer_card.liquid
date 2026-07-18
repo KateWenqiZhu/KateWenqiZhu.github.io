@@ -1,5 +1,5 @@
 {% if page.yeer %}
-  <aside class="yeer-profile-card {{ include.class }}" data-yeer-card>
+  <aside class="yeer-profile-card {{ include.class }}" data-yeer-card data-yeer-mode="{{ include.mode | default: 'ordered' }}">
     <p class="yeer-en yeer-intro">{{ page.yeer.text_en }}</p>
     <div class="yeer-media-wrap">
       <button class="yeer-image-link" type="button" data-yeer-open aria-label="Open larger Yeer image" title="Open full image">
@@ -11,8 +11,13 @@
       <p class="yeer-cn" data-yeer-status>{{ page.yeer.text_cn }}</p>
     </div>
     <div class="yeer-actions">
-      <button class="yeer-react-button" type="button" data-yeer-react>Yeer react</button>
-      <span>换一个状态</span>
+      {% if include.mode == "random" %}
+        <button class="yeer-react-button" type="button" data-yeer-react>Random Yeer</button>
+        <span>随机抽一只</span>
+      {% else %}
+        <button class="yeer-react-button" type="button" data-yeer-react>Previous day</button>
+        <span>按日期回看</span>
+      {% endif %}
     </div>
     <div class="yeer-lightbox" data-yeer-lightbox hidden>
       <button class="yeer-lightbox-backdrop" type="button" data-yeer-close aria-label="Close Yeer image"></button>
@@ -32,6 +37,7 @@
       if (!Array.isArray(gallery) || gallery.length === 0) return;
 
       document.querySelectorAll('[data-yeer-card]').forEach(function (card) {
+        var selectionMode = card.getAttribute('data-yeer-mode') || 'ordered';
         var mainImage = card.querySelector('[data-yeer-image]');
         var mainMood = card.querySelector('[data-yeer-mood]');
         var mainStatus = card.querySelector('[data-yeer-status]');
@@ -61,6 +67,11 @@
         }
 
         function pickAnotherYeer() {
+          if (selectionMode === 'ordered') {
+            currentIndex = (currentIndex + 1) % gallery.length;
+            return gallery[currentIndex];
+          }
+
           var nextIndex = 0;
           if (gallery.length > 1) {
             do {
