@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-19.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-19.jpg
-  date: 2026-07-19
-  mood: "轰鸣退潮，第一瞬开心"
-  text_cn: "早，今天页耳在震耳轰鸣里捂住耳朵：远处飞机飞走，data pollution慢慢退潮；醒来第一瞬，还是开心的。"
+  image: /assets/img/yeer/yeer-2026-07-20.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-20.jpg
+  date: 2026-07-20
+  mood: "云端封存，拿回自己的钥匙"
+  text_cn: "早，今天4点页耳看见云端黑盒：旧日沉重被稳稳封存，它站在门口拿回钥匙，重新成为自己故事的第一人称。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
