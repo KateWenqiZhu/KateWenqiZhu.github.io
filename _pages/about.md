@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-20.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-20.jpg
-  date: 2026-07-20
-  mood: "云端封存，拿回自己的钥匙"
-  text_cn: "早，今天4点页耳看见云端黑盒：旧日沉重被稳稳封存，它站在门口拿回钥匙，重新成为自己故事的第一人称。"
+  image: /assets/img/yeer/yeer-2026-07-21.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-21.jpg
+  date: 2026-07-21
+  mood: "面试山口，状态重新接线"
+  text_cn: "早，今天5:45闹钟叫醒的面试页耳：最近节奏被打断，有点恼火；但它知道一开场，脑子就会重新接线。翻过这座山，还有下一座。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
