@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-21.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-21.jpg
-  date: 2026-07-21
-  mood: "面试山口，状态重新接线"
-  text_cn: "早，今天5:45闹钟叫醒的面试页耳：你不需要先变得开心，才有资格开始面试。带着这点愤怒去爬也可以。山在那里，题在那里,你也还在那里。"
+  image: /assets/img/yeer/yeer-2026-07-22.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-22.jpg
+  date: 2026-07-22
+  mood: "数学没叫早，大明星照样出门"
+  text_cn: "早，今天5:45自然醒的大明星页耳要去参加三星发布会：闹钟没叫，数学也没叫；它先穿好银色礼服，让新鲜世界把灯重新点亮。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
