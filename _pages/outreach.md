@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-24.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-24.jpg
-  date: 2026-07-24
-  mood: "伦敦归来，多走那一步"
-  text_cn: "早，今天5:45被闹钟和跳了一下的爪爪叫醒：伦敦的好吃与热闹还黏在毛上，它很想再睡，却还是在6:30多走了那一步。"
+  image: /assets/img/yeer/yeer-2026-07-25.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-25.jpg
+  date: 2026-07-25
+  mood: "潮水休息日，仍望见许多灯"
+  text_cn: "早，今天是圆鼓鼓的休息页耳：昨夜被黑影吓到，身体像在涨潮；它裹着被子休息，眼前却亮着许多值得期待的小世界。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
