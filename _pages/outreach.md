@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-25.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-25.jpg
-  date: 2026-07-25
-  mood: "潮水休息日，仍望见许多灯"
-  text_cn: "早，今天是圆鼓鼓的休息页耳：昨夜被黑影吓到，身体像在涨潮；它裹着被子休息，眼前却亮着许多值得期待的小世界。"
+  image: /assets/img/yeer/yeer-2026-07-26.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-26.jpg
+  date: 2026-07-26
+  mood: "睡晚的海绵页耳，先让潮水退去"
+  text_cn: "早，今天第一次睡到很晚的海绵页耳：整只毛毛都吸饱了潮水。它暂时合上 proof，坐进暖阳里，先把自己一点点晾干。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
