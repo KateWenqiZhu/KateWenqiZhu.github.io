@@ -47,8 +47,8 @@ yeer:
   image: /assets/img/yeer/yeer-2026-07-27.jpg
   avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-27.jpg
   date: 2026-07-27
-  mood: "潮退一半，金河开始漂流"
-  text_cn: "早，今天5点页耳醒在一条金色河流上：昨日潮水已退去一半，proof纸折成小船，右爪举着一团晨光，向未知的奇幻世界漂去。"
+  mood: "金河醒来，开心去漂流"
+  text_cn: "早，今天5点多页耳被右爪的一团火欢欢喜喜地叫醒：昨日潮水退去一半，proof纸船顺着金河出发，前面全是奇幻好事。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
