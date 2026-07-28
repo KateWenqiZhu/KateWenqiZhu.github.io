@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-27.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-27.jpg
-  date: 2026-07-27
-  mood: "金河醒来，开心去漂流"
-  text_cn: "早，今天5点多页耳被右爪的一团火欢欢喜喜地叫醒：昨日潮水退去一半，proof纸船顺着金河出发，前面全是奇幻好事。"
+  image: /assets/img/yeer/yeer-2026-07-28.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-28.jpg
+  date: 2026-07-28
+  mood: "闹钟没叫动，页耳慢慢开机"
+  text_cn: "早，今天6:15才醒的困困页耳：闹钟没把它叫动，一只眼睛勉强营业，另一只还在睡。脑子没有很多想法，先慢慢开机。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
