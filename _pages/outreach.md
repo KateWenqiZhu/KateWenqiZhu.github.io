@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-29.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-29.jpg
-  date: 2026-07-29
-  mood: "每根毛都通电的惊奇"
-  text_cn: "早，今天页耳每根毛都在通电发光：惊奇从尾巴尖一路 shiver 到耳朵。不是害怕，是被这个 bewildering world 快乐得浑身发抖。"
+  image: /assets/img/yeer/yeer-2026-07-30.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-30.jpg
+  date: 2026-07-30
+  mood: "起晚了，冰球滚下山"
+  text_cn: "早，今天起晚的页耳把自己冻进一颗冰块球：四只爪子在里面飞奔，连球带猫咕噜噜滚下山。起步晚了，但下坡速度很快。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
