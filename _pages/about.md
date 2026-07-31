@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-30.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-30.jpg
-  date: 2026-07-30
-  mood: "起晚了，冰球滚下山"
-  text_cn: "早，今天起晚的页耳把自己冻进一颗冰块球：四只爪子在里面飞奔，连球带猫咕噜噜滚下山。起步晚了，但下坡速度很快。"
+  image: /assets/img/yeer/yeer-2026-07-31.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-31.jpg
+  date: 2026-07-31
+  mood: "三层梦境，整理旧故事"
+  text_cn: "早，今天7点从三层梦里出来的页耳：先剪深紫蝴蝶兰，再搬海边房间，最后坐进一桌半真半假的人情。梦在替它整理旧故事。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
