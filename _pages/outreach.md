@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-07-31.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-07-31.jpg
-  date: 2026-07-31
-  mood: "三层梦境，整理旧故事"
-  text_cn: "早，今天7点从三层梦里出来的页耳：先剪深紫蝴蝶兰，再搬海边房间，最后坐进一桌半真半假的人情。梦在替它整理旧故事。"
+  image: /assets/img/yeer/yeer-2026-08-01.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-01.jpg
+  date: 2026-08-01
+  mood: "翻过旧照片，穿回自己"
+  text_cn: "早，今天6:30在旧照片里醒来的页耳：左边是曾经穿得很漂亮的外壳，右边是终于合身的自己。它没有变成别人，只是认回自己。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
