@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-01.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-01.jpg
-  date: 2026-08-01
-  mood: "翻过旧照片，穿回自己"
-  text_cn: "早，今天6:30在旧照片里醒来的页耳：左边是曾经穿得很漂亮的外壳，右边是终于合身的自己。它没有变成别人，只是认回自己。"
+  image: /assets/img/yeer/yeer-2026-08-03.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-03.jpg
+  date: 2026-08-03
+  mood: "滂沱难过，辽阔自由"
+  text_cn: "我要滂沱的难过，我要辽阔的自由。没有这些，又怎么可以说真情实感地活过一次。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
