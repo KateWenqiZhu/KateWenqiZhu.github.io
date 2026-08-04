@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-03.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-03.jpg
-  date: 2026-08-03
-  mood: "滂沱难过，辽阔自由"
-  text_cn: "我要滂沱的难过，我要辽阔的自由。没有这些，又怎么可以说真情实感地活过一次。"
+  image: /assets/img/yeer/yeer-2026-08-04.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-04.jpg
+  date: 2026-08-04
+  mood: "从黑点追到根源"
+  text_cn: "早，页耳从天花板一个黑点，查到一只啃坏电线的老鼠：蚊子只是表象，揪下根源，再把整间屋子验明白。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
