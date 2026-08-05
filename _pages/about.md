@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-04.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-04.jpg
-  date: 2026-08-04
-  mood: "从黑点追到根源"
-  text_cn: "早，页耳从天花板一个黑点，查到一只啃坏电线的老鼠：蚊子只是表象，揪下根源，再把整间屋子验明白。"
+  image: /assets/img/yeer/yeer-2026-08-05.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-05.jpg
+  date: 2026-08-05
+  mood: "吞下我，才成为我"
+  text_cn: "早，今天6点多醒、7点上桌的圆滚滚页耳：它把一桌苦涩、欲望与悲欢吞下去，眼睛仍亮晶晶。吞下我，才成为我。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
