@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-05.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-05.jpg
-  date: 2026-08-05
-  mood: "吞下我，才成为我"
-  text_cn: "早，今天6点多醒、7点上桌的圆滚滚页耳：它把一桌苦涩、欲望与悲欢吞下去，眼睛仍亮晶晶。吞下我，才成为我。"
+  image: /assets/img/yeer/yeer-2026-08-06.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-06.jpg
+  date: 2026-08-06
+  mood: "秋意里的彩虹马"
+  text_cn: "早，今天牛津有一点秋天。凌晨三点的一阵绞紧已经松开，页耳披上彩虹鬃毛，骄傲又开心地蹄蹄哒哒出发。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
