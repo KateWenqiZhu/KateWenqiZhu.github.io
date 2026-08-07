@@ -47,8 +47,8 @@ yeer:
   image: /assets/img/yeer/yeer-2026-08-07.jpg
   avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-07.jpg
   date: 2026-08-07
-  mood: "修一修尾巴，重新对准自己"
-  text_cn: "早，6:30的页耳先不急着赶路。它抱住蓬松大尾巴，修掉乱翘的毛，把情绪这一段轻轻收尾，再重新校准方向。"
+  mood: "开心卷毛，修个新发型"
+  text_cn: "早，6:30的卷毛页耳真的想换发型：它抱着蓬松大尾巴修修剪剪，数学、咖啡和晨光都在旁边，今天可可爱爱，开开心心。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
