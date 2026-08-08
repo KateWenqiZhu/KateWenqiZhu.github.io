@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-07.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-07.jpg
-  date: 2026-08-07
-  mood: "开心卷毛，修个新发型"
-  text_cn: "早，6:30的卷毛页耳真的想换发型：它抱着蓬松大尾巴修修剪剪，数学、咖啡和晨光都在旁边，今天可可爱爱，开开心心。"
+  image: /assets/img/yeer/yeer-2026-08-08.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-08.jpg
+  date: 2026-08-08
+  mood: "短毛竖竖，蓝色狼尾"
+  text_cn: "早，昨天剪完头发，今天页耳在镜子前臭美了半天：短毛精神地竖起来，长长的蓝色狼尾一路垂到背上，越看越开心。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
