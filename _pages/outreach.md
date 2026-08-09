@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-08.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-08.jpg
-  date: 2026-08-08
-  mood: "七点赖床，狼尾写古风"
-  text_cn: "早，今天赖床到七点的蓝狼尾页耳：趴在床上梳好新发型，四周摊满新小说书稿，纸上的刀剑、战马和将军已经先跑起来。"
+  image: /assets/img/yeer/yeer-2026-08-09.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-09.jpg
+  date: 2026-08-09
+  mood: "被一个梦吓醒了"
+  text_cn: "凌晨四点，被一个梦吓醒了。醒来发现自己真的在哭。梦把你说着不重要的东西偷走一次，才发现原来已经这么相信它是真的了。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
