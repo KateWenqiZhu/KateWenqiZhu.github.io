@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-10.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-10.jpg
-  date: 2026-08-10
-  mood: "五点天还黑，先相信自己"
-  text_cn: "早，今天终于又在5点醒来的页耳：夏末的天还黑着，数学、科学、长剑和白马都在等它；身后还有一盏相信它的灯。想成为谁，就认真成为谁。"
+  image: /assets/img/yeer/yeer-2026-08-11.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-11.jpg
+  date: 2026-08-11
+  mood: "被自己的小说抓住了"
+  text_cn: "早，昨晚页耳被自己写的小说抓住，追着刀剑白马一直写到很晚；今天太阳升高才醒，稿纸还缠在爪边。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
