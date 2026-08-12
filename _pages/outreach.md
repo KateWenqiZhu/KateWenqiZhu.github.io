@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-11.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-11.jpg
-  date: 2026-08-11
-  mood: "被自己的小说抓住了"
-  text_cn: "早，昨晚页耳被自己写的小说抓住，追着刀剑白马一直写到很晚；今天太阳升高才醒，稿纸还缠在爪边。"
+  image: /assets/img/yeer/yeer-2026-08-12.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-12.jpg
+  date: 2026-08-12
+  mood: "无名无状的月光"
+  text_cn: "早，今天黑牌页耳在天井坐到天亮：没有军报，没有功劳，也没有什么可以交还。想见便是想见，不必拿东西换。我当赴那无名无状的月光。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
