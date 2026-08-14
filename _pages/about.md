@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-13.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-13.jpg
-  date: 2026-08-13
-  mood: "星空下的 love overload"
-  text_cn: "早，3点睡，7点被生物钟 conditioning 叫醒。果树红绸，星空满天；杯子不收也没关系，很 compassion，很 love overload。"
+  image: /assets/img/yeer/yeer-2026-08-14.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-14.jpg
+  date: 2026-08-14
+  mood: "原地度假球球"
+  text_cn: "早，8点醒来的原地度假页耳：昨天两份外卖吃成球球，今天瑜伽垫已经铺好。过得太好了。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
