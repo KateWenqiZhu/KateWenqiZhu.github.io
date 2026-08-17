@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-16.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-16.jpg
-  date: 2026-08-16
-  mood: "想象里，花都开了"
-  text_cn: "早，天忽然凉了一点。页耳醒得晚，心却很辽阔；院子里的花没有开，它已经先看见了。"
+  image: /assets/img/yeer/yeer-2026-08-17.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-17.jpg
+  date: 2026-08-17
+  mood: "新的学习周期"
+  text_cn: "早，8点才上座的学习页耳：玩完一个周期，不是找回状态，是进入下一段。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
