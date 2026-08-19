@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-18.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-18.jpg
-  date: 2026-08-18
-  mood: "各自的那一页"
-  text_cn: "早，泳池很亮，展厅里人人都在命名。页耳把自己的那一页收好：上帝的归上帝的，凯撒的归凯撒的。"
+  image: /assets/img/yeer/yeer-2026-08-19.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-19.jpg
+  date: 2026-08-19
+  mood: "未来有了自己的骨架"
+  text_cn: "早，错过两个闹钟，8点才醒。未来终于不再薄薄一层；七夕页耳开始相信，自己的命也很好。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
