@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-24.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-24.jpg
-  date: 2026-08-24
-  mood: "五花马，千金裘"
-  text_cn: "早，直播前线日日新高。五花马，千金裘；这样的巅峰不常有，页耳决定痛快经过。"
+  image: /assets/img/yeer/yeer-2026-08-27.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-27.jpg
+  date: 2026-08-27
+  mood: "七点，入秋下山"
+  text_cn: "早，七点的雨里有了一点秋意。上山的人，不认得下山的神，这世界最不缺的就是天赋。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
