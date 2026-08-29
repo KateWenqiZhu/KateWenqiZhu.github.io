@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-28.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-28.jpg
-  date: 2026-08-28
-  mood: "还好，我会"
-  text_cn: "早，今天有点累，还是决定播一场。真正懂得变强的意义，是有人站在身后时，低头看看自己的手：还好，我会。"
+  image: /assets/img/yeer/yeer-2026-08-29.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-29.jpg
+  date: 2026-08-29
+  mood: "降温了，先捂肚子"
+  text_cn: "早，天忽然凉了，肠胃也跟着闹脾气。页耳抱着肚子躺回被窝，今天先把自己焐热。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
