@@ -10,7 +10,7 @@ yeer:
   avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-31.jpg
   date: 2026-08-31
   mood: "肉垫先按住数学"
-  text_cn: "早，7点醒、8点上座的圆滚滚页耳：肉垫先按住数学，再用三天把状态捡回来，准备去巴黎开会。"
+  text_cn: "早，7点醒、8点上座的软乎乎页耳：肉垫先按住数学，再用三天把状态捡回来，准备去巴黎开会。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
