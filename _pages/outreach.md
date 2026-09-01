@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-08-31.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-08-31.jpg
-  date: 2026-08-31
-  mood: "肉垫先按住数学"
-  text_cn: "早，7点醒、8点上座的软乎乎页耳：肉垫先按住数学，再用三天把状态捡回来，准备去巴黎开会。"
+  image: /assets/img/yeer/yeer-2026-09-01.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-01.jpg
+  date: 2026-09-01
+  mood: "九月，把窗打开"
+  text_cn: "早，九月真的凉了。尘封一个暑假的窗终于打开，厚被子铺好，页耳把冷空气和更多阳光一起放进来。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
