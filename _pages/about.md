@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-01.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-01.jpg
-  date: 2026-09-01
-  mood: "九月，把窗打开"
-  text_cn: "早，九月真的凉了。尘封一个暑假的窗终于打开，厚被子铺好，页耳把冷空气和更多阳光一起放进来。"
+  image: /assets/img/yeer/yeer-2026-09-02.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-02.jpg
+  date: 2026-09-02
+  mood: "写完这一卷，借一点光"
+  text_cn: "早，今天页耳把自传写完，小说也走到新的岸边。焦虑还在，门已经打开；向平凡的日子借一点光。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
