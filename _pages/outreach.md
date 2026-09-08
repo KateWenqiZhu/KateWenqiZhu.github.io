@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-08.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-08.jpg
+  image: /assets/img/yeer/yeer-2026-09-08-v2.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-08-v2.jpg
   date: 2026-09-08
-  mood: "关关难过，关关过"
-  text_cn: "早，最近埋头算账、理合同，自己的 AI 公司快成立了，香港也有了新起点。关关难过，关关过。Better future。"
+  mood: "关关难过关关过"
+  text_cn: "早，页耳还在牛津，埋在账本、合同和轰鸣的机器里，算得人仰马翻。 关关难过关关过 山高万仞，只争今朝，千里之行，始于足下。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
