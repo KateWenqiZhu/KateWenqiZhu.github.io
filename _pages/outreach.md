@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-09.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-09.jpg
-  date: 2026-09-09
-  mood: "一扇一扇，开新店"
-  text_cn: "早，页耳还在牛津，一家一家忙着开新店。今天有点黑化，毛也炸着；钥匙攥了一大串，门还得一扇一扇开。"
+  image: /assets/img/yeer/yeer-2026-09-10.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-10.jpg
+  date: 2026-09-10
+  mood: "五点，梦里的一束花"
+  text_cn: "早，又回到五点起床的页耳，牛津天冷，窗外麻麻黑。创业以后，看事情的角度也在变；梦里收到一束马蹄莲，一枝红的高出来。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
