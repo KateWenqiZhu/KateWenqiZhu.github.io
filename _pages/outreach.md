@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-13.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-13.jpg
-  date: 2026-09-13
-  mood: "风雨里的梨树"
-  text_cn: "早，页耳梦见风雨把梨树吹进小院。隔壁积起一池清水，它伏低身子慢慢往家挪，想看看自然长草的院子还好不好。"
+  image: /assets/img/yeer/yeer-2026-09-14.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-14.jpg
+  date: 2026-09-14
+  mood: "后门外的开心果"
+  text_cn: "早，页耳在红黑旧电影院里找了半天厕所，最后从后门溜出去，意外吃到很好吃的开心果蛋糕和可颂。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
