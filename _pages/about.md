@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-14.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-14.jpg
-  date: 2026-09-14
-  mood: "后门外的开心果"
-  text_cn: "早，页耳在红黑旧电影院里找了半天厕所，最后从后门溜出去，意外吃到很好吃的开心果蛋糕和可颂。"
+  image: /assets/img/yeer/yeer-2026-09-16.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-16.jpg
+  date: 2026-09-16
+  mood: "睡饱以后，城门一座座开"
+  text_cn: "早，睡饱以后 reset 的页耳又上线了：一间店一间店开，一座城一座城走，一个章一个章盖下来。地图尽头，还有下一扇门。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
