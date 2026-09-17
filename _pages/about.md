@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-16.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-16.jpg
-  date: 2026-09-16
-  mood: "睡饱以后，城门一座座开"
-  text_cn: "早，睡饱以后 reset 的页耳又上线了：一间店一间店开，一座城一座城走，一个章一个章盖下来。地图尽头，还有下一扇门。"
+  image: /assets/img/yeer/yeer-2026-09-17.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-17.jpg
+  date: 2026-09-17
+  mood: "六点，先打开这一扇"
+  text_cn: "早，六点起床的页耳抱着一小叠纸，站在牛津清晨的回廊里。门很多，它不急着全开，只先探头看看第一扇：每一扇都让它有点兴奋。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
