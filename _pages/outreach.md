@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-17.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-17.jpg
-  date: 2026-09-17
-  mood: "六点，先打开这一扇"
-  text_cn: "早，六点起床的页耳抱着一小叠纸，站在牛津清晨的回廊里。门很多，它不急着全开，只先探头看看第一扇：每一扇都让它有点兴奋。"
+  image: /assets/img/yeer/yeer-2026-09-19.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-19.jpg
+  date: 2026-09-19
+  mood: "醒来两次，时间倒流一点"
+  text_cn: "早，昨夜页耳醒了两次，每次都像倒回同一个时间点。钟针、月光和水滴往回走了一小格，它坐在床上，短暂地当了一回时间旅客。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
