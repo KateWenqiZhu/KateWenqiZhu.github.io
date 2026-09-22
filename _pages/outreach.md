@@ -10,7 +10,7 @@ yeer:
   avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-22.jpg
   date: 2026-09-22
   mood: "四点，先把清晨走一遍"
-  text_cn: "早，四点醒来的页耳睡不着，索性披上围巾出去走一圈。肚子还在咕噜咕噜，精神却很好；牛津没醒，它先把清晨走一遍，中午再补觉。"
+  text_cn: "早，四点醒来的页耳睡不着，索性披上围巾出去走一圈。牛津没醒，它先把清晨走一遍，中午再补觉。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
