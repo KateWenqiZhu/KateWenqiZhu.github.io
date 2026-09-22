@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-19.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-19.jpg
-  date: 2026-09-19
-  mood: "醒来两次，时间倒流一点"
-  text_cn: "早，昨夜页耳醒了两次，每次都像倒回同一个时间点。钟针、月光和水滴往回走了一小格，它坐在床上，短暂地当了一回时间旅客。"
+  image: /assets/img/yeer/yeer-2026-09-22.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-22.jpg
+  date: 2026-09-22
+  mood: "四点，先把清晨走一遍"
+  text_cn: "早，四点醒来的页耳睡不着，索性披上围巾出去走一圈。肚子还在咕噜咕噜，精神却很好；牛津没醒，它先把清晨走一遍，中午再补觉。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
