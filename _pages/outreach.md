@@ -29,9 +29,9 @@ yeer:
         <p class="mm-lede">An AI learning buddy for thinking, play, and personalized mentorship — Oxford-style mathematics, made playful.</p>
 
         <div class="mm-stats">
-          <div class="mm-stat"><span class="cap">Community fans</span><b data-count="3.14" data-dec="2" data-suffix="M+">0</b></div>
-          <div class="mm-stat"><span class="cap">Core paying users</span><b data-count="8400" data-suffix="+">0</b></div>
-          <div class="mm-stat"><span class="cap">Total learning times</span><b data-count="216" data-suffix="K+">0</b></div>
+          <div class="mm-stat"><span class="cap">Community fans</span><b data-count="4.09" data-dec="2" data-suffix="M+">0</b></div>
+          <div class="mm-stat"><span class="cap">Core paying users</span><b data-count="15146">0</b></div>
+          <div class="mm-stat"><span class="cap">Total learning times</span><b data-count="343" data-suffix="K+">0</b></div>
         </div>
       </div>
 
