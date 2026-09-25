@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-22.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-22.jpg
-  date: 2026-09-22
-  mood: "四点，先把清晨走一遍"
-  text_cn: "早，四点醒来的页耳睡不着，索性披上围巾出去走一圈。牛津没醒，它先把清晨走一遍，中午再补觉。"
+  image: /assets/img/yeer/yeer-2026-09-25.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-25.jpg
+  date: 2026-09-25
+  mood: "中秋，与天涯共月"
+  text_cn: "中秋夜，页耳与天涯共一轮明月。圣贤寂寞，饮者留名；天生我材，散尽还来。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
