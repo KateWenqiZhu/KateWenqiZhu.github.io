@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-25.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-25.jpg
-  date: 2026-09-25
-  mood: "中秋，与天涯共月"
-  text_cn: "中秋夜，页耳与天涯共一轮明月。圣贤寂寞，饮者留名；天生我材，散尽还来。"
+  image: /assets/img/yeer/yeer-2026-09-26.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-26.jpg
+  date: 2026-09-26
+  mood: "抱头打滚，数学开机"
+  text_cn: "屋顶页耳抱头打滚，proof、公式和自媒体点子掉了一地。数学重新开机。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
