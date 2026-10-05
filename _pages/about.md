@@ -44,11 +44,11 @@ news: true
 selected_papers: true
 social: true
 yeer:
-  image: /assets/img/yeer/yeer-2026-09-26.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-09-26.jpg
-  date: 2026-09-26
-  mood: "抱头打滚，数学开机"
-  text_cn: "屋顶页耳抱头打滚，proof、公式和自媒体点子掉了一地。数学重新开机。"
+  image: /assets/img/yeer/yeer-2026-10-05.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-10-05.jpg
+  date: 2026-10-05
+  mood: "神蚕报恩"
+  text_cn: "神蚕你被我捡回家，我愿抓一把草药，摇得人眼泪掉。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
