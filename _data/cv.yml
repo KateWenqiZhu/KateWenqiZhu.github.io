@@ -4,7 +4,7 @@
     - name: Full Name
       value: Kate Wenqi Zhu
     - name: Current Position
-      value: Postdoctoral Researcher, Mathematical Institute, University of Oxford
+      value: Postdoctoral Researcher, Mathematical Institute, University of Oxford; Junior Research Fellow, Exeter College
     - name: Research Area
       value: Optimization, numerical analysis, algebraic geometry, and AI-integrated mathematical discovery
     - name: Languages
@@ -13,19 +13,27 @@
 - title: Education and Professional Experience
   type: time_table
   contents:
+    - title: Postdoctoral Research Associate (upcoming)
+      institution: Erlangen Hub
+      year: From Nov 2026
+
     - title: Postdoctoral Researcher
       institution: University of Oxford, UK
-      year: 2026-present
+      year: Jan 2026-present
       description:
-        - Working on AI in the Mathematical Foundations of AI.
-        - Supervised by Prof. Jared Tanner.
+        - Mathematical Foundations of AI, with Prof. Jared Tanner.
+        - Spectral geometry and structured learning for sparse neural networks; higher-order information in training dynamics.
+
+    - title: Junior Research Fellow
+      institution: Exeter College, University of Oxford, UK
+      year: 2026-present
 
     - title: D.Phil. in Mathematics
       institution: University of Oxford, UK
-      year: 2022-2026
+      year: 2021-2026
       description:
-        - "Viva: Apr 2026; graduation expected May-Jul 2026."
-        - Supervised by Prof. Coralia Cartis.
+        - "Viva passed with minor corrections in Apr 2026; degree conferred in Jul 2026."
+        - "Supervisor: Prof. Coralia Cartis; project PI: Prof. Terry Lyons."
         - "Dissertation: Tensor Methods for Nonconvex Optimization."
         - Awarded full scholarship.
 
@@ -40,8 +48,8 @@
       institution: Goldman Sachs Investment Management, Hong Kong, China
       year: 2017-2019
 
-    - title: JP Morgan Investment Strategist
-      institution: JP Morgan Asset Management, Hong Kong, China
+    - title: J.P. Morgan Investment Analyst
+      institution: Global Investment Opportunities Group, J.P. Morgan, Hong Kong, China
       year: 2014-2017
 
     - title: BA & MMath Mathematics
@@ -73,6 +81,9 @@
 - title: Awards and Grants
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Junior Research Fellowship, Exeter College, University of Oxford
     - year: 2025
       items:
         - Leslie Fox Prize for Numerical Analysis, Second Prize
@@ -103,20 +114,38 @@
         - Techniques for Nonlinear Optimization.
 
     - title: Journal Reviewer
-      institution: Mathematical Programming; SIAM Journal on Optimization; Optimization and Engineering; IMA Journal of Numerical Analysis
+      institution: Mathematical Programming; SIAM Journal on Optimization; Mathematics of Operations Research; European Journal of Operational Research; IMA Journal of Numerical Analysis; Optimization and Engineering; Nature Communications; Operations Research Forum
       year: 2023-present
 
     - title: Problem Class Tutor, Continuous Optimization
       institution: University of Oxford
       year: 2023-2025
       description:
-        - 196 contact hours.
+        - Part C and MSc problem classes, revision classes, consultations, coursework marking and teaching-assistant mentoring.
+
+    - title: Tutor and Teaching Assistant, Numerical Linear Algebra
+      institution: University of Oxford
+      year: 2022-2024
 
     - title: Examiner, Theory of Deep Learning
       institution: University of Oxford
       year: 2025-2026
       description:
-        - Marked coursework and assessed MSc students' thesis proposal presentations.
+        - Marked 60+ MSc mini-project reports and assessed proposal presentations.
+
+    - title: Student Supervision and Research Mentoring
+      institution: University of Oxford
+      year: 2024-present
+      description:
+        - Co-supervised three master's dissertations with Prof. Cartis (Part C 2024-25; two MMSC projects in 2026).
+        - Supervising a Part B undergraduate and co-supervising a GNN and rank-collapse project with Prof. Jared Tanner.
+        - Mentored K. Li from a first research project to first authorship of SoS1.
+
+    - title: Undergraduate Admissions Interviews
+      institution: Oriel College, University of Oxford
+      year: During D.Phil.
+      description:
+        - Assisted with undergraduate admissions interviews with Prof. Patrick Farrell.
 
     - title: Founder, Mathematics Outreach Community and AI Education Platform
       institution: Mathematics outreach and AI-powered education

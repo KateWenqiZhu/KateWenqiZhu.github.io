@@ -8,23 +8,31 @@ nav_order: 15
 ---
 
 ### Teaching at the University of Oxford
-**C6.5 Theory of Deep Learning, Tutor and Marker**, Mathematical Institute, 2025
+**Theory of Deep Learning, Tutor and Marker**, Mathematical Institute, 2025-26
 
 **Examiner, Theory of Deep Learning**, Mathematical Institute, 2025-26
 
-Marked coursework and assessed MSc students' thesis proposal presentations.
+Marked 60+ MSc mini-project reports and assessed proposal presentations.
 
-**C6.2 Continuous Optimization, Tutor**, Mathematical Institute, 2023-26
+**C6.2 Continuous Optimization, Tutor**, Mathematical Institute, 2023-25
 
-Taught 4th-year undergraduates and master's students in classes (class size: 15-25); coordinated the classes and mentored teaching assistants; conducted consultation sessions. 16 contact hours.
+Taught Part C and MSc problem classes and revision classes; provided student consultations and individual written feedback on coursework; coordinated classes and mentored teaching assistants.
 
 **Part C Revision Class, Tutor**, Mathematical Institute, 2023-24
 
 Tutored 4th-year master's students in exam preparation, including office hour sessions and mock exam reviews. Taught revision classes and provided feedback on exam papers (class size: 10-12). 12 contact hours.
 
-**C6.1 Numerical Linear Algebra, Tutor and Teaching Assistant**, Mathematical Institute, 2021-23
+**C6.1 Numerical Linear Algebra, Tutor and Teaching Assistant**, Mathematical Institute, 2022-24
 
-Tutored Oxford MSc Mathematical Modelling and Scientific Computing students (class size:  15-25); marked worksheets and provided feedback; coordinated tutorials for the entire course and delivered revision classes. 36 contact hours.
+Taught Part C and MSc students; marked problem sheets and provided feedback; coordinated tutorials and delivered revision classes. Also contributed to Part C examination marking in Numerical Linear Algebra and Continuous Optimization.
+
+### Student Supervision and Admissions
+
+Co-supervised three master's dissertation projects with Prof. Coralia Cartis: a Part C project in 2024-25 and two MMSC projects in 2026. The Part C computational optimization project developed into a research paper with the student as first author.
+
+Currently supervising a Part B undergraduate and co-supervising a student project with Prof. Jared Tanner on graph neural networks and rank collapse. Mentored K. Li from a first research project to first authorship of SoS1.
+
+Assisted with Oxford undergraduate admissions interviews with Prof. Patrick Farrell at Oriel College during my D.Phil.
 
 ### Public Teaching and Outreach Activities
 

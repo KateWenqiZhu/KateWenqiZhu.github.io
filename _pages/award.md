@@ -8,6 +8,8 @@ nav_order: 10
 # display_categories: []
 horizontal: false
 ---
+- **Junior Research Fellowship**, Exeter College, University of Oxford, 2026
+
 - **Leslie Fox Prize for Numerical Analysis** Second Prize Awardees, 2025
   
 - **RisingWISE** Training & Development for STEM early career women researchers, 2025

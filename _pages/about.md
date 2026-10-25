@@ -30,7 +30,10 @@ education:
     - course: Postdoctoral Researcher, 2026-present
       institution: University of Oxford
       year:
-    - course: D.Phil. in Mathematics, 2022-2026
+    - course: Junior Research Fellow, 2026-present
+      institution: Exeter College, University of Oxford
+      year:
+    - course: D.Phil. in Mathematics, 2021-2026
       institution: University of Oxford
       year:
     - course: M.Sc. Mathematical Modelling and Scientific Computing, 2021
@@ -54,11 +57,11 @@ yeer:
 
 <link rel="preload" as="image" href="{{ page.yeer.avatar | relative_url }}">
 
-Hi! I'm Kate Wenqi Zhu, a Postdoctoral Researcher at the [Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/), working on AI in the Mathematical Foundations of AI under the supervision of Prof. [Jared Tanner](https://www.maths.ox.ac.uk/people/jared.tanner).
+Hi! I'm Kate Wenqi Zhu, a Postdoctoral Researcher at the [Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/) and a Junior Research Fellow at Exeter College. I work with Prof. [Jared Tanner](https://www.maths.ox.ac.uk/people/jared.tanner) on the Mathematical Foundations of AI, including spectral geometry, structured learning and the training dynamics of sparse neural networks.
 
-I received my D.Phil. in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/) in 2026, supervised by Prof. [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis). My research sits at the intersection of optimization, numerical analysis, algebraic geometry, and AI-driven mathematical discovery. My core work focuses on high-order tensor methods for nonconvex optimization, including computational complexity analysis, tensor approximation, sum-of-squares techniques, polynomial optimization, and implementable high-order subproblem solvers.
+I received my D.Phil. in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/) in July 2026, supervised by Prof. [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis). My research develops and analyses algorithms for nonlinear nonconvex optimization, particularly Newton-type methods that exploit derivatives beyond second order. I work on optimality characterizations and structured polynomial subproblem solvers, including QQR, CQR and DTM, with convergence guarantees and numerical implementations. My CQR research received the 2025 Leslie Fox Prize in Numerical Analysis (Second Prize).
 
-Looking ahead, my research aims to develop AI-integrated systems for large-scale mathematical discovery, combining generative AI with algebraic and optimization theory to uncover mathematical structures beyond the reach of classical solvers.
+I also study exact sum-of-squares certificates for structured, sufficiently regularized polynomial models, connecting numerical optimization with real algebraic geometry and semidefinite programming. My current work on compact certificates and structure-aware AI includes SoS Atlas, which combines learned selection of reduced cones with independent mathematical verification. Collaborations extend this programme to SDP theory, tensor computation, tail-risk optimization, biomedical imaging and radar recognition.
 
 Before my D.Phil., I completed an M.Sc. in Mathematical Modelling and Scientific Computing at Oxford, ranked first in cohort, as well as a BA and MMath in Mathematics at Oxford. I also gained industry experience at Goldman Sachs and J.P. Morgan before returning to academic research.
 
