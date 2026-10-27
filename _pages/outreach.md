@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-10-05.jpg
-  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-10-05.jpg
-  date: 2026-10-05
-  mood: "神蚕报恩"
-  text_cn: "神蚕你被我捡回家，我愿抓一把草药，摇得人眼泪掉。"
+  image: /assets/img/yeer/yeer-2026-10-27.jpg
+  avatar: /assets/img/yeer/avatars/yeer-avatar-2026-10-27.jpg
+  date: 2026-10-27
+  mood: "长出豹纹的猛兽页耳"
+  text_cn: "早，长出豹纹的猛兽页耳：做大做强, 也开始有能力给别人撑伞了。"
   text_en: "Yeer is my AI-born fox-cat companion, created from my mornings, proofs, code, and dreams."
 ---
 
