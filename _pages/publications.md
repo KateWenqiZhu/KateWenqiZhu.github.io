@@ -10,7 +10,7 @@ nav_order: 1
 
 <div class="pub-condensed">
 
-<p class="pub-lead">29 publications, preprints and manuscripts: 11 published or accepted, 7 under review or revision, 4 manuscripts available below, and 7 in preparation. Grouped by research direction; <b>*</b> denotes lead / corresponding author. Page counts are shown where available and may change for unpublished manuscripts.</p>
+<p class="pub-lead">28 publications, preprints and manuscripts: 11 published or accepted, 6 under review or revision, 4 manuscripts available below, and 7 in preparation. Grouped by research direction; <b>*</b> denotes lead / corresponding author. Page counts may change for unpublished manuscripts; work in progress without a draft has no page count.</p>
 
 <h2 class="pub-group">Higher-order optimization and sums of squares</h2>
 
@@ -20,21 +20,21 @@ nav_order: 1
 
 <li><span class="pub-au">C. Cartis and <strong>W. Zhu</strong>*.</span> <span class="pub-ti">Second-order methods for quartically-regularised cubic polynomials, with applications to high-order tensor methods.</span> <span class="pub-ve">Mathematical Programming 215, 669–715 (2026). 47 pp.</span> <span class="pub-lk"><a href="https://link.springer.com/article/10.1007/s10107-025-02235-y" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2308.15336" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au">C. Cartis and <strong>W. Zhu</strong>*.</span> <span class="pub-ti">Global optimality characterizations and algorithms for minimizing quartically-regularized third-order Taylor polynomials.</span> <span class="pub-ve">Mathematics of Computation (2026); arXiv:2504.20259. 32 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2504.20259" target="_blank" rel="noopener">link</a></span></li>
+<li><span class="pub-au">C. Cartis and <strong>W. Zhu</strong>*.</span> <span class="pub-ti">Global optimality characterizations and algorithms for minimizing quartically-regularized third-order Taylor polynomials.</span> <span class="pub-ve">Mathematics of Computation (2026); arXiv:2504.20259. 32 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2504.20259" target="_blank" rel="noopener">arXiv</a></span></li>
 
 <li><span class="pub-au">C. Cartis, R. Hauser, Y. Liu, K. Welzel and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Efficient implementation of third-order tensor methods with adaptive regularization for unconstrained optimization.</span> <span class="pub-ve">Mathematical Programming Computation 18, 877–948 (2026). 72 pp.</span> <span class="pub-lk"><a href="https://link.springer.com/article/10.1007/s12532-026-00313-6" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2501.00404" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Sufficiently regularized nonnegative quartic polynomials are sums-of-squares.</span> <span class="pub-ve">arXiv:2601.20418 (2026). Under review, Mathematical Programming. 38 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2601.20418" target="_blank" rel="noopener">link</a></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Sufficiently regularized nonnegative quartic polynomials are sums-of-squares.</span> <span class="pub-ve">arXiv:2601.20418 (2026). Under review, Mathematical Programming. 38 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2601.20418" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Global convergence of high-order regularization methods with sums-of-squares Taylor models.</span> <span class="pub-ve">arXiv:2404.03035. Minor revision, SIAM Journal on Optimization (2026). 24 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2404.03035" target="_blank" rel="noopener">link</a></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Global convergence of high-order regularization methods with sums-of-squares Taylor models.</span> <span class="pub-ve">arXiv:2404.03035. Minor revision, SIAM Journal on Optimization (2026). 24 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2404.03035" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au">Y. Cai, <strong>W. Zhu</strong>, C. Cartis and G. Zardini.</span> <span class="pub-ti">A globally convergent third-order Newton method via unified semidefinite programming subproblems.</span> <span class="pub-ve">arXiv:2603.09682 (2026). Under review. 27 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2603.09682" target="_blank" rel="noopener">link</a></span></li>
+<li><span class="pub-au">Y. Cai, <strong>W. Zhu</strong>, C. Cartis and G. Zardini.</span> <span class="pub-ti">A globally convergent third-order Newton method via unified semidefinite programming subproblems.</span> <span class="pub-ve">arXiv:2603.09682 (2026). Under review. 27 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2603.09682" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong>*, H. Chen and G. Zhou.</span> <span class="pub-ti">A homogeneous tensor framework for high-order trust-region and spherical polynomial optimization.</span> <span class="pub-ve">arXiv:2607.24046 (2026). Under review, IMA Journal of Numerical Analysis. 33 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2607.24046" target="_blank" rel="noopener">link</a></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong>*, H. Chen and G. Zhou.</span> <span class="pub-ti">A homogeneous tensor framework for high-order trust-region and spherical polynomial optimization.</span> <span class="pub-ve">arXiv:2607.24046 (2026). Under review, IMA Journal of Numerical Analysis. 33 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2607.24046" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">Sum of squares and non sum of squares regimes for the Toeplitz Böttcher–Wenzel form.</span> <span class="pub-ve">arXiv:2610.08980 (2026). Under review, Linear Algebra and its Applications.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2610.08980" target="_blank" rel="noopener">link</a></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">Sum of squares and non sum of squares regimes for the Toeplitz Böttcher–Wenzel form.</span> <span class="pub-ve">arXiv:2610.08980 (2026). Under review, Linear Algebra and its Applications. 26 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2610.08980" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">Quartic polynomial sub-problem solutions in tensor methods for nonconvex optimization.</span> <span class="pub-ve">NeurIPS 2022 Workshop on Optimization for Machine Learning (Spotlight). 8 pp.</span> <span class="pub-lk"><a href="https://neurips.cc/virtual/2022/50039" target="_blank" rel="noopener">link</a></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">Quartic polynomial sub-problem solutions in tensor methods for nonconvex optimization.</span> <span class="pub-ve">NeurIPS 2022 Workshop on Optimization for Machine Learning (Spotlight). 8 pp.</span> <span class="pub-lk"><a href="https://neurips.cc/virtual/2022/50039" target="_blank" rel="noopener">paper</a></span></li>
 
 </ol>
 
@@ -60,13 +60,11 @@ nav_order: 1
 
 <ol class="pub-list" start="17">
 
-<li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Learning regularization-aware sum-of-squares certificates.</span> <span class="pub-ve">WiML Workshop at NeurIPS 2026, Paris (accepted).</span> <span class="pub-lk"></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Learning regularization-aware sum-of-squares certificates.</span> <span class="pub-ve">WiML Workshop at NeurIPS 2026, Paris (accepted). 2 pp.</span> <span class="pub-lk"></span></li>
 
-<li><span class="pub-au">K. Li, <strong>W. Zhu</strong>, C. Cartis, T. Ji and S. Liu.</span> <span class="pub-ti">SoS1: O1- and R1-like reasoning LLMs are sum-of-squares solvers.</span> <span class="pub-ve">arXiv:2502.20545 (2025). Under review. 16 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2502.20545" target="_blank" rel="noopener">link</a></span></li>
+<li><span class="pub-au">K. Li, <strong>W. Zhu</strong>, C. Cartis, T. Ji and S. Liu.</span> <span class="pub-ti">SoS1: O1- and R1-like reasoning LLMs are sum-of-squares solvers.</span> <span class="pub-ve">arXiv:2502.20545 (2025). Under review. 16 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2502.20545" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au">C. Wang, Z. Huang, Z. Li and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Recover Cell Tensor: diffusion-equivalent tensor completion for fluorescence microscopy imaging.</span> <span class="pub-ve">International Conference on Learning Representations (ICLR), 2026. 31 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2601.19169" target="_blank" rel="noopener">link</a></span></li>
-
-<li><span class="pub-au">C. Wang, Z. Li, <strong>W. Zhu</strong>, Z. Huang, X. Xiu, Z. Zhao, J. Tanner and H. Yan.</span> <span class="pub-ti">Volume Tells: dual cycle-consistent diffusion for 3D fluorescence microscopy denoising and super-resolution.</span> <span class="pub-ve">IEEE Transactions on Pattern Analysis and Machine Intelligence. Under review (2026). 33 pp.</span> <span class="pub-lk"></span></li>
+<li><span class="pub-au">C. Wang, Z. Huang, Z. Li and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Recover Cell Tensor: diffusion-equivalent tensor completion for fluorescence microscopy imaging.</span> <span class="pub-ve">International Conference on Learning Representations (ICLR), 2026. 31 pp.</span> <span class="pub-lk"><a href="https://openreview.net/forum?id=AzZB0BaeT4" target="_blank" rel="noopener">paper</a><a href="https://arxiv.org/abs/2601.19169" target="_blank" rel="noopener">arXiv</a></span></li>
 
 <li><span class="pub-au">C. Wang, R. Xu, Y. Huang, J. Pei, C. Huang, <strong>W. Zhu</strong> and J. Yang.</span> <span class="pub-ti">Limited-data SAR ATR causal method via dual-invariance intervention.</span> <span class="pub-ve">IEEE Transactions on Geoscience and Remote Sensing 63, 1–19 (2025). 19 pp.</span> <span class="pub-lk"><a href="https://ieeexplore.ieee.org/abstract/document/10839503" target="_blank" rel="noopener">journal</a></span></li>
 
@@ -76,11 +74,11 @@ nav_order: 1
 
 <h2 class="pub-group">Manuscripts in preparation and work in progress</h2>
 
-<ol class="pub-list" start="23">
+<ol class="pub-list" start="22">
 
-<li><span class="pub-au">C. Cartis, T. Lyons, B. Walker and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Certified global optimization via higher-order Lipschitz branch-and-bound with local sum-of-squares certificates.</span> <span class="pub-ve">Work in progress (2026).</span> <span class="pub-lk"></span></li>
+<li><span class="pub-au">C. Cartis, T. Lyons, B. Walker and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Certified global optimization via higher-order Lipschitz branch-and-bound with local sum-of-squares certificates.</span> <span class="pub-ve">Work in progress (2027).</span> <span class="pub-lk"></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong>* et al.</span> <span class="pub-ti">SoS Atlas: scalable reduced sum-of-squares certificates via propose-and-verify.</span> <span class="pub-ve">Manuscript in preparation (2026). 33 pp.</span> <span class="pub-lk"></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong>* et al.</span> <span class="pub-ti">SoS Atlas: scalable reduced sum-of-squares certificates via propose-and-verify.</span> <span class="pub-ve">Manuscript in preparation (2027). 33 pp.</span> <span class="pub-lk"></span></li>
 
 <li><span class="pub-au">J. Zheng, <strong>W. Zhu</strong> et al.</span> <span class="pub-ti">CaliPPer: a Bayesian recalibration framework for quantifying and improving AI model performance.</span> <span class="pub-ve">Manuscript in preparation (2026). 41 pp.</span> <span class="pub-lk"></span></li>
 
@@ -88,7 +86,7 @@ nav_order: 1
 
 <li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">SoS Exactness for Sufficiently (Even Degree) Regularized Nonnegative Polynomials.</span> <span class="pub-ve">In preparation; planned preprint release Q4 2026. 25 pp.</span> <span class="pub-lk"></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">From Global Optimality to Reduced SOS Exactness via Radial Bregman Quotients for Nonnegative Polynomials.</span> <span class="pub-ve">In preparation; planned preprint release Q4 2026. 22 pp.</span> <span class="pub-lk"></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">From Global Optimality to Reduced SOS Exactness via Radial Bregman Quotients for Nonnegative Polynomials.</span> <span class="pub-ve">In preparation; planned preprint release 2027. 22 pp.</span> <span class="pub-lk"></span></li>
 
 <li><span class="pub-au"><strong>W. Zhu</strong>.</span> <span class="pub-ti">Losslessness and Extreme-Slack Spectral Selection for Nonconvex Quadratic-Feature Models.</span> <span class="pub-ve">Single-author manuscript in preparation; planned preprint release Q1 2027. 28 pp.</span> <span class="pub-lk"></span></li>
 
