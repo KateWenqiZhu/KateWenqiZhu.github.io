@@ -10,7 +10,7 @@ nav_order: 1
 
 <div class="pub-condensed">
 
-<p class="pub-lead">28 publications, preprints and manuscripts: 11 published or accepted, 6 under review or revision, 4 manuscripts available below, and 7 in preparation. Grouped by research direction; <b>*</b> denotes lead / corresponding author. Page counts may change for unpublished manuscripts; work in progress without a draft has no page count.</p>
+<p class="pub-lead">29 publications, preprints and manuscripts: 11 published or accepted, 6 under review or revision, 5 manuscripts available below, and 7 in preparation. Grouped by research direction; <b>*</b> denotes lead / corresponding author. Page counts may change for unpublished manuscripts; work in progress without a draft has no page count.</p>
 
 <h2 class="pub-group">Higher-order optimization and sums of squares</h2>
 
@@ -46,6 +46,8 @@ nav_order: 1
 
 <li><span class="pub-au">H. Chen, <strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">Tensor-based Dinkelbach method for computing generalized tensor eigenvalues and its applications.</span> <span class="pub-ve">Applied Numerical Mathematics (2026). 29 pp.</span> <span class="pub-lk"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0168927426000139" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2501.09735" target="_blank" rel="noopener">arXiv</a></span></li>
 
+<li><span class="pub-au"><strong>W. Zhu</strong>*, K. Zou and P. Nie.</span> <span class="pub-ti">Two Vertices Certify a Whole Interval of Nonsingular Sign-Regular Matrices.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 19 pp.</span> <span class="pub-lk"><a href="/assets/pdf/interval-matrices/2026-11/iv01-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/interval-matrices/2026-11/iv01-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
 <li><span class="pub-au"><strong>W. Zhu</strong>*, Q. Chen and P. Nie.</span> <span class="pub-ti">Asymptotic Tensor-Rank Sublevels Need Not Be Irreducible.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 16 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr23-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr23-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
 
 <li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">Secant Varieties of Segre Products Need Not Be Cohen&ndash;Macaulay.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 42 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr25-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr25-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
@@ -58,7 +60,7 @@ nav_order: 1
 
 <h2 class="pub-group">Machine Learning, AI and Applications</h2>
 
-<ol class="pub-list" start="17">
+<ol class="pub-list" start="18">
 
 <li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Learning regularization-aware sum-of-squares certificates.</span> <span class="pub-ve">WiML Workshop at NeurIPS 2026, Paris (accepted). 2 pp.</span> <span class="pub-lk"></span></li>
 
@@ -74,7 +76,7 @@ nav_order: 1
 
 <h2 class="pub-group">Manuscripts in preparation and work in progress</h2>
 
-<ol class="pub-list" start="22">
+<ol class="pub-list" start="23">
 
 <li><span class="pub-au">C. Cartis, T. Lyons, B. Walker and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Certified global optimization via higher-order Lipschitz branch-and-bound with local sum-of-squares certificates.</span> <span class="pub-ve">Work in progress (2027).</span> <span class="pub-lk"></span></li>
 
