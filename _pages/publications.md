@@ -10,7 +10,7 @@ nav_order: 1
 
 <div class="pub-condensed">
 
-<p class="pub-lead">27 publications, preprints and manuscripts in preparation: 11 published or accepted, 7 under review or revision, and 9 in preparation. Grouped by research direction; <b>*</b> denotes lead / corresponding author. Page counts are shown where available and may change for unpublished manuscripts.</p>
+<p class="pub-lead">29 publications, preprints and manuscripts: 11 published or accepted, 7 under review or revision, 4 manuscripts available below, and 7 in preparation. Grouped by research direction; <b>*</b> denotes lead / corresponding author. Page counts are shown where available and may change for unpublished manuscripts.</p>
 
 <h2 class="pub-group">Higher-order optimization and sums of squares</h2>
 
@@ -66,9 +66,23 @@ nav_order: 1
 
 </ol>
 
-<h2 class="pub-group">Manuscripts in preparation and work in progress</h2>
+<h2 class="pub-group">Tensor rank and algebraic geometry</h2>
 
 <ol class="pub-list" start="19">
+
+<li><span class="pub-au"><strong>W. Zhu</strong>*, Q. Chen and P. Nie.</span> <span class="pub-ti">Asymptotic Tensor-Rank Sublevels Need Not Be Irreducible.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 16 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr23-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr23-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
+<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">Secant Varieties of Segre Products Need Not Be Cohen&ndash;Macaulay.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 42 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr25-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr25-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
+<li><span class="pub-au"><strong>W. Zhu</strong>*, C. Liu and P. Nie.</span> <span class="pub-ti">The Entropy Law for the Asymptotic Subrank of Dicke Tensors.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 13 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr28-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr28-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
+<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">The Exact Partially Symmetric Rank of Products of W-States.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 8 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr29-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr29-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
+</ol>
+
+<h2 class="pub-group">Manuscripts in preparation and work in progress</h2>
+
+<ol class="pub-list" start="23">
 
 <li><span class="pub-au">C. Cartis, T. Lyons, B. Walker and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Certified global optimization via higher-order Lipschitz branch-and-bound with local sum-of-squares certificates.</span> <span class="pub-ve">Work in progress (2026).</span> <span class="pub-lk"></span></li>
 
@@ -83,10 +97,6 @@ nav_order: 1
 <li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">From Global Optimality to Reduced SOS Exactness via Radial Bregman Quotients for Nonnegative Polynomials.</span> <span class="pub-ve">In preparation; planned preprint release Q4 2026. 22 pp.</span> <span class="pub-lk"></span></li>
 
 <li><span class="pub-au"><strong>W. Zhu</strong>.</span> <span class="pub-ti">Losslessness and Extreme-Slack Spectral Selection for Nonconvex Quadratic-Feature Models.</span> <span class="pub-ve">Single-author manuscript in preparation; planned preprint release Q1 2027. 28 pp.</span> <span class="pub-lk"></span></li>
-
-<li><span class="pub-au"><strong>W. Zhu</strong>, P. Nie and H. Chen.</span> <span class="pub-ti">The partially symmetric rank of products of W-states.</span> <span class="pub-ve">Manuscript in preparation; first draft completed October 2026.</span> <span class="pub-lk"></span></li>
-
-<li><span class="pub-au"><strong>W. Zhu</strong>, P. Nie and C. Liu.</span> <span class="pub-ti">The asymptotic subrank of Dicke tensors equals the entropy bound.</span> <span class="pub-ve">Manuscript in preparation; first draft completed October 2026.</span> <span class="pub-lk"></span></li>
 
 </ol>
 
