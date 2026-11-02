@@ -38,9 +38,27 @@ nav_order: 1
 
 </ol>
 
-<h2 class="pub-group">Machine learning and AI</h2>
+<h2 class="pub-group">Numerical analysis, Tensor rank and algebraic geometry</h2>
 
 <ol class="pub-list" start="11">
+
+<li><span class="pub-au"><strong>W. Zhu</strong>* and Y. Nakatsukasa.</span> <span class="pub-ti">Convergence and near-optimal sampling for multivariate function approximations in irregular domains via Vandermonde with Arnoldi.</span> <span class="pub-ve">IMA Journal of Numerical Analysis 46(4), 2072–2106 (2026; first published online 2025). 35 pp.</span> <span class="pub-lk"><a href="https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/draf055/8210327" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2301.12241" target="_blank" rel="noopener">arXiv</a></span></li>
+
+<li><span class="pub-au">H. Chen, <strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">Tensor-based Dinkelbach method for computing generalized tensor eigenvalues and its applications.</span> <span class="pub-ve">Applied Numerical Mathematics (2026). 29 pp.</span> <span class="pub-lk"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0168927426000139" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2501.09735" target="_blank" rel="noopener">arXiv</a></span></li>
+
+<li><span class="pub-au"><strong>W. Zhu</strong>*, Q. Chen and P. Nie.</span> <span class="pub-ti">Asymptotic Tensor-Rank Sublevels Need Not Be Irreducible.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 16 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr23-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr23-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
+<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">Secant Varieties of Segre Products Need Not Be Cohen&ndash;Macaulay.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 42 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr25-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr25-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
+<li><span class="pub-au"><strong>W. Zhu</strong>*, C. Liu and P. Nie.</span> <span class="pub-ti">The Entropy Law for the Asymptotic Subrank of Dicke Tensors.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 13 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr28-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr28-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
+<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">The Exact Partially Symmetric Rank of Products of W-States.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 8 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr29-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr29-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
+
+</ol>
+
+<h2 class="pub-group">Machine Learning, AI and Applications</h2>
+
+<ol class="pub-list" start="17">
 
 <li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Learning regularization-aware sum-of-squares certificates.</span> <span class="pub-ve">WiML Workshop at NeurIPS 2026, Paris (accepted).</span> <span class="pub-lk"></span></li>
 
@@ -52,31 +70,7 @@ nav_order: 1
 
 <li><span class="pub-au">C. Wang, R. Xu, Y. Huang, J. Pei, C. Huang, <strong>W. Zhu</strong> and J. Yang.</span> <span class="pub-ti">Limited-data SAR ATR causal method via dual-invariance intervention.</span> <span class="pub-ve">IEEE Transactions on Geoscience and Remote Sensing 63, 1–19 (2025). 19 pp.</span> <span class="pub-lk"><a href="https://ieeexplore.ieee.org/abstract/document/10839503" target="_blank" rel="noopener">journal</a></span></li>
 
-</ol>
-
-<h2 class="pub-group">Applications, numerical analysis and operations research</h2>
-
-<ol class="pub-list" start="16">
-
 <li><span class="pub-au">C. Liu and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Newsvendor conditional value-at-risk minimization: a feature-based approach under adaptive data selection.</span> <span class="pub-ve">European Journal of Operational Research 313(2), 548–564 (2024). 17 pp.</span> <span class="pub-lk"><a href="https://www.sciencedirect.com/science/article/pii/S0377221723006720" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2209.11121" target="_blank" rel="noopener">arXiv</a></span></li>
-
-<li><span class="pub-au"><strong>W. Zhu</strong>* and Y. Nakatsukasa.</span> <span class="pub-ti">Convergence and near-optimal sampling for multivariate function approximations in irregular domains via Vandermonde with Arnoldi.</span> <span class="pub-ve">IMA Journal of Numerical Analysis 46(4), 2072–2106 (2026; first published online 2025). 35 pp.</span> <span class="pub-lk"><a href="https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/draf055/8210327" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2301.12241" target="_blank" rel="noopener">arXiv</a></span></li>
-
-<li><span class="pub-au">H. Chen, <strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">Tensor-based Dinkelbach method for computing generalized tensor eigenvalues and its applications.</span> <span class="pub-ve">Applied Numerical Mathematics (2026). 29 pp.</span> <span class="pub-lk"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0168927426000139" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2501.09735" target="_blank" rel="noopener">arXiv</a></span></li>
-
-</ol>
-
-<h2 class="pub-group">Tensor rank and algebraic geometry</h2>
-
-<ol class="pub-list" start="19">
-
-<li><span class="pub-au"><strong>W. Zhu</strong>*, Q. Chen and P. Nie.</span> <span class="pub-ti">Asymptotic Tensor-Rank Sublevels Need Not Be Irreducible.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 16 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr23-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr23-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
-
-<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">Secant Varieties of Segre Products Need Not Be Cohen&ndash;Macaulay.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 42 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr25-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr25-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
-
-<li><span class="pub-au"><strong>W. Zhu</strong>*, C. Liu and P. Nie.</span> <span class="pub-ti">The Entropy Law for the Asymptotic Subrank of Dicke Tensors.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 13 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr28-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr28-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
-
-<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">The Exact Partially Symmetric Rank of Products of W-States.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 8 pp.</span> <span class="pub-lk"><a href="/assets/pdf/tensor-rank/2026-11/tr29-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/tensor-rank/2026-11/tr29-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
 
 </ol>
 
