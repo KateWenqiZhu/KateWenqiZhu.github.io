@@ -1911,7 +1911,14 @@ html[data-theme="dark"] {
 
 /* ===================== Condensed Publications (grouped by direction) ===================== */
 .pub-condensed{max-width:900px;}
-.pub-lead{font-size:.92rem; color:var(--global-text-color-light); line-height:1.6; margin:0 0 1.4rem; padding-bottom:1.1rem; border-bottom:1px solid var(--global-divider-color);}
+.pub-lead{font-size:1rem; color:var(--global-text-color); line-height:1.7; margin:0 0 .8rem;}
+.pub-condensed,.pub-author-note{--pub-note-color:#17663a;}
+html[data-theme="dark"] .pub-condensed,html[data-theme="dark"] .pub-author-note{--pub-note-color:#83d7a0;}
+.pub-count{color:var(--pub-note-color); font-weight:800;}
+.pub-note{font-size:.98rem; color:var(--pub-note-color); line-height:1.7; margin:0 0 .6rem;}
+.pub-note strong{font-weight:750;}
+.pub-author-mark{font-size:1.1em; font-weight:800;}
+.pub-scope{padding-bottom:1.1rem; margin-bottom:1.4rem; border-bottom:1px solid var(--global-divider-color);}
 .pub-lead b{color:var(--global-theme-color);}
 .pub-group{font-size:1.15rem; font-weight:800; color:var(--global-theme-color); margin:1.7rem 0 .5rem; letter-spacing:-.01em;}
 .pub-list{list-style:none; margin:0; padding:0; counter-reset:pub;}
@@ -1923,7 +1930,7 @@ html[data-theme="dark"] {
 .pub-ve{color:var(--global-text-color-light);}
 .pub-pages{font-size:.7rem; font-weight:700; letter-spacing:.02em; color:var(--global-text-color-light); background:rgba(127,127,127,.1); border-radius:4px; padding:.05em .42em; margin-left:.15rem; white-space:nowrap;}
 .pub-st{font-size:.7rem; font-weight:700; text-transform:uppercase; letter-spacing:.03em; color:var(--global-theme-color); background:rgba(17,96,106,.1); border-radius:4px; padding:.05em .42em; margin-left:.15rem; white-space:nowrap;}
-.pub-lk{white-space:nowrap;}
+.pub-lk{display:inline-flex; flex-wrap:wrap; gap:.2rem 0; max-width:100%; vertical-align:middle;}
 .pub-lk a{display:inline-block; color:var(--global-theme-color); font-size:.76rem; font-weight:700; text-decoration:none; border:1px solid rgba(17,96,106,.32); border-radius:5px; padding:.02em .42em; margin-left:.28rem;}
 .pub-lk a:hover{background:var(--global-theme-color); color:#fff;}
 .pub-crown{font-size:.72rem; font-weight:700; color:#b9893b; background:rgba(185,137,59,.14); border-radius:4px; padding:.05em .42em; margin-left:.15rem; white-space:nowrap;}
