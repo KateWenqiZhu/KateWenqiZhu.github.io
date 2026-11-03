@@ -12,9 +12,9 @@ nav_order: 1
 
 <p class="pub-lead"><strong class="pub-count">23</strong> manuscripts, publications and preprints: <strong class="pub-count">11</strong> published or accepted, <strong class="pub-count">6</strong> under review or revision, <strong class="pub-count">6</strong> manuscripts available below.</p>
 
-<p class="pub-note"><strong>Some papers list authors in alphabetical order. <span class="pub-author-mark">*</span> denotes lead / corresponding author / author with major contribution.</strong></p>
+<p class="pub-note">Some papers list authors in alphabetical order. <strong><span class="pub-author-mark">*</span> denotes lead / corresponding author / author with major contribution.</strong></p>
 
-<p class="pub-note pub-scope"><strong>Counts exclude manuscripts in preparation and work in progress.</strong> Page counts may change for unpublished manuscripts.</p>
+<p class="pub-note pub-scope">Counts exclude manuscripts in preparation and work in progress. Page counts may change for unpublished manuscripts.</p>
 
 <h2 class="pub-group">Higher-order optimization and sums of squares</h2>
 
@@ -50,7 +50,7 @@ nav_order: 1
 
 <li><span class="pub-au">H. Chen, <strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">Tensor-based Dinkelbach method for computing generalized tensor eigenvalues and its applications.</span> <span class="pub-ve">Applied Numerical Mathematics (2026). 29 pp.</span> <span class="pub-lk"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0168927426000139" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2501.09735" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">A Deterministic Algorithm for Eigenvalue Separation in Tridiagonal Matrices.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 27 pp.</span> <span class="pub-lk"><a href="/assets/pdf/numerical-analysis/2026-11/ke02-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/numerical-analysis/2026-11/ke02-paper.pdf" target="_blank" rel="noopener">paper</a><a href="/assets/img/publications/ke02-visual-overview.png" target="_blank" rel="noopener">visual overview</a></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">A Deterministic Algorithm for Eigenvalue Separation in Tridiagonal Matrices.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 27 pp.</span> <span class="pub-lk"><a href="/assets/pdf/numerical-analysis/2026-11/ke02-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/numerical-analysis/2026-11/ke02-paper.pdf" target="_blank" rel="noopener">paper</a><a href="/assets/img/publications/ke02-visual-overview.png" target="_blank" rel="noopener">poster</a></span></li>
 
 <li><span class="pub-au"><strong>W. Zhu</strong>*, K. Zou and P. Nie.</span> <span class="pub-ti">Two Vertices Certify a Whole Interval of Nonsingular Sign-Regular Matrices.</span> <span class="pub-ve">Manuscript, November 2026; not yet on arXiv. 19 pp.</span> <span class="pub-lk"><a href="/assets/pdf/interval-matrices/2026-11/iv01-sketch.pdf" target="_blank" rel="noopener">sketch of proof</a><a href="/assets/pdf/interval-matrices/2026-11/iv01-paper.pdf" target="_blank" rel="noopener">paper</a></span></li>
 
