@@ -14,7 +14,15 @@ nav_order: 1
 
 <p class="pub-note">Some papers list authors in alphabetical order. <strong><span class="pub-author-mark">*</span> denotes lead / corresponding author / author with major contribution.</strong></p>
 
-<p class="pub-note pub-scope">Counts exclude manuscripts in preparation and work in progress. Page counts may change for unpublished manuscripts.</p>
+<p class="pub-note pub-scope">Counts exclude the doctoral thesis, manuscripts in preparation and work in progress. Page counts may change for unpublished manuscripts.</p>
+
+<h2 class="pub-group">Doctoral thesis</h2>
+
+<ol class="pub-list">
+
+<li><span class="pub-au"><strong>K. W. Zhu</strong>.</span> <span class="pub-ti">Tensor Methods for Nonconvex Optimization.</span> <span class="pub-ve">D.Phil. thesis, University of Oxford (2026). Supervisor: Coralia Cartis. 194 pp. (including front matter).</span> <span class="pub-lk"><a href="https://ora.ox.ac.uk/objects/uuid:c7186c24-80de-4053-8e57-41ef967e666a/files/dfx719n43q" target="_blank" rel="noopener">thesis</a><a href="https://ora.ox.ac.uk/objects/uuid:c7186c24-80de-4053-8e57-41ef967e666a" target="_blank" rel="noopener">ORA</a></span></li>
+
+</ol>
 
 <h2 class="pub-group">Higher-order optimization and sums of squares</h2>
 
