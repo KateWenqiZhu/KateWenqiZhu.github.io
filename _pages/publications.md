@@ -44,7 +44,7 @@ nav_order: 1
 
 <li><span class="pub-au"><strong>W. Zhu</strong>*, H. Chen and G. Zhou.</span> <span class="pub-ti">A homogeneous tensor framework for high-order trust-region and spherical polynomial optimization.</span> <span class="pub-ve">arXiv:2607.24046 (2026). Under review, IMA Journal of Numerical Analysis. 33 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2607.24046" target="_blank" rel="noopener">arXiv</a></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">Sum of squares and non sum of squares regimes for the Toeplitz Böttcher–Wenzel form.</span> <span class="pub-ve">arXiv:2610.08980 (2026). Under review, Linear Algebra and its Applications. 26 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2610.08980" target="_blank" rel="noopener">arXiv</a></span></li>
+<li><span class="pub-au"><strong>W. Zhu</strong>* and P. Nie.</span> <span class="pub-ti">Sum-of-Squares and Non-Sum-of-Squares Regimes for the Toeplitz Böttcher–Wenzel Form.</span> <span class="pub-ve">arXiv:2610.08980v3 (updated 22 October 2026). Under review, Linear Algebra and its Applications. 26 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2610.08980" target="_blank" rel="noopener">arXiv</a></span></li>
 
 <li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">Quartic polynomial sub-problem solutions in tensor methods for nonconvex optimization.</span> <span class="pub-ve">NeurIPS 2022 Workshop on Optimization for Machine Learning (Spotlight). 8 pp.</span> <span class="pub-lk"><a href="https://neurips.cc/virtual/2022/50039" target="_blank" rel="noopener">paper</a></span></li>
 
