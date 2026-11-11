@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 5
 yeer:
-  image: /assets/img/yeer/yeer-2026-11-11-artisan.jpg
+  image: /assets/img/yeer/yeer-2026-11-11-artisan-no-text.jpg
   avatar: /assets/img/yeer/avatars/yeer-avatar-2026-11-11-artisan.jpg
   date: 2026-11-11
   mood: "The craft remains"
