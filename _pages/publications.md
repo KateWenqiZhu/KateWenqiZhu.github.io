@@ -102,8 +102,6 @@ nav_order: 1
 
 <li><span class="pub-au"><strong>W. Zhu</strong>; joint work with J. Nie, L. Zhang and C. Cartis.</span> <span class="pub-ti">Global Optimization of High-Order Norm-Regularized Models: SDP Tightness and Secular Root Geometry.</span> <span class="pub-ve">In preparation; planned preprint release Q4 2026. 41 pp.</span> <span class="pub-lk"></span></li>
 
-<li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">SoS Exactness for Sufficiently (Even Degree) Regularized Nonnegative Polynomials.</span> <span class="pub-ve">In preparation; planned preprint release Q4 2026. 25 pp.</span> <span class="pub-lk"></span></li>
-
 <li><span class="pub-au"><strong>W. Zhu</strong> and C. Cartis.</span> <span class="pub-ti">From Global Optimality to Reduced SOS Exactness via Radial Bregman Quotients for Nonnegative Polynomials.</span> <span class="pub-ve">In preparation; planned preprint release 2027. 22 pp.</span> <span class="pub-lk"></span></li>
 
 <li><span class="pub-au"><strong>W. Zhu</strong>.</span> <span class="pub-ti">Losslessness and Extreme-Slack Spectral Selection for Nonconvex Quadratic-Feature Models.</span> <span class="pub-ve">Single-author manuscript in preparation; planned preprint release Q1 2027. 28 pp.</span> <span class="pub-lk"></span></li>
