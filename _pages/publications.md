@@ -10,7 +10,7 @@ nav_order: 1
 
 <div class="pub-condensed">
 
-<p class="pub-lead"><strong class="pub-count">23</strong> manuscripts, publications and preprints: <strong class="pub-count">11</strong> published or accepted, <strong class="pub-count">6</strong> under review or revision, <strong class="pub-count">6</strong> manuscripts available below.</p>
+<p class="pub-lead"><strong class="pub-count">24</strong> manuscripts, publications and preprints: <strong class="pub-count">11</strong> published or accepted, <strong class="pub-count">6</strong> under review or revision, <strong class="pub-count">7</strong> manuscripts available below.</p>
 
 <p class="pub-note">Some papers list authors in alphabetical order. <strong><span class="pub-author-mark">*</span> denotes lead / corresponding author / author with major contribution.</strong></p>
 
@@ -36,6 +36,8 @@ nav_order: 1
 
 <li><span class="pub-au">C. Cartis, R. Hauser, Y. Liu, K. Welzel and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Efficient implementation of third-order tensor methods with adaptive regularization for unconstrained optimization.</span> <span class="pub-ve">Mathematical Programming Computation 18, 877–948 (2026). 72 pp.</span> <span class="pub-lk"><a href="https://link.springer.com/article/10.1007/s12532-026-00313-6" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2501.00404" target="_blank" rel="noopener">arXiv</a></span></li>
 
+<li><span class="pub-au">C. Cartis and <strong>W. Zhu</strong>*.</span> <span class="pub-ti">When is Polynomial Optimization SoS-Exact? Sufficient Regularization and Strict Gram Representations.</span> <span class="pub-ve">Preprint, arXiv:2611.12697 (2026). 33 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2611.12697" target="_blank" rel="noopener">arXiv</a></span></li>
+
 <li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Sufficiently regularized nonnegative quartic polynomials are sums-of-squares.</span> <span class="pub-ve">arXiv:2601.20418 (2026). Under review, Mathematical Programming. 38 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2601.20418" target="_blank" rel="noopener">arXiv</a></span></li>
 
 <li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Global convergence of high-order regularization methods with sums-of-squares Taylor models.</span> <span class="pub-ve">arXiv:2404.03035. Minor revision, SIAM Journal on Optimization (2026). 24 pp.</span> <span class="pub-lk"><a href="https://arxiv.org/abs/2404.03035" target="_blank" rel="noopener">arXiv</a></span></li>
@@ -52,7 +54,7 @@ nav_order: 1
 
 <h2 class="pub-group">Numerical analysis, Tensor rank and algebraic geometry</h2>
 
-<ol class="pub-list" start="11">
+<ol class="pub-list" start="12">
 
 <li><span class="pub-au"><strong>W. Zhu</strong>* and Y. Nakatsukasa.</span> <span class="pub-ti">Convergence and near-optimal sampling for multivariate function approximations in irregular domains via Vandermonde with Arnoldi.</span> <span class="pub-ve">IMA Journal of Numerical Analysis 46(4), 2072–2106 (2026; first published online 2025). 35 pp.</span> <span class="pub-lk"><a href="https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/draf055/8210327" target="_blank" rel="noopener">journal</a><a href="https://arxiv.org/abs/2301.12241" target="_blank" rel="noopener">arXiv</a></span></li>
 
@@ -74,7 +76,7 @@ nav_order: 1
 
 <h2 class="pub-group">Machine Learning, AI and Applications</h2>
 
-<ol class="pub-list" start="19">
+<ol class="pub-list" start="20">
 
 <li><span class="pub-au"><strong>W. Zhu</strong>* and C. Cartis.</span> <span class="pub-ti">Learning regularization-aware sum-of-squares certificates.</span> <span class="pub-ve">WiML Workshop at NeurIPS 2026, Paris (accepted).</span> <span class="pub-lk"></span></li>
 
@@ -90,7 +92,7 @@ nav_order: 1
 
 <h2 class="pub-group">Manuscripts in preparation and work in progress</h2>
 
-<ol class="pub-list" start="24">
+<ol class="pub-list" start="25">
 
 <li><span class="pub-au">C. Cartis, T. Lyons, B. Walker and <strong>W. Zhu</strong>.</span> <span class="pub-ti">Certified global optimization via higher-order Lipschitz branch-and-bound with local sum-of-squares certificates.</span> <span class="pub-ve">Work in progress (2027).</span> <span class="pub-lk"></span></li>
 
