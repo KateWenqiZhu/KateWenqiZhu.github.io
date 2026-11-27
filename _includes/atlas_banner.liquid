@@ -1,27 +1,27 @@
-<section class="atlas-banner" aria-label="AI for Mathematics Atlas">
+<aside class="atlas-card" aria-label="AI for Mathematics Atlas">
   <style>
-    .atlas-banner{background:radial-gradient(900px 360px at 85% 0%,#0b3a74 0%,transparent 60%),#002147;color:#f3f6fb;border-radius:16px;margin:24px auto 8px;max-width:1100px;padding:clamp(22px,4vw,40px);font-family:Inter,system-ui,sans-serif}
-    .atlas-banner .ab-eye{color:#d9a93a;font-weight:600;font-size:14px;margin:0}
-    .atlas-banner h2{color:#fff;font-size:clamp(26px,3.4vw,38px);line-height:1.1;margin:8px 0 10px;font-weight:700}
-    .atlas-banner p{color:#c9d6e8;font-size:16px;max-width:70ch;margin:0}
-    .atlas-banner .ab-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0}
-    .atlas-banner .ab-cell{border:1px solid #1e4a80;border-radius:12px;padding:12px 14px;background:rgba(6,41,79,.7)}
-    .atlas-banner .ab-cell b{display:block;color:#5aa9ff;font-size:20px}
-    .atlas-banner .ab-cell span{color:#a9bcd6;font-size:13.5px}
-    .atlas-banner .ab-ask{color:#ffe2a8;font-size:16px;margin-top:4px}
-    .atlas-banner .ab-ask b{color:#fff;white-space:nowrap}
-    .atlas-banner .ab-cta{display:inline-flex;align-items:center;min-height:44px;margin-top:16px;padding:0 18px;border-radius:10px;background:#5aa9ff;color:#001a3a!important;font-weight:600;text-decoration:none!important}
-    .atlas-banner .ab-cta:hover{background:#7dbcff}
-    @media(max-width:700px){.atlas-banner .ab-grid{grid-template-columns:1fr}}
+    .atlas-card{float:right;width:340px;max-width:46%;margin:.1rem 0 1rem 1.4rem;padding:1.1rem 1.1rem 1.15rem;border-radius:14px;background:radial-gradient(420px 220px at 90% 0%,#0b3a74 0%,transparent 65%),#002147;color:#f3f6fb;font-family:Inter,system-ui,sans-serif;box-shadow:0 10px 26px rgba(0,33,71,.25)}
+    .atlas-card .ac-eye{color:#d9a93a;font-weight:600;font-size:.78rem;margin:0}
+    .atlas-card .ac-h{color:#fff;font-size:1.18rem;line-height:1.2;font-weight:700;margin:.35rem 0 .45rem}
+    .atlas-card .ac-p{color:#c9d6e8;font-size:.86rem;line-height:1.45;margin:0}
+    .atlas-card ul{list-style:none;padding:0;margin:.75rem 0;display:grid;gap:.4rem}
+    .atlas-card li{border:1px solid #1e4a80;border-radius:9px;padding:.42rem .6rem;background:rgba(6,41,79,.7);font-size:.8rem;line-height:1.35;color:#a9bcd6}
+    .atlas-card li b{color:#5aa9ff}
+    .atlas-card .ac-ask{color:#ffe2a8;font-size:.84rem;line-height:1.4;margin:.2rem 0 0}
+    .atlas-card .ac-ask b{color:#fff;word-break:break-all}
+    .atlas-card .ac-cta{display:inline-flex;align-items:center;min-height:40px;margin-top:.7rem;padding:0 .95rem;border-radius:9px;background:#5aa9ff;color:#001a3a!important;font-weight:600;font-size:.88rem;text-decoration:none!important}
+    .atlas-card .ac-cta:hover{background:#7dbcff}
+    .yeer-side-card{margin-top:1.4rem}
+    @media(max-width:768px){.atlas-card{float:none;width:auto;max-width:none;margin:0 0 1.2rem}}
   </style>
-  <p class="ab-eye">New · AI for Mathematics Atlas</p>
-  <h2>One lead, many lanes, every step on the record</h2>
-  <p>A traceable, cross-company workflow for mathematics: lanes run on models from different companies, every result is reviewed by a model from another company, machine-checked in Lean where possible, and published with an honest status.</p>
-  <div class="ab-grid">
-    <div class="ab-cell"><b>7 catalogue problems</b><span>answered from Open Problems in Numerical Linear Algebra (MI-15, IV-01, KE-02, TR-23, TR-25, TR-28, TR-29)</span></div>
-    <div class="ab-cell"><b>ProofAtlas #133</b><span>superlinear circuit lower bounds: a Lean-checked conditional answer</span></div>
-    <div class="ab-cell"><b>4 model families</b><span>Claude, Codex, DeepSeek and Qwen; no model reviews its own work</span></div>
-  </div>
-  <p class="ab-ask">We welcome your hardest questions. Write to <b>wenqi.zhu@maths.ox.ac.uk</b>.</p>
-  <a class="ab-cta" href="{{ '/ai-for-math/' | relative_url }}">Explore the Atlas &rarr;</a>
-</section>
+  <p class="ac-eye">AI for Mathematics Atlas</p>
+  <p class="ac-h">One lead, many lanes, every step on the record</p>
+  <p class="ac-p">A traceable, cross-company workflow: every result is reviewed by a model from another company and checked in Lean where possible.</p>
+  <ul>
+    <li><b>7 catalogue problems</b> answered from Open Problems in Numerical Linear Algebra</li>
+    <li><b>ProofAtlas #133</b>: a Lean-checked conditional answer</li>
+    <li><b>4 model families</b> review each other</li>
+  </ul>
+  <p class="ac-ask">We welcome your hardest questions: <b>wenqi.zhu@maths.ox.ac.uk</b></p>
+  <a class="ac-cta" href="{{ '/ai-for-math/' | relative_url }}">Explore the Atlas &rarr;</a>
+</aside>

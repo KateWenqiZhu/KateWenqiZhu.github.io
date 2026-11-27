@@ -34,13 +34,15 @@
                 </div>
             {% endif %}
 
+            {% include about/yeer_card.liquid class="yeer-side-card" mode="ordered" %}
+
         </div>
     </div>
     <div class="col-12 col-lg-8">
 
         {% if page.about_subtitle %} <h1 class=""> {{ page.about_subtitle  }} </h1> {% endif %}
 
-        {% include about/yeer_card.liquid class="yeer-bio-card" mode="ordered" %}
+        {% include atlas_banner.liquid %}
 
         {{ content }}
 
