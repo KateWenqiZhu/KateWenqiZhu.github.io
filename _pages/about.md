@@ -6,7 +6,7 @@ about_subtitle: Biography
 
 profile:
   align: left
-  image: profile.jpg
+  image: profile-2026.jpg
   image_circular: false
   more_info: >
     <p><small>Mathematical Institute</small></p>
