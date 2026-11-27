@@ -1,0 +1,27 @@
+<section class="atlas-banner" aria-label="AI for Mathematics Atlas">
+  <style>
+    .atlas-banner{background:radial-gradient(900px 360px at 85% 0%,#0b3a74 0%,transparent 60%),#002147;color:#f3f6fb;border-radius:16px;margin:24px auto 8px;max-width:1100px;padding:clamp(22px,4vw,40px);font-family:Inter,system-ui,sans-serif}
+    .atlas-banner .ab-eye{color:#d9a93a;font-weight:600;font-size:14px;margin:0}
+    .atlas-banner h2{color:#fff;font-size:clamp(26px,3.4vw,38px);line-height:1.1;margin:8px 0 10px;font-weight:700}
+    .atlas-banner p{color:#c9d6e8;font-size:16px;max-width:70ch;margin:0}
+    .atlas-banner .ab-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0}
+    .atlas-banner .ab-cell{border:1px solid #1e4a80;border-radius:12px;padding:12px 14px;background:rgba(6,41,79,.7)}
+    .atlas-banner .ab-cell b{display:block;color:#5aa9ff;font-size:20px}
+    .atlas-banner .ab-cell span{color:#a9bcd6;font-size:13.5px}
+    .atlas-banner .ab-ask{color:#ffe2a8;font-size:16px;margin-top:4px}
+    .atlas-banner .ab-ask b{color:#fff;white-space:nowrap}
+    .atlas-banner .ab-cta{display:inline-flex;align-items:center;min-height:44px;margin-top:16px;padding:0 18px;border-radius:10px;background:#5aa9ff;color:#001a3a!important;font-weight:600;text-decoration:none!important}
+    .atlas-banner .ab-cta:hover{background:#7dbcff}
+    @media(max-width:700px){.atlas-banner .ab-grid{grid-template-columns:1fr}}
+  </style>
+  <p class="ab-eye">New · AI for Mathematics Atlas</p>
+  <h2>One lead, many lanes, every step on the record</h2>
+  <p>A traceable, cross-company workflow for mathematics: lanes run on models from different companies, every result is reviewed by a model from another company, machine-checked in Lean where possible, and published with an honest status.</p>
+  <div class="ab-grid">
+    <div class="ab-cell"><b>7 catalogue problems</b><span>answered from Open Problems in Numerical Linear Algebra (MI-15, IV-01, KE-02, TR-23, TR-25, TR-28, TR-29)</span></div>
+    <div class="ab-cell"><b>ProofAtlas #133</b><span>superlinear circuit lower bounds: a Lean-checked conditional answer</span></div>
+    <div class="ab-cell"><b>4 model families</b><span>Claude, Codex, DeepSeek and Qwen; no model reviews its own work</span></div>
+  </div>
+  <p class="ab-ask">We welcome your hardest questions. Write to <b>wenqi.zhu@maths.ox.ac.uk</b>.</p>
+  <a class="ab-cta" href="{{ '/ai-for-math/' | relative_url }}">Explore the Atlas &rarr;</a>
+</section>

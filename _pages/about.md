@@ -65,4 +65,6 @@ I also study exact sum-of-squares certificates for structured, sufficiently regu
 
 Before my D.Phil., I completed an M.Sc. in Mathematical Modelling and Scientific Computing at Oxford, ranked first in cohort, as well as a BA and MMath in Mathematics at Oxford. I also gained industry experience at Goldman Sachs and J.P. Morgan before returning to academic research.
 
-**Potential Collaborations:** If you are interested in optimization, AI for mathematics, or AI-integrated mathematical discovery, feel free to reach out.
+Since autumn 2026 I have been building a traceable, cross-company multi-agent workflow for mathematics; its results, each with an honest review status, are collected in the [AI for Mathematics Atlas](/ai-for-math/).
+
+**Potential Collaborations:** If you are interested in optimization, AI for mathematics, or AI-integrated mathematical discovery, feel free to reach out. We especially welcome hard open questions from other fields.
