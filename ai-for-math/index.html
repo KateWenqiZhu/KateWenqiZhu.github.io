@@ -103,6 +103,14 @@ nav a.l:hover,nav a.l:focus-visible{color:var(--ink)}
 .papers{list-style:none;margin:18px 0 0;padding:0;display:grid;gap:10px}
 .papers li{border:1px solid var(--line);border-radius:12px;padding:14px 16px;background:var(--panel);display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;align-items:center}
 .papers .t{font-weight:600}.papers .m{color:var(--mute);font-size:14px}
+.about .wrap{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:28px;align-items:start}
+.person{display:flex;gap:18px;align-items:flex-start;border:1px solid var(--line);border-radius:14px;padding:20px;background:rgba(6,41,79,.6)}
+.person img{width:112px;height:112px;border-radius:50%;object-fit:cover;border:2px solid var(--gold);flex:none}
+.person h3{margin:0;font-size:19px}
+.person .role{color:var(--gold);font-weight:600;font-size:14px;margin:2px 0 8px}
+.person p{color:var(--mute);margin:0 0 8px;font-size:15px}
+.person .pl a{margin-right:14px;font-size:14px}
+@media (max-width:760px){.about .wrap{grid-template-columns:1fr}.person{flex-direction:column}}
 .ask{background:var(--bg2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .ask .wrap{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:28px;align-items:center}
 .ask .box{border:1px solid var(--gold);border-radius:14px;padding:20px}
@@ -126,7 +134,7 @@ footer .wrap{display:flex;gap:16px;justify-content:space-between;flex-wrap:wrap}
 <body>
 <nav aria-label="Sections"><div class="wrap">
   <a class="brand" href="#top">AI for Mathematics <span>Atlas</span></a>
-  <a class="l" href="#results">Results</a><a class="l" href="#pursuing">Pursuing</a><a class="l" href="#workflow">Workflow</a><a class="l" href="#papers">Papers</a><a class="l" href="#ask">Ask us</a>
+  <a class="l" href="#results">Results</a><a class="l" href="#pursuing">Pursuing</a><a class="l" href="#workflow">Workflow</a><a class="l" href="#papers">Papers</a><a class="l" href="#about">About</a><a class="l" href="#ask">Ask us</a>
 </div></nav>
 
 <header class="hero band" id="top"><div class="wrap">
@@ -197,6 +205,23 @@ footer .wrap{display:flex;gap:16px;justify-content:space-between;flex-wrap:wrap}
   <h2>Papers and manuscripts</h2>
   <p class="lede">AI produces experiment logs. We understand, trace and check every step, and we write the papers ourselves. * marks the lead author. Full list on <a href="https://katewenqizhu.github.io/publications/">the publications page</a>.</p>
   <ul class="papers" id="pap"></ul>
+</div></section>
+
+<section class="band about" id="about"><div class="wrap">
+  <div>
+    <h2>About the Atlas</h2>
+    <p class="lede">The Atlas was started by researchers at the Mathematical Institute, University of Oxford, and is led by Kate Wenqi Zhu. It began in autumn 2026 as a test of a simple idea: AI systems from several companies can work on hard mathematics together, provided every step is recorded, checked by a model from a different company, and understood by a human before anything is claimed.</p>
+    <p class="lede">Ping Nie is the main collaborator on the catalogue results. Co-authors of each result are named on its card. The AI lanes run on models from Anthropic, OpenAI, DeepSeek and Qwen; the people are responsible for every statement and every manuscript.</p>
+  </div>
+  <div class="person">
+    <img src="lead.jpg" alt="Portrait of Kate Wenqi Zhu" width="112" height="112" loading="lazy">
+    <div>
+      <h3>Kate Wenqi Zhu</h3>
+      <div class="role">Lead</div>
+      <p>Postdoctoral researcher, AI Hub, Mathematical Institute, University of Oxford; Junior Research Fellow, Exeter College. Works on higher-order optimisation, exact sums-of-squares certificates and AI-assisted mathematical discovery. 2025 IMA Leslie Fox Prize in Numerical Analysis (Second Prize).</p>
+      <div class="pl"><a href="https://katewenqizhu.github.io/">Homepage</a><a href="https://katewenqizhu.github.io/publications/">Publications</a><a href="mailto:wenqi.zhu@maths.ox.ac.uk">Email</a></div>
+    </div>
+  </div>
 </div></section>
 
 <footer class="band"><div class="wrap">
